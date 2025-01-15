@@ -1,0 +1,2761 @@
+{
+    "url": "https://shopee.vn/M%C3%A1y-in-nhi%E1%BB%87t-mini-N43BT-ECOKING-k%E1%BA%BFt-n%E1%BB%91i-%C4%91i%E1%BB%87n-tho%E1%BA%A1i-latop-pc-in-%C4%91%C6%A1n-h%C3%A0ng-logo-minicode-phi%E1%BA%BFu-g%E1%BB%ADi-t%E1%BB%91c-%C4%91%E1%BB%99-in-c%E1%BB%B1c-nhanh-i.188032506.27312277956",
+    "status": "SUCCESS",
+    "responseBody": {
+        "bff_meta": null,
+        "error": null,
+        "error_msg": null,
+        "data": {
+            "item": {
+                "item_id": 27312277956,
+                "shop_id": 188032506,
+                "item_status": "normal",
+                "status": 1,
+                "item_type": 0,
+                "reference_item_id": "",
+                "title": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+                "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+                "label_ids": [
+                    1000254,
+                    1000259,
+                    1000264,
+                    1000265,
+                    1000270,
+                    1000279,
+                    1000742,
+                    1006856,
+                    1007525,
+                    1008793,
+                    1009396,
+                    1009763,
+                    1012191,
+                    1015839,
+                    1688758,
+                    1818952,
+                    298628367,
+                    298643408,
+                    298648466,
+                    700025213,
+                    700485088,
+                    700520057,
+                    1718087960,
+                    1428713,
+                    844931064601283,
+                    844931086908638,
+                    700520094,
+                    700605241,
+                    700610182,
+                    997971064,
+                    997971089,
+                    1400095093,
+                    1400460037,
+                    1400545247,
+                    1400545265,
+                    1400550263,
+                    1717997943,
+                    1717998018,
+                    1718088026,
+                    1718088155,
+                    1718088221,
+                    1883613,
+                    298413316,
+                    1883614,
+                    1119699,
+                    298703353,
+                    298748377,
+                    1918607,
+                    298733336,
+                    298763312,
+                    822059849520140,
+                    829011927934466,
+                    829011927936514,
+                    829013771222072,
+                    700515093,
+                    700000281,
+                    1400005269,
+                    1838577,
+                    1009063,
+                    998021017,
+                    1883641,
+                    298718385,
+                    298718384,
+                    298413327,
+                    1883642
+                ],
+                "is_adult": false,
+                "is_preview": false,
+                "flag": 196608,
+                "is_service_by_shopee": false,
+                "condition": 1,
+                "cat_id": 100644,
+                "has_low_fulfillment_rate": false,
+                "is_live_streaming_price": null,
+                "currency": "VND",
+                "brand": "Ecoking",
+                "brand_id": 3424793,
+                "show_discount": 51,
+                "ctime": 1727189306,
+                "item_rating": {
+                    "rating_star": 4.6923076923076925
+                },
+                "cb_option": 0,
+                "has_model_with_available_shopee_stock": false,
+                "shop_location": "Bình Dương",
+                "attributes": [
+                    {
+                        "name": "In hai mặt",
+                        "value": "Không",
+                        "id": 100419,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2516,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Độ phân giải in tối đa",
+                        "value": "300dpi",
+                        "id": 100416,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 5445,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Tốc độ in",
+                        "value": "30ppm",
+                        "id": 100455,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 5439,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Loại kết nối máy in",
+                        "value": "Bluetooth, USB",
+                        "id": 100480,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2641,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.5kg",
+                        "id": 100095,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 640,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Loại bảo hành",
+                        "value": "Bảo hành nhà sản xuất",
+                        "id": 100370,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2419,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Hạn bảo hành",
+                        "value": "12 tháng",
+                        "id": 100121,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 822,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Loại máy in",
+                        "value": "Máy in màu đơn sắc",
+                        "id": 100459,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2757,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Sản phẩm đặt theo yêu cầu",
+                        "value": "Không",
+                        "id": 101219,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 7222,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Has BSMI No.",
+                        "value": "Yes",
+                        "id": 101240,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 8549,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Tình trạng",
+                        "value": "Mới",
+                        "id": 100413,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2497,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "SIRIM Certified",
+                        "value": "Yes",
+                        "id": 101198,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 7057,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Có cáp/ Không cáp",
+                        "value": "Có cáp",
+                        "id": 100286,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2093,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Loại đầu cắm",
+                        "value": "UK/ SG",
+                        "id": 100493,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2791,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Tính năng máy in",
+                        "value": "IN",
+                        "id": 100456,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 0,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Cách in",
+                        "value": "GIẤY NHIỆT",
+                        "id": 100454,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 0,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Kích thước (dài x rộng x cao)",
+                        "value": "18 X 8 X 6 CM",
+                        "id": 100942,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 0,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Ngày sản xuất",
+                        "value": "1727110800",
+                        "id": 101060,
+                        "is_timestamp": true,
+                        "brand_option": null,
+                        "val_id": 0,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Tên tổ chức chịu trách nhiệm sản xuất",
+                        "value": "HPRT",
+                        "id": 101067,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 0,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Địa chỉ tổ chức chịu trách nhiệm sản xuất",
+                        "value": "BÌNH DƯƠNG",
+                        "id": 101068,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 0,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Dung lượng pin",
+                        "value": "0mAh",
+                        "id": 100272,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 0,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Tính năng máy in",
+                        "value": "IN NHIỆT",
+                        "id": 100457,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 0,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    }
+                ],
+                "rich_text_description": {
+                    "paragraph_list": [
+                        {
+                            "type": 0,
+                            "text": "*Máy in đơn hàng TMĐT N43BT ECOKING - Nhanh hơn in laser 7 lần, tiết kiệm hơn 30% ",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 0,
+                            "text": "Tặng kèm khay đựng giấy in + 50 tờ A6",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 0,
+                            "text": "------------------------------------------",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 1,
+                            "text": null,
+                            "img_id": "vn-11134208-7ras8-m0kbode8zedrc8",
+                            "ratio": 1,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "• Chất lượng in sắc nét với 203DPI",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "• Có thể kết nối bluetooth và in từ điện thoại Iphone hoặc Android",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "• Kích thước cực kỳ nhỏ gọn, tiết kiệm không gian",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "• Tương thích với nhiều nền tảng thương mại điện tử và đơn vị vận chuyển",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "• Bền bỉ và tuổi thọ lâu dài",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "• Tốc độ in lên đến 100mm/s với độ ổn định cao",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "• Tự động phát hiện nhãn và nạp giấy",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "• Ngoại hình hấp dẫn và bóng bẩy",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "• Hỗ trợ cài đặt 24/7",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 1,
+                            "text": null,
+                            "img_id": "vn-11134208-7ras8-m0kbode90sy789",
+                            "ratio": 1,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 1,
+                            "text": null,
+                            "img_id": "vn-11134208-7ras8-m0kbode927in21",
+                            "ratio": 1,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 1,
+                            "text": null,
+                            "img_id": "vn-11134208-7ras8-m0kbode93m3395",
+                            "ratio": 1,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 1,
+                            "text": null,
+                            "img_id": "vn-11134208-7ras8-m0kbode950nj73",
+                            "ratio": 1,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 0,
+                            "text": "*** Lưu ý: Khi in trên điện thoại, máy in HPRT N43BT sẽ không in được đơn trực tiếp từ 1 số sàn hoặc các app đơn vị vận chuyển, mọi người sẽ cần tải file đơn dưới dạng PDF về máy và mở trên app của nhà sản xuất để in",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "------------------------------------------",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 0,
+                            "text": "*Chi tiết sản phẩm :",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Loại máy:  Máy in nhiệt dính sẵn",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Cỡ giấy: Từ A6 trở xuống",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Độ phân giải:  203 dpi",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Tốc độ:  50-127mm/s",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Trọng lượng: 1.5kg",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Kết nối: USB + bluetooth",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Xuất xứ Trung Quốc",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Bảo hành màng in 6 tháng - phần cứng máy in 12 tháng",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "-------------------------------------",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "*Cam kết với khách hàng:",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Sản phẩm 100% giống mô tả",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Đảm bảo chất lượng, dịch vụ tốt nhất, hàng được giao từ 1-5 ngày kể từ ngày đặt hàng",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Đổi trả theo chính sách shopee",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "1. Điều kiện áp dụng (trong vòng 14 ngày kể từ khi nhận sản phẩm):",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Hàng hoá vẫn còn mới, chưa qua sử dụng",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Hàng hóa hư hỏng do vận chuyển hoặc do nhà sản xuất",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "2. Trường hợp được chấp nhận:",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Hàng không đúng chủng loại, mẫu mã như quý khách đặt hàng",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Không đủ số lượng, không đủ bộ như trong đơn hàng",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Tình trạng bên ngoài bị ảnh hưởng như rách bao bì, bong tróc, bể vỡ…",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "Tên sản phẩm:\tMáy in ECOKING N43BT",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "#mayin #may #in #mayinnhiet #innhiet #nhiet #mayingiay #ingiay #giay #mayinhoadon #inhoadon #mayinecoking #mayinnhiet #mayinkhongday",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        }
+                    ]
+                },
+                "invoice_option": null,
+                "is_category_failed": null,
+                "is_prescription_item": false,
+                "preview_info": null,
+                "show_prescription_feed": false,
+                "is_alcohol_product": false,
+                "is_infant_milk_formula_product": false,
+                "is_unavailable": false,
+                "is_partial_fulfilled": false,
+                "is_presale": false,
+                "is_presale_deposit_item": null,
+                "is_presale_deposit_made": null,
+                "description": "*Máy in đơn hàng TMĐT N43BT ECOKING - Nhanh hơn in laser 7 lần, tiết kiệm hơn 30% \nTặng kèm khay đựng giấy in + 50 tờ A6\n------------------------------------------\n\n\n\n• Chất lượng in sắc nét với 203DPI\n\n• Có thể kết nối bluetooth và in từ điện thoại Iphone hoặc Android\n\n• Kích thước cực kỳ nhỏ gọn, tiết kiệm không gian\n\n• Tương thích với nhiều nền tảng thương mại điện tử và đơn vị vận chuyển\n\n• Bền bỉ và tuổi thọ lâu dài\n\n• Tốc độ in lên đến 100mm/s với độ ổn định cao\n\n• Tự động phát hiện nhãn và nạp giấy\n\n• Ngoại hình hấp dẫn và bóng bẩy\n\n• Hỗ trợ cài đặt 24/7\n\n\n\n\n*** Lưu ý: Khi in trên điện thoại, máy in HPRT N43BT sẽ không in được đơn trực tiếp từ 1 số sàn hoặc các app đơn vị vận chuyển, mọi người sẽ cần tải file đơn dưới dạng PDF về máy và mở trên app của nhà sản xuất để in\n\n------------------------------------------\n*Chi tiết sản phẩm :\n\n- Loại máy:  Máy in nhiệt dính sẵn\n\n- Cỡ giấy: Từ A6 trở xuống\n\n- Độ phân giải:  203 dpi\n\n- Tốc độ:  50-127mm/s\n\n- Trọng lượng: 1.5kg\n\n- Kết nối: USB + bluetooth\n\n- Xuất xứ Trung Quốc\n\n- Bảo hành màng in 6 tháng - phần cứng máy in 12 tháng\n\n-------------------------------------\n\n*Cam kết với khách hàng:\n\n- Sản phẩm 100% giống mô tả\n\n- Đảm bảo chất lượng, dịch vụ tốt nhất, hàng được giao từ 1-5 ngày kể từ ngày đặt hàng\n\n- Đổi trả theo chính sách shopee\n\n1. Điều kiện áp dụng (trong vòng 14 ngày kể từ khi nhận sản phẩm):\n\n- Hàng hoá vẫn còn mới, chưa qua sử dụng\n\n- Hàng hóa hư hỏng do vận chuyển hoặc do nhà sản xuất\n\n2. Trường hợp được chấp nhận:\n\n- Hàng không đúng chủng loại, mẫu mã như quý khách đặt hàng\n\n- Không đủ số lượng, không đủ bộ như trong đơn hàng\n\n- Tình trạng bên ngoài bị ảnh hưởng như rách bao bì, bong tróc, bể vỡ…\n\nTên sản phẩm:\tMáy in ECOKING N43BT\n\n#mayin #may #in #mayinnhiet #innhiet #nhiet #mayingiay #ingiay #giay #mayinhoadon #inhoadon #mayinecoking #mayinnhiet #mayinkhongday",
+                "categories": [
+                    {
+                        "catid": 100644,
+                        "display_name": "Máy tính & Laptop",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 101939,
+                        "display_name": "Máy In & Máy Scan",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 101983,
+                        "display_name": "Máy In Mã Vạch",
+                        "no_sub": true,
+                        "is_default_subcat": false
+                    }
+                ],
+                "fe_categories": [
+                    {
+                        "catid": 11035954,
+                        "display_name": "Máy Tính & Laptop",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 11035993,
+                        "display_name": "Máy In, Máy Scan & Máy Chiếu",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 11035995,
+                        "display_name": "Máy In Mã Vạch",
+                        "no_sub": true,
+                        "is_default_subcat": false
+                    }
+                ],
+                "item_has_video": false,
+                "presale_dday_start_time": null,
+                "is_lowest_price_at_shopee": null,
+                "models": [
+                    {
+                        "item_id": 27312277956,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "10 tệp giấy in A7",
+                        "promotion_id": 77825902710784,
+                        "price": 39200000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 312
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": null,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": true,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                1
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 80000000000,
+                        "model_id": 166760940477,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27312277956,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "Máy in + giấy + khay",
+                        "promotion_id": 77825902710784,
+                        "price": 107800000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 312
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": null,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": true,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                0
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 220000000000,
+                        "model_id": 166760940476,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    }
+                ],
+                "tier_variations": [
+                    {
+                        "name": "SKU",
+                        "options": [
+                            "Máy in + giấy + khay",
+                            "10 tệp giấy in A7"
+                        ],
+                        "images": [
+                            "vn-11134207-7ras8-m1upprm79843d2",
+                            "vn-11134207-7ras8-m1ur5d5cze0v27"
+                        ],
+                        "properties": null,
+                        "type": 0,
+                        "summed_stocks": null,
+                        "display_indicators": [
+                            0,
+                            0
+                        ]
+                    }
+                ],
+                "size_chart": null,
+                "size_chart_info": null,
+                "welcome_package_type": 0,
+                "is_free_gift": false,
+                "deep_discount": null,
+                "is_low_price_eligible": null,
+                "bundle_deal_info": null,
+                "add_on_deal_info": null,
+                "shipping_icon_type": 0,
+                "badge_icon_type": 0,
+                "spl_info": {
+                    "installment_info": null,
+                    "user_credit_info": null,
+                    "channel_id": null,
+                    "show_spl": false,
+                    "show_spl_lite": null,
+                    "spl_xtra": null
+                },
+                "estimated_days": 2,
+                "is_pre_order": false,
+                "is_free_shipping": false,
+                "overall_purchase_limit": null,
+                "min_purchase_limit": 0,
+                "is_hide_stock": false,
+                "stock": null,
+                "normal_stock": null,
+                "current_promotion_reserved_stock": null,
+                "can_use_wholesale": false,
+                "wholesale_tier_list": [],
+                "price": 39200000000,
+                "raw_discount": 51,
+                "hidden_price_display": null,
+                "price_min": 39200000000,
+                "price_max": 107800000000,
+                "price_before_discount": 80000000000,
+                "price_min_before_discount": 80000000000,
+                "price_max_before_discount": 220000000000,
+                "other_stock": null,
+                "discount_stock": null,
+                "current_promotion_has_reserve_stock": true,
+                "complaint_policy": null,
+                "show_recycling_info": false,
+                "should_show_amp_tag": true,
+                "all_models_has_pre_order": false,
+                "is_item_inherited": false,
+                "max_quantity": 199758
+            },
+            "account": {
+                "user_id": null,
+                "is_new_user": null,
+                "default_address": {
+                    "state": "Hà Nội",
+                    "city": "Huyện Ba Vì",
+                    "district": "",
+                    "town": "",
+                    "zip_code": "",
+                    "address": null,
+                    "region": null,
+                    "longitude": null,
+                    "latitude": null
+                },
+                "adult_consent": null,
+                "birth_timestamp": null
+            },
+            "product_images": {
+                "video": {
+                    "video_id": "api/v4/11110105/mms/vn-11110105-6khw7-m1urlx6irfbn1d.16000081730000037.mp4",
+                    "thumb_url": "vn-11110105-7ras8-m1urn7z0aql84c",
+                    "duration": 56,
+                    "version": 2,
+                    "vid": "vn-11110105-6khw7-m1urlx6irfbn1d",
+                    "formats": [
+                        {
+                            "format": 1600008,
+                            "defn": "V720P",
+                            "profile": "MP4",
+                            "path": "api/v4/11110105/mms/vn-11110105-6khw7-m1urlx6irfbn1d.16000081730000037.mp4",
+                            "url": "https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw7-m1urlx6irfbn1d.16000081730000037.mp4",
+                            "width": 720,
+                            "height": 1280
+                        }
+                    ],
+                    "default_format": {
+                        "format": 1600323,
+                        "defn": "V540P",
+                        "profile": "MP4",
+                        "path": "",
+                        "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw7-m1urlx6irfbn1d.default.mp4",
+                        "width": 540,
+                        "height": 960
+                    },
+                    "mms_data": "{\"vid\":\"vn-11110105-6khw7-m1urlx6irfbn1d\",\"biz\":107,\"duration\":56034,\"create_time\":1730000033,\"update_time\":1730000039,\"serviceID\":2,\"cover\":\"https://down-bs-sg.img.susercontent.com/vn-11110105-7ras8-m1urn7z0aql84c\",\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6khw7-m1urlx6irfbn1d.16000081730000037.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw7-m1urlx6irfbn1d.16000081730000037.mp4\",\"width\":720,\"height\":1280,\"bitrate\":406680,\"abitrate\":127050,\"duration\":56040,\"size\":3786594,\"fps\":25,\"update_time\":1730000067,\"codec\":\"H264\"}],\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6khw7-m1urlx6irfbn1d.16003091730000100.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw7-m1urlx6irfbn1d.16003091730000100.mp4\",\"width\":720,\"height\":1280,\"bitrate\":147841,\"abitrate\":127050,\"duration\":56040,\"size\":1977097,\"fps\":25,\"update_time\":1730000132,\"codec\":\"H265\"}]},\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw7-m1urlx6irfbn1d.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":232160,\"abitrate\":64025,\"duration\":56040,\"size\":2122851,\"fps\":25,\"update_time\":1730000110,\"codec\":\"H264\"}}",
+                    "item_cover": null
+                },
+                "images": [
+                    "vn-11134207-7ras8-m0kbit9lxbl9db",
+                    "vn-11134207-7ras8-m0kbit9lvx0tf5",
+                    "vn-11134207-7ras8-m0kbit9lxbwv24",
+                    "vn-11134207-7ras8-m0kbit9lvxcf34",
+                    "vn-11134207-7ras8-m0kbit9luigdfb",
+                    "vn-11134207-7ras8-m0kbit9lyq5pc2",
+                    "vn-11134207-7ras8-m0kbit9m051rdf",
+                    "vn-11134207-7ras8-m0kbjiez1mkv90",
+                    "vn-11134207-7ras8-m0kbjiez1m994d"
+                ],
+                "first_tier_variations": [
+                    {
+                        "name": "Máy in + giấy + khay",
+                        "image": "vn-11134207-7ras8-m1upprm79843d2",
+                        "summed_stock": null,
+                        "display_indicator": 0
+                    },
+                    {
+                        "name": "10 tệp giấy in A7",
+                        "image": "vn-11134207-7ras8-m1ur5d5cze0v27",
+                        "summed_stock": null,
+                        "display_indicator": 0
+                    }
+                ],
+                "sorted_variation_image_index_list": [
+                    0,
+                    1
+                ],
+                "overlay": {
+                    "type": 0,
+                    "image": "vn-11134258-7ras8-m2w9az0rtyuyae",
+                    "preview_end_time": null,
+                    "is_pre_order": null,
+                    "description": ""
+                },
+                "makeup_preview": null,
+                "abnormal_status": "",
+                "promotion_images": [],
+                "long_images": null,
+                "shopee_video_info_list": [],
+                "shopee_video_rcmd_info": null,
+                "shopee_video_req_id": null,
+                "skincam": null,
+                "pdp_top_info_list": null,
+                "has_long_image": null
+            },
+            "product_price": {
+                "discount": 54,
+                "installment_info": null,
+                "spl_installment_info": null,
+                "pack_size": "",
+                "hide_price": false,
+                "price": {
+                    "single_value": 37200000000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "price_before_discount": {
+                    "single_value": 80000000000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "presale_price": null,
+                "lowest_past_price": null,
+                "labels": [
+                    {
+                        "type": 0,
+                        "text": "Miễn phí trả hàng",
+                        "color": "#26AA99",
+                        "display": "free_return",
+                        "exclusive_price": null,
+                        "promotion_id": null
+                    }
+                ],
+                "hide_discount": true,
+                "discount_text": null,
+                "show_final_price_indicator": true
+            },
+            "flash_sale": null,
+            "flash_sale_preview": null,
+            "deep_discount": null,
+            "exclusive_price": null,
+            "exclusive_price_cta": null,
+            "product_meta": {
+                "show_lowest_price_guarantee": false,
+                "show_original_guarantee": false,
+                "show_best_price_guarantee": false,
+                "show_official_shop_label_in_title": true,
+                "show_shopee_verified_label": false,
+                "show_lowest_installment_guarantee": false,
+                "hide_sharing_button": false,
+                "hide_sold_count": false
+            },
+            "product_review": {
+                "rating_star": 4.6923076923076925,
+                "rating_count": [
+                    13,
+                    1,
+                    0,
+                    0,
+                    0,
+                    12
+                ],
+                "total_rating_count": 13,
+                "historical_sold": null,
+                "global_sold": null,
+                "liked": false,
+                "liked_count": 21,
+                "cmt_count": 13,
+                "should_move_ratings_above": null,
+                "review_rcmd_exp_group": null,
+                "display_global_sold": false,
+                "hide_rating": false,
+                "hide_buyer_gallery": false,
+                "hide_reviews": false,
+                "hide_other_product_reviews_in_shop": false
+            },
+            "promotion_info": {
+                "spl": null,
+                "spl_lite": null,
+                "installment": null,
+                "wholesale": null,
+                "insurance": {
+                    "rows": [
+                        {
+                            "product_id": "1559772006986024201",
+                            "title": "Bảo hiểm Thiết bị điện tử",
+                            "text": "Tìm hiểu thêm",
+                            "badge_text": "",
+                            "url": "https://insurance.shopee.vn/ec/ec-pdp.html?from=pdp&locale=vi&product_id=1559772006986024201"
+                        }
+                    ]
+                },
+                "item_installment_eligibility": {
+                    "is_cc_installment_payment_eligible": false,
+                    "is_non_cc_installment_payment_eligible": false
+                }
+            },
+            "age_gate": {
+                "kyc": null
+            },
+            "shipping_meta": null,
+            "product_shipping": {
+                "free_shipping": {
+                    "min_spend": null,
+                    "has_fss": false
+                },
+                "shipping_fee_info": {
+                    "ship_from_location": "Bình Dương",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "shipping_icon_type": 0,
+                    "warning": null
+                },
+                "show_shipping_to": true,
+                "ungrouped_channel_infos": [
+                    {
+                        "channel_id": 5004,
+                        "name": "Hàng Cồng Kềnh",
+                        "price": {
+                            "single_value": 0,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": null
+                        },
+                        "price_before_discount": {
+                            "single_value": 4250000000,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": null
+                        },
+                        "channel_delivery_info": {
+                            "has_edt": true,
+                            "display_mode": "edt_by_date",
+                            "estimated_delivery_date_from": 1732694129,
+                            "estimated_delivery_date_to": 1732885618,
+                            "estimated_delivery_time_min": 1,
+                            "estimated_delivery_time_max": 3,
+                            "delay_message": null,
+                            "is_fastest_edt_channel": true,
+                            "sla_message": "",
+                            "show_edt": true,
+                            "edt_text": "Nhận hàng 27 Th11 - 29 Th11"
+                        },
+                        "channel_promotion_infos": [
+                            {
+                                "rule_id": 187963900756268,
+                                "type": 1,
+                                "display_mode": null,
+                                "discount_off": null,
+                                "min_spend": {
+                                    "single_value": 0,
+                                    "range_min": -1,
+                                    "range_max": -1,
+                                    "price_mask": null
+                                },
+                                "cap": null
+                            },
+                            {
+                                "rule_id": 254950626627584,
+                                "type": 1,
+                                "display_mode": null,
+                                "discount_off": null,
+                                "min_spend": {
+                                    "single_value": 50000000000,
+                                    "range_min": -1,
+                                    "range_max": -1,
+                                    "price_mask": null
+                                },
+                                "cap": null
+                            }
+                        ],
+                        "warning": null,
+                        "shipping_icon_type": null,
+                        "lowest_bpsf_promotion_rule": null,
+                        "service_type_info": "Bulky (new)",
+                        "is_integrated_channel": true,
+                        "late_delivery_compensation": null,
+                        "is_sst_included": false,
+                        "display_text": {
+                            "late_delivery_compensation": null,
+                            "direct_delivery": null,
+                            "fulfilled_by_shopee": null
+                        },
+                        "rule_type": 0
+                    },
+                    {
+                        "channel_id": 5001,
+                        "name": "Nhanh",
+                        "price": {
+                            "single_value": 0,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": null
+                        },
+                        "price_before_discount": {
+                            "single_value": 4250000000,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": null
+                        },
+                        "channel_delivery_info": {
+                            "has_edt": true,
+                            "display_mode": "edt_by_date",
+                            "estimated_delivery_date_from": 1732851341,
+                            "estimated_delivery_date_to": 1732937741,
+                            "estimated_delivery_time_min": 3,
+                            "estimated_delivery_time_max": 4,
+                            "delay_message": null,
+                            "is_fastest_edt_channel": false,
+                            "sla_message": "",
+                            "show_edt": true,
+                            "edt_text": "Nhận hàng 29 Th11 - 30 Th11"
+                        },
+                        "channel_promotion_infos": [
+                            {
+                                "rule_id": 187963900756268,
+                                "type": 1,
+                                "display_mode": null,
+                                "discount_off": null,
+                                "min_spend": {
+                                    "single_value": 0,
+                                    "range_min": -1,
+                                    "range_max": -1,
+                                    "price_mask": null
+                                },
+                                "cap": null
+                            },
+                            {
+                                "rule_id": 254950626627584,
+                                "type": 1,
+                                "display_mode": null,
+                                "discount_off": null,
+                                "min_spend": {
+                                    "single_value": 50000000000,
+                                    "range_min": -1,
+                                    "range_max": -1,
+                                    "price_mask": null
+                                },
+                                "cap": null
+                            }
+                        ],
+                        "warning": null,
+                        "shipping_icon_type": null,
+                        "lowest_bpsf_promotion_rule": null,
+                        "service_type_info": "standard",
+                        "is_integrated_channel": true,
+                        "late_delivery_compensation": null,
+                        "is_sst_included": false,
+                        "display_text": {
+                            "late_delivery_compensation": null,
+                            "direct_delivery": null,
+                            "fulfilled_by_shopee": null
+                        },
+                        "rule_type": 0
+                    },
+                    {
+                        "channel_id": 5000,
+                        "name": "Hỏa Tốc",
+                        "price": {
+                            "single_value": 0,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": null
+                        },
+                        "price_before_discount": null,
+                        "channel_delivery_info": {
+                            "has_edt": false,
+                            "display_mode": null,
+                            "estimated_delivery_date_from": null,
+                            "estimated_delivery_date_to": null,
+                            "estimated_delivery_time_min": null,
+                            "estimated_delivery_time_max": null,
+                            "delay_message": null,
+                            "is_fastest_edt_channel": false,
+                            "sla_message": "",
+                            "show_edt": null,
+                            "edt_text": null
+                        },
+                        "channel_promotion_infos": null,
+                        "warning": {
+                            "type": "unsupported_address",
+                            "warning_msg": "Không hỗ trợ"
+                        },
+                        "shipping_icon_type": null,
+                        "lowest_bpsf_promotion_rule": null,
+                        "service_type_info": "instant",
+                        "is_integrated_channel": true,
+                        "late_delivery_compensation": null,
+                        "is_sst_included": false,
+                        "display_text": {
+                            "late_delivery_compensation": null,
+                            "direct_delivery": null,
+                            "fulfilled_by_shopee": null
+                        },
+                        "rule_type": 0
+                    },
+                    {
+                        "channel_id": 5002,
+                        "name": "Tiết kiệm",
+                        "price": {
+                            "single_value": 0,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": null
+                        },
+                        "price_before_discount": null,
+                        "channel_delivery_info": {
+                            "has_edt": false,
+                            "display_mode": null,
+                            "estimated_delivery_date_from": null,
+                            "estimated_delivery_date_to": null,
+                            "estimated_delivery_time_min": null,
+                            "estimated_delivery_time_max": null,
+                            "delay_message": null,
+                            "is_fastest_edt_channel": false,
+                            "sla_message": "",
+                            "show_edt": null,
+                            "edt_text": null
+                        },
+                        "channel_promotion_infos": null,
+                        "warning": {
+                            "type": "unsupported_address",
+                            "warning_msg": "Không hỗ trợ"
+                        },
+                        "shipping_icon_type": null,
+                        "lowest_bpsf_promotion_rule": null,
+                        "service_type_info": "economy",
+                        "is_integrated_channel": true,
+                        "late_delivery_compensation": null,
+                        "is_sst_included": false,
+                        "display_text": {
+                            "late_delivery_compensation": null,
+                            "direct_delivery": null,
+                            "fulfilled_by_shopee": null
+                        },
+                        "rule_type": 0
+                    }
+                ],
+                "grouped_channel_infos_by_service_type": [],
+                "also_available_channel_name": "",
+                "pre_selected_shipping_channel": {
+                    "channel_id": 5004,
+                    "name": "Hàng Cồng Kềnh",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": ""
+                    },
+                    "price_before_discount": {
+                        "single_value": 4250000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": ""
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1732694129,
+                        "estimated_delivery_date_to": 1732885618,
+                        "estimated_delivery_time_min": 1,
+                        "estimated_delivery_time_max": 3,
+                        "delay_message": "",
+                        "is_fastest_edt_channel": true,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "Nhận hàng 27 Th11 - 29 Th11"
+                    },
+                    "channel_promotion_infos": [
+                        {
+                            "rule_id": 187963900756268,
+                            "type": 1,
+                            "display_mode": 0,
+                            "discount_off": 0,
+                            "min_spend": {
+                                "single_value": 0,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": ""
+                            },
+                            "cap": 0
+                        },
+                        {
+                            "rule_id": 254950626627584,
+                            "type": 1,
+                            "display_mode": 0,
+                            "discount_off": 0,
+                            "min_spend": {
+                                "single_value": 50000000000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": ""
+                            },
+                            "cap": 0
+                        }
+                    ],
+                    "warning": {
+                        "type": "",
+                        "warning_msg": ""
+                    },
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "Bulky (new)",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null
+                    },
+                    "rule_type": 0
+                },
+                "show_grouped_channel_first": false,
+                "is_item_with_price_range": true,
+                "also_available_channel_icon_type": null,
+                "pre_order_text": "",
+                "selected_late_delivery_compensation_for_drawer": null,
+                "shipping_info_text": {
+                    "text_template": null,
+                    "shipping_fee": null,
+                    "edt_from": null,
+                    "edt_to": null,
+                    "show_shipping_fee_suffix": true
+                }
+            },
+            "shop_vouchers": [
+                {
+                    "promotionid": 975211936124928,
+                    "voucher_code": "MAYI20T",
+                    "signature": "be1ee51b1c012b7ff4aef497b1f81105fcb3c1e874f5dde6debe294c27f54d30",
+                    "use_type": null,
+                    "platform_type": null,
+                    "voucher_market_type": null,
+                    "min_spend": 5000000000,
+                    "used_price": 2000000000,
+                    "current_spend": null,
+                    "product_limit": false,
+                    "quota_type": 1,
+                    "percentage_claimed": 0,
+                    "percentage_used": 10,
+                    "start_time": 1725714000,
+                    "end_time": 1733752800,
+                    "collect_time": null,
+                    "claim_start_time": null,
+                    "valid_days": null,
+                    "reward_type": 0,
+                    "reward_percentage": 0,
+                    "reward_value": 2000000000,
+                    "reward_cap": 0,
+                    "coin_earned": null,
+                    "title": "",
+                    "use_link": null,
+                    "icon_hash": "3b9282ce9affc7188ecbbda5fc6dbbdb",
+                    "icon_text": "ECOKING",
+                    "icon_url": null,
+                    "customised_labels": [
+                        {
+                            "content": "Voucher cho đơn hàng thứ 2"
+                        }
+                    ],
+                    "customised_product_scope_tags": null,
+                    "shop_id": 188032506,
+                    "shop_name": null,
+                    "is_shop_preferred": false,
+                    "is_shop_official": true,
+                    "shop_count": null,
+                    "ui_display_type": null,
+                    "customised_mall_name": null,
+                    "small_icon_list": null,
+                    "dp_category_name": null,
+                    "invalid_message_code": null,
+                    "invalid_message": null,
+                    "display_labels": null,
+                    "wallet_redeemable": null,
+                    "customer_reference_id": null,
+                    "fully_redeemed": null,
+                    "has_expired": null,
+                    "disabled": null,
+                    "voucher_external_market_type": null,
+                    "now_food_extra_info": null,
+                    "airpay_opv_extra_info": null,
+                    "partner_extra_info": null,
+                    "discount_value": 2000000000,
+                    "discount_percentage": 0,
+                    "discount_cap": 0,
+                    "coin_percentage": null,
+                    "coin_cap": null,
+                    "usage_limit": null,
+                    "used_count": null,
+                    "left_count": null,
+                    "shopee_wallet_only": null,
+                    "new_user_only": null,
+                    "description": null,
+                    "shop_logo": null,
+                    "error_code": 0,
+                    "is_claimed_before": false,
+                    "customised_product_scope_tag_image_hash": null,
+                    "usage_limit_per_user": 1,
+                    "remaining_usage_limit": 1,
+                    "action": null,
+                    "sub_icon_text": null,
+                    "is_customised_icon": null,
+                    "fixed_flag": null,
+                    "customised_flag": null,
+                    "fsv_voucher_card_ui_info": null
+                },
+                {
+                    "promotionid": 975203992375296,
+                    "voucher_code": "MAYI20K",
+                    "signature": "a9b57d9c97d2a71efc321094d274d6d62deb75ff11dd59f2b1f10db0b246e57f",
+                    "use_type": null,
+                    "platform_type": null,
+                    "voucher_market_type": null,
+                    "min_spend": 29900000000,
+                    "used_price": 2000000000,
+                    "current_spend": null,
+                    "product_limit": false,
+                    "quota_type": 1,
+                    "percentage_claimed": 0,
+                    "percentage_used": 10,
+                    "start_time": 1725713100,
+                    "end_time": 1733751900,
+                    "collect_time": null,
+                    "claim_start_time": null,
+                    "valid_days": null,
+                    "reward_type": 0,
+                    "reward_percentage": 0,
+                    "reward_value": 2000000000,
+                    "reward_cap": 0,
+                    "coin_earned": null,
+                    "title": "",
+                    "use_link": null,
+                    "icon_hash": "3b9282ce9affc7188ecbbda5fc6dbbdb",
+                    "icon_text": "ECOKING",
+                    "icon_url": null,
+                    "customised_labels": [],
+                    "customised_product_scope_tags": null,
+                    "shop_id": 188032506,
+                    "shop_name": null,
+                    "is_shop_preferred": false,
+                    "is_shop_official": true,
+                    "shop_count": null,
+                    "ui_display_type": null,
+                    "customised_mall_name": null,
+                    "small_icon_list": null,
+                    "dp_category_name": null,
+                    "invalid_message_code": null,
+                    "invalid_message": null,
+                    "display_labels": null,
+                    "wallet_redeemable": null,
+                    "customer_reference_id": null,
+                    "fully_redeemed": null,
+                    "has_expired": null,
+                    "disabled": null,
+                    "voucher_external_market_type": null,
+                    "now_food_extra_info": null,
+                    "airpay_opv_extra_info": null,
+                    "partner_extra_info": null,
+                    "discount_value": 2000000000,
+                    "discount_percentage": 0,
+                    "discount_cap": 0,
+                    "coin_percentage": null,
+                    "coin_cap": null,
+                    "usage_limit": null,
+                    "used_count": null,
+                    "left_count": null,
+                    "shopee_wallet_only": null,
+                    "new_user_only": null,
+                    "description": null,
+                    "shop_logo": null,
+                    "error_code": 0,
+                    "is_claimed_before": false,
+                    "customised_product_scope_tag_image_hash": null,
+                    "usage_limit_per_user": 1,
+                    "remaining_usage_limit": 1,
+                    "action": null,
+                    "sub_icon_text": null,
+                    "is_customised_icon": null,
+                    "fixed_flag": null,
+                    "customised_flag": null,
+                    "fsv_voucher_card_ui_info": null
+                },
+                {
+                    "promotionid": 975203455242240,
+                    "voucher_code": "MAYI10T",
+                    "signature": "5184cd1fadaa63bd47a7f39e28d64929cf8b97cd811436903a6c82751e18b85c",
+                    "use_type": null,
+                    "platform_type": null,
+                    "voucher_market_type": null,
+                    "min_spend": 14900000000,
+                    "used_price": 1000000000,
+                    "current_spend": null,
+                    "product_limit": false,
+                    "quota_type": 1,
+                    "percentage_claimed": 0,
+                    "percentage_used": 10,
+                    "start_time": 1725713040,
+                    "end_time": 1733751840,
+                    "collect_time": null,
+                    "claim_start_time": null,
+                    "valid_days": null,
+                    "reward_type": 0,
+                    "reward_percentage": 0,
+                    "reward_value": 1000000000,
+                    "reward_cap": 0,
+                    "coin_earned": null,
+                    "title": "",
+                    "use_link": null,
+                    "icon_hash": "3b9282ce9affc7188ecbbda5fc6dbbdb",
+                    "icon_text": "ECOKING",
+                    "icon_url": null,
+                    "customised_labels": [],
+                    "customised_product_scope_tags": null,
+                    "shop_id": 188032506,
+                    "shop_name": null,
+                    "is_shop_preferred": false,
+                    "is_shop_official": true,
+                    "shop_count": null,
+                    "ui_display_type": null,
+                    "customised_mall_name": null,
+                    "small_icon_list": null,
+                    "dp_category_name": null,
+                    "invalid_message_code": null,
+                    "invalid_message": null,
+                    "display_labels": null,
+                    "wallet_redeemable": null,
+                    "customer_reference_id": null,
+                    "fully_redeemed": null,
+                    "has_expired": null,
+                    "disabled": null,
+                    "voucher_external_market_type": null,
+                    "now_food_extra_info": null,
+                    "airpay_opv_extra_info": null,
+                    "partner_extra_info": null,
+                    "discount_value": 1000000000,
+                    "discount_percentage": 0,
+                    "discount_cap": 0,
+                    "coin_percentage": null,
+                    "coin_cap": null,
+                    "usage_limit": null,
+                    "used_count": null,
+                    "left_count": null,
+                    "shopee_wallet_only": null,
+                    "new_user_only": null,
+                    "description": null,
+                    "shop_logo": null,
+                    "error_code": 0,
+                    "is_claimed_before": false,
+                    "customised_product_scope_tag_image_hash": null,
+                    "usage_limit_per_user": 1,
+                    "remaining_usage_limit": 1,
+                    "action": null,
+                    "sub_icon_text": null,
+                    "is_customised_icon": null,
+                    "fixed_flag": null,
+                    "customised_flag": null,
+                    "fsv_voucher_card_ui_info": null
+                },
+                {
+                    "promotionid": 975203111440384,
+                    "voucher_code": "MAYI5T",
+                    "signature": "ab8b9158b03b1ead9b6f6dd6d094f36854354f8d47536afc55fae6b59d2ae3da",
+                    "use_type": null,
+                    "platform_type": null,
+                    "voucher_market_type": null,
+                    "min_spend": 9900000000,
+                    "used_price": 500000000,
+                    "current_spend": null,
+                    "product_limit": false,
+                    "quota_type": 1,
+                    "percentage_claimed": 0,
+                    "percentage_used": 15,
+                    "start_time": 1725712980,
+                    "end_time": 1733751780,
+                    "collect_time": null,
+                    "claim_start_time": null,
+                    "valid_days": null,
+                    "reward_type": 0,
+                    "reward_percentage": 0,
+                    "reward_value": 500000000,
+                    "reward_cap": 0,
+                    "coin_earned": null,
+                    "title": "",
+                    "use_link": null,
+                    "icon_hash": "3b9282ce9affc7188ecbbda5fc6dbbdb",
+                    "icon_text": "ECOKING",
+                    "icon_url": null,
+                    "customised_labels": [],
+                    "customised_product_scope_tags": null,
+                    "shop_id": 188032506,
+                    "shop_name": null,
+                    "is_shop_preferred": false,
+                    "is_shop_official": true,
+                    "shop_count": null,
+                    "ui_display_type": null,
+                    "customised_mall_name": null,
+                    "small_icon_list": null,
+                    "dp_category_name": null,
+                    "invalid_message_code": null,
+                    "invalid_message": null,
+                    "display_labels": null,
+                    "wallet_redeemable": null,
+                    "customer_reference_id": null,
+                    "fully_redeemed": null,
+                    "has_expired": null,
+                    "disabled": null,
+                    "voucher_external_market_type": null,
+                    "now_food_extra_info": null,
+                    "airpay_opv_extra_info": null,
+                    "partner_extra_info": null,
+                    "discount_value": 500000000,
+                    "discount_percentage": 0,
+                    "discount_cap": 0,
+                    "coin_percentage": null,
+                    "coin_cap": null,
+                    "usage_limit": null,
+                    "used_count": null,
+                    "left_count": null,
+                    "shopee_wallet_only": null,
+                    "new_user_only": null,
+                    "description": null,
+                    "shop_logo": null,
+                    "error_code": 0,
+                    "is_claimed_before": false,
+                    "customised_product_scope_tag_image_hash": null,
+                    "usage_limit_per_user": 1,
+                    "remaining_usage_limit": 1,
+                    "action": null,
+                    "sub_icon_text": null,
+                    "is_customised_icon": null,
+                    "fixed_flag": null,
+                    "customised_flag": null,
+                    "fsv_voucher_card_ui_info": null
+                },
+                {
+                    "promotionid": 975205494722560,
+                    "voucher_code": "MAYI50T",
+                    "signature": "be65d1d208abf482c6cf2dbc378560061931de6853c39519bfcd492718d9cb3a",
+                    "use_type": null,
+                    "platform_type": null,
+                    "voucher_market_type": null,
+                    "min_spend": 99900000000,
+                    "used_price": 5000000000,
+                    "current_spend": null,
+                    "product_limit": false,
+                    "quota_type": 1,
+                    "percentage_claimed": 0,
+                    "percentage_used": 10,
+                    "start_time": 1725713280,
+                    "end_time": 1733752080,
+                    "collect_time": null,
+                    "claim_start_time": null,
+                    "valid_days": null,
+                    "reward_type": 0,
+                    "reward_percentage": 0,
+                    "reward_value": 5000000000,
+                    "reward_cap": 0,
+                    "coin_earned": null,
+                    "title": "",
+                    "use_link": null,
+                    "icon_hash": "3b9282ce9affc7188ecbbda5fc6dbbdb",
+                    "icon_text": "ECOKING",
+                    "icon_url": null,
+                    "customised_labels": [],
+                    "customised_product_scope_tags": null,
+                    "shop_id": 188032506,
+                    "shop_name": null,
+                    "is_shop_preferred": false,
+                    "is_shop_official": true,
+                    "shop_count": null,
+                    "ui_display_type": null,
+                    "customised_mall_name": null,
+                    "small_icon_list": null,
+                    "dp_category_name": null,
+                    "invalid_message_code": null,
+                    "invalid_message": null,
+                    "display_labels": null,
+                    "wallet_redeemable": null,
+                    "customer_reference_id": null,
+                    "fully_redeemed": null,
+                    "has_expired": null,
+                    "disabled": null,
+                    "voucher_external_market_type": null,
+                    "now_food_extra_info": null,
+                    "airpay_opv_extra_info": null,
+                    "partner_extra_info": null,
+                    "discount_value": 5000000000,
+                    "discount_percentage": 0,
+                    "discount_cap": 0,
+                    "coin_percentage": null,
+                    "coin_cap": null,
+                    "usage_limit": null,
+                    "used_count": null,
+                    "left_count": null,
+                    "shopee_wallet_only": null,
+                    "new_user_only": null,
+                    "description": null,
+                    "shop_logo": null,
+                    "error_code": 9,
+                    "is_claimed_before": false,
+                    "customised_product_scope_tag_image_hash": null,
+                    "usage_limit_per_user": 1,
+                    "remaining_usage_limit": 1,
+                    "action": null,
+                    "sub_icon_text": null,
+                    "is_customised_icon": null,
+                    "fixed_flag": null,
+                    "customised_flag": null,
+                    "fsv_voucher_card_ui_info": null
+                },
+                {
+                    "promotionid": 975206777262080,
+                    "voucher_code": "MAYI100T",
+                    "signature": "f453e51eceabb42c19b8a1733afef27b53f8bf6baa2f29d357bb61fd72d0e980",
+                    "use_type": null,
+                    "platform_type": null,
+                    "voucher_market_type": null,
+                    "min_spend": 259900000000,
+                    "used_price": 10000000000,
+                    "current_spend": null,
+                    "product_limit": false,
+                    "quota_type": 1,
+                    "percentage_claimed": 0,
+                    "percentage_used": 10,
+                    "start_time": 1725713400,
+                    "end_time": 1733752200,
+                    "collect_time": null,
+                    "claim_start_time": null,
+                    "valid_days": null,
+                    "reward_type": 0,
+                    "reward_percentage": 0,
+                    "reward_value": 10000000000,
+                    "reward_cap": 0,
+                    "coin_earned": null,
+                    "title": "",
+                    "use_link": null,
+                    "icon_hash": "3b9282ce9affc7188ecbbda5fc6dbbdb",
+                    "icon_text": "ECOKING",
+                    "icon_url": null,
+                    "customised_labels": [],
+                    "customised_product_scope_tags": null,
+                    "shop_id": 188032506,
+                    "shop_name": null,
+                    "is_shop_preferred": false,
+                    "is_shop_official": true,
+                    "shop_count": null,
+                    "ui_display_type": null,
+                    "customised_mall_name": null,
+                    "small_icon_list": null,
+                    "dp_category_name": null,
+                    "invalid_message_code": null,
+                    "invalid_message": null,
+                    "display_labels": null,
+                    "wallet_redeemable": null,
+                    "customer_reference_id": null,
+                    "fully_redeemed": null,
+                    "has_expired": null,
+                    "disabled": null,
+                    "voucher_external_market_type": null,
+                    "now_food_extra_info": null,
+                    "airpay_opv_extra_info": null,
+                    "partner_extra_info": null,
+                    "discount_value": 10000000000,
+                    "discount_percentage": 0,
+                    "discount_cap": 0,
+                    "coin_percentage": null,
+                    "coin_cap": null,
+                    "usage_limit": null,
+                    "used_count": null,
+                    "left_count": null,
+                    "shopee_wallet_only": null,
+                    "new_user_only": null,
+                    "description": null,
+                    "shop_logo": null,
+                    "error_code": 9,
+                    "is_claimed_before": false,
+                    "customised_product_scope_tag_image_hash": null,
+                    "usage_limit_per_user": 1,
+                    "remaining_usage_limit": 1,
+                    "action": null,
+                    "sub_icon_text": null,
+                    "is_customised_icon": null,
+                    "fixed_flag": null,
+                    "customised_flag": null,
+                    "fsv_voucher_card_ui_info": null
+                },
+                {
+                    "promotionid": 975207306661888,
+                    "voucher_code": "MAYI200T",
+                    "signature": "a13e518cb6a54934d87084e0a0e27c0df1901111e2001584c2e72f122aef5d8e",
+                    "use_type": null,
+                    "platform_type": null,
+                    "voucher_market_type": null,
+                    "min_spend": 359900000000,
+                    "used_price": 20000000000,
+                    "current_spend": null,
+                    "product_limit": false,
+                    "quota_type": 1,
+                    "percentage_claimed": 0,
+                    "percentage_used": 10,
+                    "start_time": 1725713520,
+                    "end_time": 1733752320,
+                    "collect_time": null,
+                    "claim_start_time": null,
+                    "valid_days": null,
+                    "reward_type": 0,
+                    "reward_percentage": 0,
+                    "reward_value": 20000000000,
+                    "reward_cap": 0,
+                    "coin_earned": null,
+                    "title": "",
+                    "use_link": null,
+                    "icon_hash": "3b9282ce9affc7188ecbbda5fc6dbbdb",
+                    "icon_text": "ECOKING",
+                    "icon_url": null,
+                    "customised_labels": [],
+                    "customised_product_scope_tags": null,
+                    "shop_id": 188032506,
+                    "shop_name": null,
+                    "is_shop_preferred": false,
+                    "is_shop_official": true,
+                    "shop_count": null,
+                    "ui_display_type": null,
+                    "customised_mall_name": null,
+                    "small_icon_list": null,
+                    "dp_category_name": null,
+                    "invalid_message_code": null,
+                    "invalid_message": null,
+                    "display_labels": null,
+                    "wallet_redeemable": null,
+                    "customer_reference_id": null,
+                    "fully_redeemed": null,
+                    "has_expired": null,
+                    "disabled": null,
+                    "voucher_external_market_type": null,
+                    "now_food_extra_info": null,
+                    "airpay_opv_extra_info": null,
+                    "partner_extra_info": null,
+                    "discount_value": 20000000000,
+                    "discount_percentage": 0,
+                    "discount_cap": 0,
+                    "coin_percentage": null,
+                    "coin_cap": null,
+                    "usage_limit": null,
+                    "used_count": null,
+                    "left_count": null,
+                    "shopee_wallet_only": null,
+                    "new_user_only": null,
+                    "description": null,
+                    "shop_logo": null,
+                    "error_code": 9,
+                    "is_claimed_before": false,
+                    "customised_product_scope_tag_image_hash": null,
+                    "usage_limit_per_user": 1,
+                    "remaining_usage_limit": 1,
+                    "action": null,
+                    "sub_icon_text": null,
+                    "is_customised_icon": null,
+                    "fixed_flag": null,
+                    "customised_flag": null,
+                    "fsv_voucher_card_ui_info": null
+                },
+                {
+                    "promotionid": 975207884427264,
+                    "voucher_code": "MAYI500T",
+                    "signature": "4f9c16d6a4b938eec52ca179fe829cdba68c3746e7904313a84168c463c9646b",
+                    "use_type": null,
+                    "platform_type": null,
+                    "voucher_market_type": null,
+                    "min_spend": 759900000000,
+                    "used_price": 39200000000,
+                    "current_spend": null,
+                    "product_limit": false,
+                    "quota_type": 1,
+                    "percentage_claimed": 0,
+                    "percentage_used": 10,
+                    "start_time": 1725713580,
+                    "end_time": 1733752380,
+                    "collect_time": null,
+                    "claim_start_time": null,
+                    "valid_days": null,
+                    "reward_type": 0,
+                    "reward_percentage": 0,
+                    "reward_value": 50000000000,
+                    "reward_cap": 0,
+                    "coin_earned": null,
+                    "title": "",
+                    "use_link": null,
+                    "icon_hash": "3b9282ce9affc7188ecbbda5fc6dbbdb",
+                    "icon_text": "ECOKING",
+                    "icon_url": null,
+                    "customised_labels": [],
+                    "customised_product_scope_tags": null,
+                    "shop_id": 188032506,
+                    "shop_name": null,
+                    "is_shop_preferred": false,
+                    "is_shop_official": true,
+                    "shop_count": null,
+                    "ui_display_type": null,
+                    "customised_mall_name": null,
+                    "small_icon_list": null,
+                    "dp_category_name": null,
+                    "invalid_message_code": null,
+                    "invalid_message": null,
+                    "display_labels": null,
+                    "wallet_redeemable": null,
+                    "customer_reference_id": null,
+                    "fully_redeemed": null,
+                    "has_expired": null,
+                    "disabled": null,
+                    "voucher_external_market_type": null,
+                    "now_food_extra_info": null,
+                    "airpay_opv_extra_info": null,
+                    "partner_extra_info": null,
+                    "discount_value": 50000000000,
+                    "discount_percentage": 0,
+                    "discount_cap": 0,
+                    "coin_percentage": null,
+                    "coin_cap": null,
+                    "usage_limit": null,
+                    "used_count": null,
+                    "left_count": null,
+                    "shopee_wallet_only": null,
+                    "new_user_only": null,
+                    "description": null,
+                    "shop_logo": null,
+                    "error_code": 9,
+                    "is_claimed_before": false,
+                    "customised_product_scope_tag_image_hash": null,
+                    "usage_limit_per_user": 1,
+                    "remaining_usage_limit": 1,
+                    "action": null,
+                    "sub_icon_text": null,
+                    "is_customised_icon": null,
+                    "fixed_flag": null,
+                    "customised_flag": null,
+                    "fsv_voucher_card_ui_info": null
+                }
+            ],
+            "free_return": null,
+            "coin_info": {
+                "spend_cash_unit": 100000,
+                "coin_earn_items": [
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    }
+                ],
+                "coin_earn_label": null
+            },
+            "product_attributes": {
+                "attrs": [
+                    {
+                        "name": "Số lượng hàng khuyến mãi",
+                        "value": "20",
+                        "id": null,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 9
+                    },
+                    {
+                        "name": "Số sản phẩm còn lại",
+                        "value": "199818",
+                        "id": null,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 10
+                    },
+                    {
+                        "name": "Thương hiệu",
+                        "value": "Ecoking",
+                        "id": null,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": "/search?brands=3424793",
+                        "brand_id": 3424793,
+                        "full_url": "https://shopee.vn/search?brands=3424793",
+                        "type": 1
+                    },
+                    {
+                        "name": "In hai mặt",
+                        "value": "Không",
+                        "id": 100419,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Độ phân giải in tối đa",
+                        "value": "300dpi",
+                        "id": 100416,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Tốc độ in",
+                        "value": "30ppm",
+                        "id": 100455,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Loại kết nối máy in",
+                        "value": "Bluetooth, USB",
+                        "id": 100480,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.5kg",
+                        "id": 100095,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Loại bảo hành",
+                        "value": "Bảo hành nhà sản xuất",
+                        "id": 100370,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Hạn bảo hành",
+                        "value": "12 tháng",
+                        "id": 100121,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Loại máy in",
+                        "value": "Máy in màu đơn sắc",
+                        "id": 100459,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Sản phẩm đặt theo yêu cầu",
+                        "value": "Không",
+                        "id": 101219,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Has BSMI No.",
+                        "value": "Yes",
+                        "id": 101240,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Tình trạng",
+                        "value": "Mới",
+                        "id": 100413,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "SIRIM Certified",
+                        "value": "Yes",
+                        "id": 101198,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Có cáp/ Không cáp",
+                        "value": "Có cáp",
+                        "id": 100286,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Loại đầu cắm",
+                        "value": "UK/ SG",
+                        "id": 100493,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Tính năng máy in",
+                        "value": "IN",
+                        "id": 100456,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Cách in",
+                        "value": "GIẤY NHIỆT",
+                        "id": 100454,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Kích thước (dài x rộng x cao)",
+                        "value": "18 X 8 X 6 CM",
+                        "id": 100942,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Ngày sản xuất",
+                        "value": "24-09-2024",
+                        "id": 101060,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Tên tổ chức chịu trách nhiệm sản xuất",
+                        "value": "HPRT",
+                        "id": 101067,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Địa chỉ tổ chức chịu trách nhiệm sản xuất",
+                        "value": "BÌNH DƯƠNG",
+                        "id": 101068,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Dung lượng pin",
+                        "value": "0mAh",
+                        "id": 100272,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Tính năng máy in",
+                        "value": "IN NHIỆT",
+                        "id": 100457,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Gửi từ",
+                        "value": "Bình Dương",
+                        "id": null,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 6
+                    }
+                ],
+                "categories": [
+                    {
+                        "catid": 11035954,
+                        "display_name": "Máy Tính & Laptop",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 11035993,
+                        "display_name": "Máy In, Máy Scan & Máy Chiếu",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 11035995,
+                        "display_name": "Máy In Mã Vạch",
+                        "no_sub": true,
+                        "is_default_subcat": false
+                    }
+                ],
+                "related_items": []
+            },
+            "shop_detailed": {
+                "shopid": 188032506,
+                "userid": 188035243,
+                "last_active_time": 1732591068,
+                "vacation": false,
+                "place": "Thành Phố Dĩ An, Bình Dương",
+                "account": {
+                    "portrait": "3b9282ce9affc7188ecbbda5fc6dbbdb",
+                    "username": "may_in_bluetooth_ecoking",
+                    "status": 1
+                },
+                "is_shopee_verified": false,
+                "is_preferred_plus_seller": false,
+                "is_official_shop": true,
+                "shop_location": "Bình Dương",
+                "item_count": 43,
+                "rating_star": 4.72279,
+                "response_rate": 100,
+                "session_info": null,
+                "name": "ECOKING",
+                "ctime": 1570944866,
+                "response_time": 4752,
+                "follower_count": 41348,
+                "show_official_shop_label": true,
+                "rating_bad": 77,
+                "rating_good": 2703,
+                "rating_normal": 132,
+                "session_infos": null,
+                "status": 1,
+                "is_individual_seller": null,
+                "is_mart": false,
+                "favorite_shop_info": null,
+                "is_3pf": false,
+                "sold_total": null,
+                "is_shopee_choice": false,
+                "is_high_end": false,
+                "banner": {
+                    "shopee_choice": null
+                },
+                "authorized_brand": null,
+                "is_scs": false
+            },
+            "age_gate_control": null,
+            "abnormal_popup": null,
+            "return_on_spot": null,
+            "display_sections": {
+                "add_on_deal": null,
+                "bundle_deal": null,
+                "exclusive_price_label": null,
+                "free_return": {
+                    "title": "Trả hàng 15 ngày",
+                    "message": "Trả hàng miễn phí"
+                },
+                "coin": null,
+                "wholesale": null
+            },
+            "ineligible_ep": null,
+            "tax_disclaimer": null,
+            "alcohol_disclaimer": null,
+            "design_control": {
+                "use_new_revamp_first_screen": null,
+                "display_on_time_delivery_guarantee": false,
+                "disable_price_with_variation": false,
+                "display_direct_delivery": false,
+                "use_new_featured_video_revamp": null,
+                "first_screen_revamp_abtest_group": null,
+                "display_choice_customised_section": false,
+                "is_support_fbs_enabled": false,
+                "top_section_featured_video_ab_test_group": null,
+                "enable_ksp_config": null
+            },
+            "shopee_free_return": {
+                "free_return_type": 1
+            },
+            "detail_level": 0,
+            "removed_fields": null,
+            "size_guide": null,
+            "designer_info": null,
+            "shipping_info": null,
+            "vehicle_compatibility_info": null,
+            "nea": null,
+            "button_group": {
+                "buy_with_voucher": {
+                    "price": 37200000000
+                }
+            },
+            "installment_drawer": {
+                "priority": [
+                    0,
+                    1
+                ],
+                "spl": null,
+                "bank": {
+                    "channels": null
+                },
+                "credit_card": null
+            },
+            "ongoing_banner": {
+                "welcome_package": null,
+                "flash_sale": {
+                    "skin": {
+                        "main_color": "#EE4D2D",
+                        "secondary_color": "#FF7337",
+                        "end_time": 1732597199
+                    },
+                    "promotion_id": 77825902710784
+                },
+                "deep_discount": null,
+                "live_stream": null,
+                "exclusive_price": null,
+                "membership_exclusive": null
+            },
+            "teaser_banner": null,
+            "price_breakdown": {
+                "price": {
+                    "single_value": 37200000000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "price_before_discount": {
+                    "single_value": 80000000000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "discount_breakdown": [
+                    {
+                        "type": 0,
+                        "price_source": "Giảm giá sản phẩm",
+                        "discount_amount": 40800000000,
+                        "exclusive_price": null,
+                        "shop_voucher": null,
+                        "platform_voucher": null
+                    },
+                    {
+                        "type": 2,
+                        "price_source": "Voucher của Shop",
+                        "discount_amount": 2000000000,
+                        "exclusive_price": null,
+                        "shop_voucher": {
+                            "min_spend": 5000000000,
+                            "discount_type": 0,
+                            "discount_value": 2000000000,
+                            "discount_percentage": null
+                        },
+                        "platform_voucher": null
+                    }
+                ]
+            },
+            "membership_exclusive": null,
+            "membership_exclusive_teaser": null
+        }
+    },
+    "scraped_timestamp": "2024-11-26T10:35:41.514594"
+}

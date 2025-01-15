@@ -1,0 +1,12 @@
+Package            Version
+------------------ ---------
+pymongo            4.10.1
+requests           2.32.3
+urllib3            2.2.3
+PyYAML             6.0.2
+dash               2.18.2
+jupyter            1.1.1
+jupyter-dash       0.4.2
+plotly             5.24.1
+fastapi            0.115.5
+uvicorn                   0.32.1

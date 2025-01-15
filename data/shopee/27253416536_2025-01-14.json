@@ -1,0 +1,5 @@
+{
+    "error": 400,
+    "message": "{\"url\":\"https://shopee.vn/api/v4/pdp/hot_sales/get?item_id=27253416536&limit=15&offset=0&shop_id=718577709\",\"status\":\"BLOCKED_TOO_MANY_TIMES\",\"responseBody\":\"{\\\"5\\\":false,\\\"2\\\":false,\\\"4\\\":2,\\\"0\\\":3,\\\"3\\\":90309999,\\\"error\\\":90309999,\\\"1\\\":\\\"571632bc80b-eda5-4285-a928-fa0b2b509db5\\\"}\\n\"}",
+    "scraped_timestamp": "2025-01-14T00:20:09.661370"
+}

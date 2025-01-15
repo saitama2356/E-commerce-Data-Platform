@@ -1,0 +1,40 @@
+{
+  "data": {
+    "item_rating_summary": {
+      "rating_total": 0,
+      "rating_count": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rcount_with_context": 0,
+      "rcount_with_image": 0,
+      "rcount_with_media": 0,
+      "rcount_local_review": 0,
+      "rcount_repeat_purchase": 0,
+      "rcount_overall_fit_small": 0,
+      "rcount_overall_fit_fit": 0,
+      "rcount_overall_fit_large": 0,
+      "rcount_oversea_review": 0,
+      "rcount_folded": 0,
+      "show_size_fitting": false
+    },
+    "is_sip_item": false,
+    "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_default,QUEUE:comment_search_default,NEWABTEST:0,QUEUES:comment_search_default",
+    "downgrade_switch": false,
+    "has_more": false,
+    "show_local_review": false,
+    "browsing_ui": "",
+    "enable_buyer_gallery_media": true,
+    "size_info_abt": "",
+    "resize_image_abt": false,
+    "purchase_bar_abt": "bucket_a",
+    "signature": "",
+    "original_review_summary": {},
+    "fe_review_summary": {}
+  },
+  "error": 0,
+  "id": "27603632331"
+}

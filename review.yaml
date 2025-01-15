@@ -1,0 +1,3 @@
+api:
+    - https://tiki.vn/api/v2/reviews?limit=20&include=comments,contribute_info,attribute_vote_summary&product_id=260811707
+    - https://shopee.vn/api/v2/item/get_ratings?itemid=17489310712&shopid=35445890

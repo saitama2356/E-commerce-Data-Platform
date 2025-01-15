@@ -1,0 +1,1285 @@
+{
+  "error": 0,
+  "data": {
+    "ratings": [
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 15385860757,
+        "ctime": 1717398027,
+        "rating": 1,
+        "userid": 661641432,
+        "shopid": 743787121,
+        "comment": "Shop giao nhanh, đã canh mấy ngày nên mua được giá sale rất hời á. Cảm ơn shop, nhận được sản phẩm rất ưng ý máy đẹp như ảnh, chơi game fps ổn định phù hợp giá tiền",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730528739,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1717398027,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "nkbhieusphu",
+        "author_portrait": "vn-11134004-7r98o-lvcx90ui34h05f",
+        "author_shopid": 661621847,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-lw2l4ffyfkd594",
+          "vn-11134103-7r98o-lw2l4fhw02qj96",
+          "vn-11134103-7r98o-lw2l4fhw1haz96",
+          "vn-11134103-7r98o-lw2l4fhw2vvff5",
+          "vn-11134103-7r98o-lw2l4fhw4afv01"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6ke17-lw2l5wn0726x39",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2l62npeah3e2",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.12000051717397988.mp4",
+            "duration": 20833,
+            "mms_ext": "{\"vid\":\"vn-11110103-6ke17-lw2l5wn0726x39\",\"biz\":103,\"duration\":20833,\"create_time\":1717397980,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2l62npeah3e2\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.12000051717397988.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.12000051717397988.mp4\",\"width\":640,\"height\":1138,\"bitrate\":889016,\"size\":2601815,\"fps\":25,\"duration\":20959,\"update_time\":1717397988}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":458385,\"size\":1535254,\"fps\":25.04808,\"duration\":20822,\"update_time\":1717398014},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.16003071727167816.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.16003071727167816.mp4\",\"width\":540,\"height\":960,\"bitrate\":529987,\"size\":1728189,\"fps\":25,\"duration\":20840,\"update_time\":1727167836},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.16003081717398004.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.16003081717398004.mp4\",\"width\":640,\"height\":1138,\"bitrate\":734025,\"size\":2256224,\"fps\":25.04808,\"duration\":20805,\"update_time\":1717398040}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7rd5y-lw2lbd1mtg2n45",
+            "highlight": {
+              "id": "vn-11110103-6ke17-lw2l5wn0726x39",
+              "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2l62npeah3e2",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.12000051717397988.mp4",
+              "duration": 20833,
+              "mms_ext": "{\"vid\":\"vn-11110103-6ke17-lw2l5wn0726x39\",\"biz\":103,\"duration\":20833,\"create_time\":1717397980,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2l62npeah3e2\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.12000051717397988.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.12000051717397988.mp4\",\"width\":640,\"height\":1138,\"bitrate\":889016,\"size\":2601815,\"fps\":25,\"duration\":20959,\"update_time\":1717397988}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":458385,\"size\":1535254,\"fps\":25.04808,\"duration\":20822,\"update_time\":1717398014},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.16003071727167816.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.16003071727167816.mp4\",\"width\":540,\"height\":960,\"bitrate\":529987,\"size\":1728189,\"fps\":25,\"duration\":20840,\"update_time\":1727167836},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.16003081717398004.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke17-lw2l5wn0726x39.16003081717398004.mp4\",\"width\":640,\"height\":1138,\"bitrate\":734025,\"size\":2256224,\"fps\":25.04808,\"duration\":20805,\"update_time\":1717398040}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7rd5y-lw2lbd1mtg2n45"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 22682116191,
+            "modelid": 240233329486,
+            "model_name": "i7 4770/R8G/SSD 256G,Không lấy màn",
+            "options": [
+              "i7 4770/R8G/SSD 256G",
+              "Không lấy màn"
+            ]
+          }
+        ],
+        "editable_date": 1719990027,
+        "like_count": 3,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-lw2l4ffyfkd594",
+            "cover_image_id": "vn-11134103-7r98o-lw2l4ffyfkd594"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lw2l4fhw02qj96",
+            "cover_image_id": "vn-11134103-7r98o-lw2l4fhw02qj96"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lw2l4fhw1haz96",
+            "cover_image_id": "vn-11134103-7r98o-lw2l4fhw1haz96"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lw2l4fhw2vvff5",
+            "cover_image_id": "vn-11134103-7r98o-lw2l4fhw2vvff5"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lw2l4fhw4afv01",
+            "cover_image_id": "vn-11134103-7r98o-lw2l4fhw4afv01"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 15385659610,
+        "ctime": 1717396804,
+        "rating": 1,
+        "userid": 661641505,
+        "shopid": 743787121,
+        "comment": "Không uổng công chờ đợi. Siêu siêu chất. Shop đóng gói cẩn thận giao hàng nhanh tư vấn nhiệt tình em sẽ quay lại ủng hộ vào lần tới",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1717396804,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1717396804,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "hfbbuituan10858",
+        "author_portrait": "vn-11134004-7r98o-lvcx99q53czx3d",
+        "author_shopid": 661621920,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-lw2kdqrxwf6j69",
+          "vn-11134103-7r98o-lw2kdqrxxtqzd6",
+          "vn-11134103-7r98o-lw2kdqrxz8bfc4",
+          "vn-11134103-7r98o-lw2kdqry0mvv82"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6ke16-lw2kfcw0tihlfa",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2kfgt936o71a",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16000051717396739.mp4",
+            "duration": 5833,
+            "mms_ext": "{\"vid\":\"vn-11110103-6ke16-lw2kfcw0tihlfa\",\"biz\":103,\"duration\":5833,\"create_time\":1717396737,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2kfgt936o71a\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16000051717396739.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16000051717396739.mp4\",\"width\":1138,\"height\":640,\"bitrate\":705326,\"size\":588866,\"fps\":25.17241,\"duration\":5852,\"update_time\":1717396744}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":433068,\"size\":414513,\"fps\":25.17241,\"duration\":5867,\"update_time\":1717396758},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16003071722252512.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16003071722252512.mp4\",\"width\":960,\"height\":540,\"bitrate\":559125,\"size\":508738,\"fps\":25.17241,\"duration\":5852,\"update_time\":1722252519},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16003081717396755.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16003081717396755.mp4\",\"width\":1138,\"height\":640,\"bitrate\":714153,\"size\":621119,\"fps\":25.17241,\"duration\":5852,\"update_time\":1717396764}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7rd73-lw2kiy35r4p2b5",
+            "highlight": {
+              "id": "vn-11110103-6ke16-lw2kfcw0tihlfa",
+              "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2kfgt936o71a",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16000051717396739.mp4",
+              "duration": 5833,
+              "mms_ext": "{\"vid\":\"vn-11110103-6ke16-lw2kfcw0tihlfa\",\"biz\":103,\"duration\":5833,\"create_time\":1717396737,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2kfgt936o71a\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16000051717396739.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16000051717396739.mp4\",\"width\":1138,\"height\":640,\"bitrate\":705326,\"size\":588866,\"fps\":25.17241,\"duration\":5852,\"update_time\":1717396744}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":433068,\"size\":414513,\"fps\":25.17241,\"duration\":5867,\"update_time\":1717396758},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16003071722252512.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16003071722252512.mp4\",\"width\":960,\"height\":540,\"bitrate\":559125,\"size\":508738,\"fps\":25.17241,\"duration\":5852,\"update_time\":1722252519},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16003081717396755.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lw2kfcw0tihlfa.16003081717396755.mp4\",\"width\":1138,\"height\":640,\"bitrate\":714153,\"size\":621119,\"fps\":25.17241,\"duration\":5852,\"update_time\":1717396764}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7rd73-lw2kiy35r4p2b5"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 22682116191,
+            "modelid": 240233329486,
+            "model_name": "i7 4770/R8G/SSD 256G,Không lấy màn",
+            "options": [
+              "i7 4770/R8G/SSD 256G",
+              "Không lấy màn"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-lw2kdqrxwf6j69",
+            "cover_image_id": "vn-11134103-7r98o-lw2kdqrxwf6j69"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lw2kdqrxxtqzd6",
+            "cover_image_id": "vn-11134103-7r98o-lw2kdqrxxtqzd6"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lw2kdqrxz8bfc4",
+            "cover_image_id": "vn-11134103-7r98o-lw2kdqrxz8bfc4"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lw2kdqry0mvv82",
+            "cover_image_id": "vn-11134103-7r98o-lw2kdqry0mvv82"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 15385598142,
+        "ctime": 1717396439,
+        "rating": 1,
+        "userid": 661641569,
+        "shopid": 743787121,
+        "comment": "Hàng nhận được khá nhanh, shop nhiệt tình hướng dẫn, shipper cũng nhiệt tình. Máy dùng mượt và ổn định",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730528921,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1717396439,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "wfhngaycoem23635",
+        "author_portrait": "vn-11134004-7r98o-lvcx9a8gckmc7a",
+        "author_shopid": 661621984,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-lw2k3r8s168r26",
+          "vn-11134103-7r98o-lw2k3r8s2kt777",
+          "vn-11134103-7r98o-lw2k3r8s3zdn75",
+          "vn-11134103-7r98o-lw2k3r8s5dy3c7"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6ke14-lw2k5dzc1dcr8a",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2k5lgr3gk1d6",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16000051717396278.mp4",
+            "duration": 14899,
+            "mms_ext": "{\"vid\":\"vn-11110103-6ke14-lw2k5dzc1dcr8a\",\"biz\":103,\"duration\":14899,\"create_time\":1717396277,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2k5lgr3gk1d6\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16000051717396278.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16000051717396278.mp4\",\"width\":640,\"height\":1138,\"bitrate\":812423,\"size\":1704900,\"fps\":25.0672,\"duration\":14907,\"update_time\":1717396287}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":472588,\"size\":1123762,\"fps\":25.0672,\"duration\":14911,\"update_time\":1717396306},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16003071722251909.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16003071722251909.mp4\",\"width\":540,\"height\":960,\"bitrate\":577246,\"size\":1322306,\"fps\":25.0672,\"duration\":14907,\"update_time\":1722251930},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16003081717396299.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16003081717396299.mp4\",\"width\":640,\"height\":1138,\"bitrate\":721698,\"size\":1590958,\"fps\":25.0672,\"duration\":14907,\"update_time\":1717396328}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7rd4z-lw2kc43lq5xi66",
+            "highlight": {
+              "id": "vn-11110103-6ke14-lw2k5dzc1dcr8a",
+              "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2k5lgr3gk1d6",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16000051717396278.mp4",
+              "duration": 14899,
+              "mms_ext": "{\"vid\":\"vn-11110103-6ke14-lw2k5dzc1dcr8a\",\"biz\":103,\"duration\":14899,\"create_time\":1717396277,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lw2k5lgr3gk1d6\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16000051717396278.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16000051717396278.mp4\",\"width\":640,\"height\":1138,\"bitrate\":812423,\"size\":1704900,\"fps\":25.0672,\"duration\":14907,\"update_time\":1717396287}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":472588,\"size\":1123762,\"fps\":25.0672,\"duration\":14911,\"update_time\":1717396306},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16003071722251909.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16003071722251909.mp4\",\"width\":540,\"height\":960,\"bitrate\":577246,\"size\":1322306,\"fps\":25.0672,\"duration\":14907,\"update_time\":1722251930},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16003081717396299.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke14-lw2k5dzc1dcr8a.16003081717396299.mp4\",\"width\":640,\"height\":1138,\"bitrate\":721698,\"size\":1590958,\"fps\":25.0672,\"duration\":14907,\"update_time\":1717396328}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7rd4z-lw2kc43lq5xi66"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 22682116191,
+            "modelid": 240233329486,
+            "model_name": "i7 4770/R8G/SSD 256G,Không lấy màn",
+            "options": [
+              "i7 4770/R8G/SSD 256G",
+              "Không lấy màn"
+            ]
+          }
+        ],
+        "like_count": 1,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-lw2k3r8s168r26",
+            "cover_image_id": "vn-11134103-7r98o-lw2k3r8s168r26"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lw2k3r8s2kt777",
+            "cover_image_id": "vn-11134103-7r98o-lw2k3r8s2kt777"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lw2k3r8s3zdn75",
+            "cover_image_id": "vn-11134103-7r98o-lw2k3r8s3zdn75"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lw2k3r8s5dy3c7",
+            "cover_image_id": "vn-11134103-7r98o-lw2k3r8s5dy3c7"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 15386284894,
+        "ctime": 1717400572,
+        "rating": 1,
+        "userid": 661633982,
+        "shopid": 743787121,
+        "comment": "Shop quá tuyệt vời nha. Trả lời nt rất nhanh tư vấn nhiệt tình. Cách làm việc rất chuyên nghiệp, còn sản phẩm thì thì ưng ý vô cùng sử dụng rất thích. gói hàng cũng cẩn thận các bạn nên mua nhé! Mh sẽ giới thiệu cho bạn bè và người thân mh để ủng hộ shop.",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1717400572,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1717400572,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "gpnnamthien",
+        "author_portrait": "vn-11134004-7r98o-lvcwu9m9h4elbe",
+        "author_shopid": 661614397,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 46612202461,
+            "modelid": 240233329486,
+            "model_name": "i7 4770/R8G/SSD 256G,Không lấy màn",
+            "options": [
+              "i7 4770/R8G/SSD 256G",
+              "Không lấy màn"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 14643820575,
+        "ctime": 1711347173,
+        "rating": 1,
+        "userid": 362273856,
+        "shopid": 743787121,
+        "comment": "Chất lượng sản phẩm:tôt vưa túi tiền\n\nshop nhiệt tinh tư vấn sẽ ủng hộ shop",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1723643947,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1711347173,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "tonynguyen9990",
+        "author_portrait": "d3637baef4309847a34c07fa869210b4",
+        "author_shopid": 362254279,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-ltamoy7z0ja1df"
+        ],
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Case PC Máy Tính Robot Gaming HNQ Cao Cấp Core i5 i7, Ram 8Gb, SSD 256Gb, Card rời 1xxx Chiến Mọi Thể Loại Game Online",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 34551501655,
+            "modelid": 240233329493,
+            "model_name": "i7/R16/SSD 256/GT730,Không lấy màn",
+            "options": [
+              "i7/R16/SSD 256/GT730",
+              "Không lấy màn"
+            ]
+          }
+        ],
+        "like_count": 1,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-ltamoy7z0ja1df",
+            "cover_image_id": "vn-11134103-7r98o-ltamoy7z0ja1df"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 14384040614,
+        "ctime": 1709469691,
+        "rating": 1,
+        "userid": 103497772,
+        "shopid": 743787121,
+        "comment": "ultr shop uy tín số 2 thì không ai dám đứng số 1. Gói hàng kĩ lưỡng, Tư vấn tận tình thắc mắc gì hỏi thì sẽ được rep ngay, mình hỏi rất là nhiều nè mà shop vẫn rất chu đáo 10d cho sự tuyệt vời này. Máy đẹp chơi ngon vaiz cả\nchưởng nch ko có j để chê",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1709469691,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1709469691,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "anhanhanh242002",
+        "author_portrait": "",
+        "author_shopid": 103496294,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Case PC Máy Tính Robot Gaming HNQ Cao Cấp Core i5 i7, Ram 8Gb, SSD 256Gb, Card rời 1xxx Chiến Mọi Thể Loại Game Online",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 49544444755,
+            "modelid": 240233329514,
+            "model_name": "i5/R8g/ssd256/1050Ti,Màn 20\" New 100%",
+            "options": [
+              "i5/R8g/ssd256/1050Ti",
+              "Màn 20\" New 100%"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 15386308586,
+        "ctime": 1717400719,
+        "rating": 1,
+        "userid": 661633878,
+        "shopid": 743787121,
+        "comment": "Cảm thấy khá yên tâm khi đặt hàng ở shop. Giao hàng nhanh, chất lượng sản phẩm tốt so với giá bán rất hợp lý. Sẽ ủng hộ shop thêm nhiều sp khác nữa",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1717400719,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1717400719,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "wjdnhuyduong",
+        "author_portrait": "vn-11134004-7r98o-lvcwu7gumezo2d",
+        "author_shopid": 661614293,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 46612202461,
+            "modelid": 240233329486,
+            "model_name": "i7 4770/R8G/SSD 256G,Không lấy màn",
+            "options": [
+              "i7 4770/R8G/SSD 256G",
+              "Không lấy màn"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 15386446431,
+        "ctime": 1717401550,
+        "rating": 1,
+        "userid": 661626700,
+        "shopid": 743787121,
+        "comment": "Giao hàng nhanh, Sản phẩm có độ hoàn thiện cao dễ dàng lắp theo hướng dẫn. Ủng họ nhãn hàng. Video mang tính nhận xu",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1717401550,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1717401550,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "trcvuahuynh76315",
+        "author_portrait": "vn-11134004-7r98o-lvcwhjfu050k9b",
+        "author_shopid": 661607115,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 46612202461,
+            "modelid": 240233329486,
+            "model_name": "i7 4770/R8G/SSD 256G,Không lấy màn",
+            "options": [
+              "i7 4770/R8G/SSD 256G",
+              "Không lấy màn"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 14377453576,
+        "ctime": 1709434634,
+        "rating": 1,
+        "userid": 1197691430,
+        "shopid": 743787121,
+        "comment": "shop giao nhanh lắm luôn, mới 2 ngày mà nhận được rồi, nhận thấy hàng tốt, mới tinh, giá cả hợp lí cho shop 5* nè",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1709434634,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1709434634,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "s8eg_d9bgm",
+        "author_portrait": "",
+        "author_shopid": 1197320866,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Case PC Máy Tính Robot Gaming HNQ Cao Cấp Core i5 i7, Ram 8Gb, SSD 256Gb, Card rời 1xxx Chiến Mọi Thể Loại Game Online",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 49544444755,
+            "modelid": 240233329514,
+            "model_name": "i5/R8g/ssd256/1050Ti,Màn 20\" New 100%",
+            "options": [
+              "i5/R8g/ssd256/1050Ti",
+              "Màn 20\" New 100%"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 15386364973,
+        "ctime": 1717401057,
+        "rating": 1,
+        "userid": 661633093,
+        "shopid": 743787121,
+        "comment": "Giao hàng nhanh, đóng gói cẩn thận, tư vấn nhiệt tình, bảo hành các sản phẩm lỗi trong 1 năm; mọi thứ đều ổn, cảm ơn shop đã hỗ trợ và phục vụ nhé 🥰",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1717401057,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1717401057,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "ruqnguyenmai",
+        "author_portrait": "vn-11134004-7r98o-lvcwu4nkqlxp56",
+        "author_shopid": 661613508,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 46612202461,
+            "modelid": 240233329486,
+            "model_name": "i7 4770/R8G/SSD 256G,Không lấy màn",
+            "options": [
+              "i7 4770/R8G/SSD 256G",
+              "Không lấy màn"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 15386211786,
+        "ctime": 1717400130,
+        "rating": 1,
+        "userid": 661633841,
+        "shopid": 743787121,
+        "comment": "Đã nhận được hàng và cảm thấy hài lòng vs số tiền bỏ ra mua đồ trên mạng, đã sử dụng được hơn tuần rồi mới đánh giá lại nói chung các bạn nên ủng hộ và mua sp của shop rất uy tín, đánh giá 5s cám ơn shop",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1717400130,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1717400130,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "tbjcausbaa75805",
+        "author_portrait": "vn-11134004-7r98o-lvcwuhxxam3oa5",
+        "author_shopid": 661614256,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 46612202461,
+            "modelid": 240233329486,
+            "model_name": "i7 4770/R8G/SSD 256G,Không lấy màn",
+            "options": [
+              "i7 4770/R8G/SSD 256G",
+              "Không lấy màn"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 15386427625,
+        "ctime": 1717401434,
+        "rating": 1,
+        "userid": 661626836,
+        "shopid": 743787121,
+        "comment": "Shop chuẩn bị hàng đúng và đầy đủ. Đóng gói kỹ lưỡng. Sẽ ủng hộ thêm. Mọi người nên mua nhé. Tư vấn đầy đủ. Uy tín. Xin cám ơn",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1717401434,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1717401434,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "evkvuasoicau",
+        "author_portrait": "vn-11134004-7r98o-lvcwhmq15r4dc5",
+        "author_shopid": 661607251,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 46612202461,
+            "modelid": 240233329486,
+            "model_name": "i7 4770/R8G/SSD 256G,Không lấy màn",
+            "options": [
+              "i7 4770/R8G/SSD 256G",
+              "Không lấy màn"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 15386409181,
+        "ctime": 1717401323,
+        "rating": 1,
+        "userid": 661634058,
+        "shopid": 743787121,
+        "comment": "Lần đầu mua hàng bên shop, shop tư vấn và hướng dẫn rất chi tiết, đóng gói cẩn thận, tks shop nha, sẽ quay lại ủng hộ shop lâu dài",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1717401323,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1717401323,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "inktinhti30933",
+        "author_portrait": "vn-11134004-7r98o-lvcwu077apal99",
+        "author_shopid": 661614473,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 46612202461,
+            "modelid": 240233329486,
+            "model_name": "i7 4770/R8G/SSD 256G,Không lấy màn",
+            "options": [
+              "i7 4770/R8G/SSD 256G",
+              "Không lấy màn"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 14379658134,
+        "ctime": 1709446994,
+        "rating": 1,
+        "userid": 1133850986,
+        "shopid": 743787121,
+        "comment": "Hàng chuẩn đẹp so với giá tiền, giao hàng nhanh, shop chăm sóc khách hàng chu đáo. Sẽ quay lại ủng hộ shop nhiều lần sau",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1709446994,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1709446994,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "676_jfmems",
+        "author_portrait": "",
+        "author_shopid": 1133548814,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Case PC Máy Tính Robot Gaming HNQ Cao Cấp Core i5 i7, Ram 8Gb, SSD 256Gb, Card rời 1xxx Chiến Mọi Thể Loại Game Online",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 49544444755,
+            "modelid": 240233329514,
+            "model_name": "i5/R8g/ssd256/1050Ti,Màn 20\" New 100%",
+            "options": [
+              "i5/R8g/ssd256/1050Ti",
+              "Màn 20\" New 100%"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      },
+      {
+        "orderid": 0,
+        "itemid": 24509035804,
+        "cmtid": 14385744977,
+        "ctime": 1709478888,
+        "rating": 1,
+        "userid": 1198705957,
+        "shopid": 743787121,
+        "comment": "Nói chung hàng bên shop bán giá hợp lí đạt tiêu chuẩn 5* giao hàng nhanh chóng tư vấn nhiệt tình của shop làm khách thích lắm OKela",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1709478888,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1709478888,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "z6kbhoupko",
+        "author_portrait": "",
+        "author_shopid": 1198331828,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 24509035804,
+            "shopid": 743787121,
+            "name": "Case PC Máy Tính Robot Gaming HNQ Cao Cấp Core i5 i7, Ram 8Gb, SSD 256Gb, Card rời 1xxx Chiến Mọi Thể Loại Game Online",
+            "image": "vn-11134207-7r98o-lqm6ddekofuf62",
+            "is_snapshot": 1,
+            "snapshotid": 49544444755,
+            "modelid": 240233329514,
+            "model_name": "i5/R8g/ssd256/1050Ti,Màn 20\" New 100%",
+            "options": [
+              "i5/R8g/ssd256/1050Ti",
+              "Màn 20\" New 100%"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 24509035804,
+          "shopid": 743787121,
+          "name": "Bộ PC Máy Tính Robot Gaming CGO i5/i7, Ram 8/16Gb, SSD 256Gb, Card rời 1050Ti/GT730 Chiến All Game",
+          "image": "vn-11134207-7r98o-lqm6ddekofuf62"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_24509035804"
+      }
+    ],
+    "item_rating_summary": {
+      "rating_total": 71,
+      "rating_count": [
+        0,
+        0,
+        0,
+        0,
+        71
+      ],
+      "rcount_with_context": 52,
+      "rcount_with_image": 16,
+      "rcount_with_media": 16,
+      "rcount_local_review": 71,
+      "rcount_repeat_purchase": 0,
+      "rcount_overall_fit_small": 0,
+      "rcount_overall_fit_fit": 0,
+      "rcount_overall_fit_large": 0,
+      "rcount_oversea_review": 0,
+      "rcount_folded": 0,
+      "show_size_fitting": false
+    },
+    "is_sip_item": false,
+    "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_default,QUEUE:comment_search_default,NEWABTEST:0,QUEUES:comment_search_default",
+    "downgrade_switch": false,
+    "has_more": true,
+    "show_local_review": false,
+    "browsing_ui": "",
+    "enable_buyer_gallery_media": true,
+    "size_info_abt": "",
+    "resize_image_abt": false,
+    "purchase_bar_abt": "bucket_a",
+    "signature": "",
+    "original_review_summary": {},
+    "fe_review_summary": {}
+  },
+  "id": "24509035804"
+}

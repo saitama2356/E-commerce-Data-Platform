@@ -1,0 +1,1316 @@
+{
+  "error": 0,
+  "data": {
+    "ratings": [
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15921571359,
+        "ctime": 1721619752,
+        "rating": 1,
+        "userid": 703746167,
+        "shopid": 718577709,
+        "comment": "Chất lượng sản phẩm:máy đẹp\nTính năng nổi bật:chạy ok\n\nshop giao nhanh lắm luôn, mới 2 ngày mà nhận được rồi, nhận thấy hàng tốt, mới tinh, giá cả hợp lí cho shop 5* nè",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732110607,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1721619752,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "yidnvinhbuon",
+        "author_portrait": "vn-11134903-22120-5vljftzop7kvee",
+        "author_shopid": 703726582,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-ly0bocxvncgrf4",
+          "vn-11134103-7r98o-ly0bocxvor17e4",
+          "vn-11134103-7r98o-ly0bocxvq5ln9b",
+          "vn-11134103-7r98o-ly0bocxvrk636b",
+          "vn-11134103-7r98o-ly0bocxvsyqj94"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6khw7-ly0bpfmqekt5a5",
+            "cover": "https://down-aka-sg.img.susercontent.com/vn-11110103-7r98o-ly0bphmlhrmu47",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16000051721619485.mp4",
+            "duration": 7019,
+            "mms_ext": "{\"vid\":\"vn-11110103-6khw7-ly0bpfmqekt5a5\",\"biz\":103,\"duration\":7019,\"create_time\":1721619484,\"serviceID\":6,\"cover\":\"https://down-aka-sg.img.susercontent.com/vn-11110103-7r98o-ly0bphmlhrmu47\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16000051721619485.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16000051721619485.mp4\",\"width\":540,\"height\":960,\"bitrate\":461532,\"size\":494234,\"fps\":25.14368,\"duration\":7035,\"update_time\":1721619488}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":466543,\"size\":523202,\"fps\":25.14368,\"duration\":7019,\"update_time\":1721619501},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16003071732113463.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16003071732113463.mp4\",\"width\":540,\"height\":960,\"bitrate\":298896,\"size\":382013,\"fps\":25,\"duration\":7035,\"update_time\":1732113468},{\"format\":1600021,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16000211732113454.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16000211732113454.mp4\",\"width\":540,\"height\":960,\"bitrate\":399861,\"size\":470358,\"fps\":25,\"duration\":7035,\"update_time\":1732113462}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7rdvz-lxn5t2znoxqia4",
+            "highlight": {
+              "id": "vn-11110103-6khw7-ly0bpfmqekt5a5",
+              "cover": "https://down-aka-sg.img.susercontent.com/vn-11110103-7r98o-ly0bphmlhrmu47",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16000051721619485.mp4",
+              "duration": 7019,
+              "mms_ext": "{\"vid\":\"vn-11110103-6khw7-ly0bpfmqekt5a5\",\"biz\":103,\"duration\":7019,\"create_time\":1721619484,\"serviceID\":6,\"cover\":\"https://down-aka-sg.img.susercontent.com/vn-11110103-7r98o-ly0bphmlhrmu47\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16000051721619485.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16000051721619485.mp4\",\"width\":540,\"height\":960,\"bitrate\":461532,\"size\":494234,\"fps\":25.14368,\"duration\":7035,\"update_time\":1721619488}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":466543,\"size\":523202,\"fps\":25.14368,\"duration\":7019,\"update_time\":1721619501},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16003071732113463.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16003071732113463.mp4\",\"width\":540,\"height\":960,\"bitrate\":298896,\"size\":382013,\"fps\":25,\"duration\":7035,\"update_time\":1732113468},{\"format\":1600021,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16000211732113454.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw7-ly0bpfmqekt5a5.16000211732113454.mp4\",\"width\":540,\"height\":960,\"bitrate\":399861,\"size\":470358,\"fps\":25,\"duration\":7035,\"update_time\":1732113462}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7rdvz-lxn5t2znoxqia4"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "like_count": 0,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-ly0bocxvncgrf4",
+            "cover_image_id": "vn-11134103-7r98o-ly0bocxvncgrf4"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0bocxvor17e4",
+            "cover_image_id": "vn-11134103-7r98o-ly0bocxvor17e4"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0bocxvq5ln9b",
+            "cover_image_id": "vn-11134103-7r98o-ly0bocxvq5ln9b"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0bocxvrk636b",
+            "cover_image_id": "vn-11134103-7r98o-ly0bocxvrk636b"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0bocxvsyqj94",
+            "cover_image_id": "vn-11134103-7r98o-ly0bocxvsyqj94"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15921755456,
+        "ctime": 1721620922,
+        "rating": 1,
+        "userid": 710024972,
+        "shopid": 718577709,
+        "comment": "Chất lượng sản phẩm:đẹp nhé\nTính năng nổi bật:chạy văn phòng ok\n\nshop hỗ trợ tốt, mua hàng giá trị cao trên shopee cũng hơi ngại vì k biết thế nào mà thấy shop hỗ trợ rất tốt, bảo hành dịch vụ oke. giờ mua hàng online cũng rất oke nha mn. ủng hộ shop",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1721620922,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1721620922,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "xdlrthanhqua530",
+        "author_portrait": "vn-11134903-22120-ti4ulw6vp7kv18",
+        "author_shopid": 710005387,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-ly0ceixameore4",
+          "vn-11134103-7r98o-ly0ceixant97d0",
+          "vn-11134103-7r98o-ly0ceixap7tn3b",
+          "vn-11134103-7r98o-ly0ceixaqme3bb"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6khw8-ly0cf5l1duqj51",
+            "cover": "https://down-aka-sg.img.susercontent.com/vn-11110103-7r98o-ly0cf75n3dsba7",
+            "url": "https://down-zl-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.12000051721620689.mp4",
+            "duration": 3007,
+            "mms_ext": "{\"vid\":\"vn-11110103-6khw8-ly0cf5l1duqj51\",\"biz\":103,\"duration\":3007,\"create_time\":1721620685,\"serviceID\":6,\"cover\":\"https://down-aka-sg.img.susercontent.com/vn-11110103-7r98o-ly0cf75n3dsba7\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.12000051721620689.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.12000051721620689.mp4\",\"width\":540,\"height\":960,\"bitrate\":598250,\"size\":268119,\"fps\":25,\"duration\":3051,\"update_time\":1721620689}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":573128,\"size\":261942,\"fps\":25.34247,\"duration\":3007,\"update_time\":1721620701},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.16003071732113327.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.16003071732113327.mp4\",\"width\":540,\"height\":960,\"bitrate\":287770,\"size\":161905,\"fps\":25,\"duration\":3018,\"update_time\":1732113330},{\"format\":1600021,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.16000211732113323.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.16000211732113323.mp4\",\"width\":540,\"height\":960,\"bitrate\":394575,\"size\":201423,\"fps\":25,\"duration\":3018,\"update_time\":1732113326}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7rdvw-lyf7919hfsl0ca",
+            "highlight": {
+              "id": "vn-11110103-6khw8-ly0cf5l1duqj51",
+              "cover": "https://down-aka-sg.img.susercontent.com/vn-11110103-7r98o-ly0cf75n3dsba7",
+              "url": "https://down-zl-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.12000051721620689.mp4",
+              "duration": 3007,
+              "mms_ext": "{\"vid\":\"vn-11110103-6khw8-ly0cf5l1duqj51\",\"biz\":103,\"duration\":3007,\"create_time\":1721620685,\"serviceID\":6,\"cover\":\"https://down-aka-sg.img.susercontent.com/vn-11110103-7r98o-ly0cf75n3dsba7\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.12000051721620689.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.12000051721620689.mp4\",\"width\":540,\"height\":960,\"bitrate\":598250,\"size\":268119,\"fps\":25,\"duration\":3051,\"update_time\":1721620689}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":573128,\"size\":261942,\"fps\":25.34247,\"duration\":3007,\"update_time\":1721620701},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.16003071732113327.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.16003071732113327.mp4\",\"width\":540,\"height\":960,\"bitrate\":287770,\"size\":161905,\"fps\":25,\"duration\":3018,\"update_time\":1732113330},{\"format\":1600021,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.16000211732113323.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-ly0cf5l1duqj51.16000211732113323.mp4\",\"width\":540,\"height\":960,\"bitrate\":394575,\"size\":201423,\"fps\":25,\"duration\":3018,\"update_time\":1732113326}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7rdvw-lyf7919hfsl0ca"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-ly0ceixameore4",
+            "cover_image_id": "vn-11134103-7r98o-ly0ceixameore4"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0ceixant97d0",
+            "cover_image_id": "vn-11134103-7r98o-ly0ceixant97d0"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0ceixap7tn3b",
+            "cover_image_id": "vn-11134103-7r98o-ly0ceixap7tn3b"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0ceixaqme3bb",
+            "cover_image_id": "vn-11134103-7r98o-ly0ceixaqme3bb"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15921884853,
+        "ctime": 1721621699,
+        "rating": 1,
+        "userid": 725498344,
+        "shopid": 718577709,
+        "comment": "Tính năng nổi bật:dùng ok ạ\nChất lượng sản phẩm:tốt\n\nChất lượng sp tuyệt vời. Đã dùng thử qua rất nhiều sp mà chưa sp nào hiệu quả cao như vậy. Shop hướng dẫn rất tận tình. Sp rất chất lượng nên dùng ok lắm nha ạ. M sẽ đặt thêm ạ",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1721621699,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1721621699,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "vukimoanhpqrt66116",
+        "author_portrait": "vn-11134004-7r98o-lpez0gq6uau367",
+        "author_shopid": 725478759,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-ly0co5xkz2zf23",
+          "vn-11134103-7r98o-ly0co5xl0hjv10"
+        ],
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-ly0co5xkz2zf23",
+            "cover_image_id": "vn-11134103-7r98o-ly0co5xkz2zf23"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0co5xl0hjv10",
+            "cover_image_id": "vn-11134103-7r98o-ly0co5xl0hjv10"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15924912611,
+        "ctime": 1721639476,
+        "rating": 1,
+        "userid": 720296249,
+        "shopid": 718577709,
+        "comment": "Đang nghèo cần máy tham khảo mãi thì mới tìm được chỗ ngon, bổ, rẻ Shop tư vấn tận tâm, lại còn tặng quà thêm . Ship nhanh, rất hài lòng. Chúc shop phát triển",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1731602032,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1721639476,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "vominhdatogre25107",
+        "author_portrait": "vn-11134004-7r98o-lq23a0f3e2bbfc",
+        "author_shopid": 720276664,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-ly0nenm1y76j6b",
+          "vn-11134103-7r98o-ly0nenm1zlqzab",
+          "vn-11134103-7r98o-ly0nenm210bf46"
+        ],
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "like_count": 1,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-ly0nenm1y76j6b",
+            "cover_image_id": "vn-11134103-7r98o-ly0nenm1y76j6b"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0nenm1zlqzab",
+            "cover_image_id": "vn-11134103-7r98o-ly0nenm1zlqzab"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0nenm210bf46",
+            "cover_image_id": "vn-11134103-7r98o-ly0nenm210bf46"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 16301920468,
+        "ctime": 1724635672,
+        "rating": 1,
+        "userid": 1109668557,
+        "shopid": 718577709,
+        "comment": "Chất lượng sản phẩm:ôk ổn ạ\n\nmáy thì ổn nhưng center nhất vẫn là chủ sốp tư vấn siêu nhiệt tình đổi trả hàng các kiểu nói chung là ưng lắm ạ 5 sao khum nói nhìu",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1725159293,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1724635672,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "dhjdksdjjd",
+        "author_portrait": "",
+        "author_shopid": 1109391517,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-lze5ekx334wx64",
+          "vn-11134103-7r98o-lze5ekwj5cgd65",
+          "vn-11134103-7r98o-lze5ekxd2q19cb"
+        ],
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 47210256552,
+            "modelid": 69784937414,
+            "model_name": "I3 6100 8gb ssd 256",
+            "options": [
+              "I3 6100 8gb ssd 256"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 16301920468,
+          "ctime": 1725159293,
+          "userid": 718597294,
+          "comment": "Shop Cám ơn bạn ủng hộ shop mình ạ. B cần thêm thông tin hay tư vấn gì thêm liên hệ hotline/zalo: 0866.083.610\n",
+          "mtime": 1725159293,
+          "is_hidden": false
+        },
+        "editable_date": 1727227672,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-lze5ekx334wx64",
+            "cover_image_id": "vn-11134103-7r98o-lze5ekx334wx64"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lze5ekwj5cgd65",
+            "cover_image_id": "vn-11134103-7r98o-lze5ekwj5cgd65"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lze5ekxd2q19cb",
+            "cover_image_id": "vn-11134103-7r98o-lze5ekxd2q19cb"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15921969825,
+        "ctime": 1721622211,
+        "rating": 1,
+        "userid": 706087449,
+        "shopid": 718577709,
+        "comment": "Chất lượng sản phẩm:được đó\nTính năng nổi bật:dùng oke nhé\n\nSản phẩm chất lượng cao giao hàng nhanh chóng, nên mua nha ae, dòng acer siêu bền , máy chạy khỏe",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1721622211,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1721622211,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "vqxpleducdoan811",
+        "author_portrait": "vn-11134903-22120-03l4pjh1p7kvcf",
+        "author_shopid": 706067864,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-ly0d3karor89fa",
+          "vn-11134103-7r98o-ly0d3karq5sp66",
+          "vn-11134103-7r98o-ly0d3karrkd5d1"
+        ],
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-ly0d3karor89fa",
+            "cover_image_id": "vn-11134103-7r98o-ly0d3karor89fa"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0d3karq5sp66",
+            "cover_image_id": "vn-11134103-7r98o-ly0d3karq5sp66"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0d3karrkd5d1",
+            "cover_image_id": "vn-11134103-7r98o-ly0d3karrkd5d1"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15924835086,
+        "ctime": 1721639056,
+        "rating": 1,
+        "userid": 720299143,
+        "shopid": 718577709,
+        "comment": "đặt hộ bạn được giá hời lại sp tốt nó khen mãi, thấy hay lại đặt thêm cho mình 1 cái dùng luôn",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1721918090,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1721639056,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "vonguyenquynhnganoyrm",
+        "author_portrait": "vn-11134004-7r98o-lq23dqbrflci5f",
+        "author_shopid": 720279558,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-ly0n41p4pv4rc1",
+          "vn-11134103-7r98o-ly0n41p4so9n5a"
+        ],
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "editable_date": 1724231056,
+        "like_count": 0,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-ly0n41p4pv4rc1",
+            "cover_image_id": "vn-11134103-7r98o-ly0n41p4pv4rc1"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-ly0n41p4so9n5a",
+            "cover_image_id": "vn-11134103-7r98o-ly0n41p4so9n5a"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15927719405,
+        "ctime": 1721655444,
+        "rating": 1,
+        "userid": 720291091,
+        "shopid": 718577709,
+        "comment": "Mày đúng cấu hình shop giới thiệu Hình thức trông rất đẹp và chắc chắn Giao hàng nhanh đóng gói cẩn thận Đã chạy thử ba ngày Ổn định Sản phẩm Đáng mua Shop giới thiệu chi tiết cách nhiệt tình sẽ quay lại ủng hộ shop",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1721655444,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1721655444,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "tuanbanguyenokli41572",
+        "author_portrait": "vn-11134004-7r98o-lq239zxm3mxe1e",
+        "author_shopid": 720271506,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15928000185,
+        "ctime": 1721657163,
+        "rating": 1,
+        "userid": 632920797,
+        "shopid": 718577709,
+        "comment": "Sản phẩm quá tốt lắp phát máy nhận luôn test nửa ngày sản phẩm chạy rất mười mà ko giật lag gì Shop phẩn hồi rất nhanh vào nhiệt tình nói chung shop 10đ nên đc nhận 5*.",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1721657163,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1721657163,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "tranthihongvr",
+        "author_portrait": "sg-11134004-23030-hlf5amkrdeov93",
+        "author_shopid": 632901212,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15928349713,
+        "ctime": 1721659582,
+        "rating": 1,
+        "userid": 719366134,
+        "shopid": 718577709,
+        "comment": "Shop đóng gói hàng cẩn thận, giao đủ hàng, giá bán hợp lý. Mình thích khuyến mại, cứ có khuyến mại là mua ủng hộ. Chúc Shop luôn đông khách, sẽ ủng hộ Shop ở những lần sau.",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1721659582,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1721659582,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "phuongtrangorsx",
+        "author_portrait": "vn-11134004-7r98o-lpeyw77di4ij3b",
+        "author_shopid": 719346549,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15927620992,
+        "ctime": 1721654865,
+        "rating": 1,
+        "userid": 720296191,
+        "shopid": 718577709,
+        "comment": "Mình đánh giá 5 sao vì dịch vụ cực tốt, tư vấn có tâm, đặt sau 2 tiếng là nhận được cây rồi. Cây cực nhỏ gọn, đẹp. Mình mua để xem camera quán, hình ảnh nét và nhanh. 10 ++ điểm cho shop",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1721654865,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1721654865,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "tuanquoctranoyqm94347",
+        "author_portrait": "vn-11134004-7r98o-lq239099ljcn77",
+        "author_shopid": 720276606,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15928057631,
+        "ctime": 1721657525,
+        "rating": 1,
+        "userid": 720299749,
+        "shopid": 718577709,
+        "comment": "Máy rất ổn.. nhân viên kỹ thuật hướng dẫn nhiệt tình.. vận chuyển nhanh, đảm bảo, đóng gói cẩn thận. Chất lượng dùng mượt mà sau mới biết.. Nói chung là hài lòng. Cho 5 sao",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1721657525,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1721657525,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "trangthuychuoxbo89603",
+        "author_portrait": "vn-11134004-7r98o-lq23bnl6sx5ed7",
+        "author_shopid": 720280164,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15720972065,
+        "ctime": 1720093417,
+        "rating": 1,
+        "userid": 777146808,
+        "shopid": 718577709,
+        "comment": "Sản phẩm ok, giao hàng nhanh, tốt. Sp tuyệt vời đáng giá tiền nên mua \nRất ưng ý giao hàng nhanh \nCho 5 sao mn nên mua nhé dùng ok lắm ạ",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1720093417,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1720093417,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "kimlienaa25",
+        "author_portrait": "",
+        "author_shopid": 777163054,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 39135776642,
+            "modelid": 69784937415,
+            "model_name": "i7 R8g SSD256 Gt730",
+            "options": [
+              "i7 R8g SSD256 Gt730"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15924984309,
+        "ctime": 1721639888,
+        "rating": 1,
+        "userid": 720293282,
+        "shopid": 718577709,
+        "comment": "sản phẩm tốt .mọi người nên mua nhé giao hàng đóng gói cẩn thận giá rẻ nhưng chất lượn ok mong cho nhanh hỏng để ủng hộ shop tiếp",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1721639888,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1721639888,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "vietdamopuj58168",
+        "author_portrait": "vn-11134004-7r98o-lq2390zvb0hjd3",
+        "author_shopid": 720273697,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 24712885500,
+            "modelid": 69784937419,
+            "model_name": "i7 6700 8gb ssd 256",
+            "options": [
+              "i7 6700 8gb ssd 256"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27253416536,
+        "cmtid": 15721329339,
+        "ctime": 1720095076,
+        "rating": 1,
+        "userid": 1232758141,
+        "shopid": 718577709,
+        "comment": "Shop giao hàng nhanh, sản phẩm được đóng gói kĩ càng lắm nha khi sản phẩm về và có dùng thử mình rất là ưng luôn mọi người nên mua thử nha",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1720095076,
+        "editable": 0,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1720095076,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "5zs2y3mupt",
+        "author_portrait": "",
+        "author_shopid": 1232341930,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 27253416536,
+            "shopid": 718577709,
+            "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+            "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+            "is_snapshot": 1,
+            "snapshotid": 39135776642,
+            "modelid": 69784937415,
+            "model_name": "i7 R8g SSD256 Gt730",
+            "options": [
+              "i7 R8g SSD256 Gt730"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27253416536,
+          "shopid": 718577709,
+          "name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+          "image": "vn-11134207-7r98o-lwzw9llfj1spea"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27253416536"
+      }
+    ],
+    "item_rating_summary": {
+      "rating_total": 103,
+      "rating_count": [
+        0,
+        0,
+        1,
+        0,
+        102
+      ],
+      "rcount_with_context": 32,
+      "rcount_with_image": 9,
+      "rcount_with_media": 9,
+      "rcount_local_review": 103,
+      "rcount_repeat_purchase": 0,
+      "rcount_overall_fit_small": 0,
+      "rcount_overall_fit_fit": 0,
+      "rcount_overall_fit_large": 0,
+      "rcount_oversea_review": 0,
+      "rcount_folded": 0,
+      "show_size_fitting": false
+    },
+    "is_sip_item": false,
+    "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_default,QUEUE:comment_search_default,NEWABTEST:0,QUEUES:comment_search_default",
+    "downgrade_switch": false,
+    "has_more": true,
+    "show_local_review": false,
+    "browsing_ui": "",
+    "enable_buyer_gallery_media": true,
+    "size_info_abt": "",
+    "resize_image_abt": false,
+    "purchase_bar_abt": "bucket_a",
+    "signature": "",
+    "original_review_summary": {},
+    "fe_review_summary": {}
+  },
+  "id": "27253416536"
+}

@@ -1,0 +1,3367 @@
+{
+    "url": "https://shopee.vn/Ma%CC%81y-ti%CC%81nh-%C4%91%E1%BB%93ng-b%E1%BB%99-Acer-Extensa-Core-i7-i5-i3-gen-6-Ram-8G-SSD-120GB-SSD-256GB-(-T%E1%BA%B7ng-usb-Wifi-)-H%E1%BA%A3i-Nam-Computer-i.718577709.27253416536",
+    "status": "SUCCESS",
+    "responseBody": {
+        "bff_meta": null,
+        "error": null,
+        "error_msg": null,
+        "data": {
+            "item": {
+                "item_id": 27253416536,
+                "shop_id": 718577709,
+                "item_status": "normal",
+                "status": 1,
+                "item_type": 0,
+                "reference_item_id": "",
+                "title": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+                "image": "vn-11134207-7r98o-lwzw9llfj1spea",
+                "label_ids": [
+                    1000278,
+                    1000279,
+                    844931064601283,
+                    844931086908638,
+                    700000280,
+                    822059849520140,
+                    1119699,
+                    1006856,
+                    1007525,
+                    1718087960,
+                    1428713,
+                    1000742,
+                    700605241,
+                    1400545247,
+                    1400545265,
+                    1718088155,
+                    1400550263,
+                    1400000235,
+                    1009763,
+                    997971089,
+                    1883613,
+                    1883614,
+                    1818952,
+                    1918607,
+                    298733336,
+                    829011927936514,
+                    700515093,
+                    1009063,
+                    829011927934466,
+                    1883642
+                ],
+                "is_adult": false,
+                "is_preview": false,
+                "flag": 196608,
+                "is_service_by_shopee": false,
+                "condition": 1,
+                "cat_id": 100644,
+                "has_low_fulfillment_rate": false,
+                "is_live_streaming_price": null,
+                "currency": "VND",
+                "brand": "Hải Nam Computers",
+                "brand_id": 4447845,
+                "show_discount": 20,
+                "ctime": 1718961107,
+                "item_rating": {
+                    "rating_star": 4.980582524271845
+                },
+                "cb_option": 0,
+                "has_model_with_available_shopee_stock": false,
+                "shop_location": "Hà Nội",
+                "attributes": [
+                    {
+                        "name": "Cổng/ Giao diện",
+                        "value": "Ethernet LAN, HDMI, USB 2.0, USB 3.0",
+                        "id": 100447,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 3075,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Loại bảo hành",
+                        "value": "Bảo hành nhà cung cấp",
+                        "id": 100370,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2437,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Game chuyên dụng",
+                        "value": "Không",
+                        "id": 100381,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2512,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Dung lượng lưu trữ",
+                        "value": "256GB",
+                        "id": 100465,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 5162,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Bộ xử lý",
+                        "value": "Intel Core i7",
+                        "id": 100460,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2857,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Ổ đĩa quang",
+                        "value": "không",
+                        "id": 100432,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2591,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Hệ điều hành",
+                        "value": "Windows",
+                        "id": 100427,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 2619,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Hạn bảo hành",
+                        "value": "12 tháng",
+                        "id": 100121,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 822,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    },
+                    {
+                        "name": "Loại lưu trữ",
+                        "value": "SSD",
+                        "id": 100048,
+                        "is_timestamp": false,
+                        "brand_option": null,
+                        "val_id": 490,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": null
+                    }
+                ],
+                "rich_text_description": {
+                    "paragraph_list": [
+                        {
+                            "type": 1,
+                            "text": null,
+                            "img_id": "vn-11134208-7r98o-lwzvbevce0nt14",
+                            "ratio": 1,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 0,
+                            "text": "Hải Nam Computer - Cam Kết Hàng Chính Hãng - Uy tín - Chất Lượng",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 0,
+                            "text": "=>> Chip thế hệ Gen 6 Mạnh Mẽ",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 0,
+                            "text": "ƯU ĐÃI SỐC : Tặng kèm bàn phím và chuột , USB Wifi, lót chuột khi mua thêm màn ( gồm dây kết nối màn )",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "Hỗ trợ tư vấn chuẩn nhất  nhắn cho shop ạ",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "Cần tư vấn hỗ trợ hoặc yêu cầu riêng thêm vui lòng nhắn tin cho shop",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "Cần tư vấn hỗ trợ hoặc yêu cầu riêng thêm vui lòng nhắn tin cho shop hoặc ghi chú tại phần đơn hàng",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "✅ Giới thiệu sản phẩm:",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "PC Acer Extensa X2610G - N3700 không chỉ có thiết kế sang trọng đẹp mắt. Mà với kích thích máy nhỏ gọn sự tiện lợi mà nó đem lại rất phù hợp với các cửa hàng, quán cafe, shop, phục vụ các công việc thu ngân, nhân viên văn phòng hoặc những người dùng cá nhân yêu thích sự đơn giản và linh hoạt.",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "* Với hiệu năng mạnh mẽ được trang bị bộ vi xử lí CPU Intel Core i3 ,i5, i7 đa nhiệm có xung nhịp cao gắn kèm Quạt tản nhiệt cực mát không chỉ mang lại hiệu năng mạnh mẽ mà còn có khả năng đa nhiệm rất tốt, đáp ứng tốt nhu cầu văn phòng, đồ họa, học tập cũng như các ứng dụng yêu cầu cấu hình cao.",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "* Được tích hợp VGA Onboard  có khả năng giúp người dùng có những trải nghiệm tốt với những tác vụ đồ hoạ thông thường. Bạn cũng có thể nâng cấp thêm VGA rời sẽ khiến bộ máy tính để bàn có hiệu năng mạnh mẽ.",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "* Với 3 cổng xuất hình VGA + HDMI + Display port thoái cắm mọi màn hình",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "* Sử dụng RAM DDR3 4G đến 8G cho khả năng đa nhiệm các tác vụ liên đến những phần mềm văn phòng, đồ họa, trình duyệt Web chạy song song. Bạn cũng có thể dễ dàng nâng cấp dung lượng RAM nữa cho bộ máy tính",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "* Sử dụng ổ cứng lưu trữ SSD 128G / 256G để cài đặt windows và các ứng dụng cơ bản 1 cách mượt mà và ổn định. Người dùng có thể thoải mái lưu trữ dữ liệu những nhu cầu thông thường . Có khe cắm SSD chuẩn NVME tốc độ cực nhanh",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "* Bộ nguồn công suất thật 250W đủ cung cấp toàn bộ hệ thống máy hoạt động trơn tru không sợ thiếu tải",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Với rất nhiều các công kết nối ở cả mặt trước và mặt sau như USB, Mạng, Loa , VGA sẽ giúp người dùng dễ dàng hơn trong việc kết nối các thiết bị ngoại vi với máy tính.",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "-Với cấu hình được trang bị sẽ đáp ứng tốt nhu cầu Học Tập & Giải Trí và làm việc văn phòng. Phù hợp với cá nhân, cửa hàng, công ty, cafe, nhà hàng....",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "✅CAM KẾT:",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Sản phẩm nguyên Zin (Nói Không với Hàng Trung Quốc, Hàng Kém Chất Lượng)",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Sản phẩm 100% giống mô tả, hoàn tiền nếu sản phẩm không giống với mô tả",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Hàng có sẵn, giao hàng ngay khi nhận được đơn, thanh toán COD toàn quốc",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "✅CHÍNH SÁCH BẢO HÀNH:",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "- Bảo Hành 12 Tháng 1 đổi 1 luôn cho khách hàng",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 10001,
+                            "text": null,
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": 1
+                        },
+                        {
+                            "type": 0,
+                            "text": "****************************************************************",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        },
+                        {
+                            "type": 0,
+                            "text": "#maytinhcugiare  #maytinhchoinox #maytinhcay #maytinhvanphong #caydongboacer #caypc #mayvitinh #pcgiare",
+                            "img_id": null,
+                            "ratio": null,
+                            "empty_paragraph_count": null
+                        }
+                    ]
+                },
+                "invoice_option": null,
+                "is_category_failed": null,
+                "is_prescription_item": false,
+                "preview_info": null,
+                "show_prescription_feed": false,
+                "is_alcohol_product": false,
+                "is_infant_milk_formula_product": false,
+                "is_unavailable": false,
+                "is_partial_fulfilled": false,
+                "is_presale": false,
+                "is_presale_deposit_item": null,
+                "is_presale_deposit_made": null,
+                "description": "\nHải Nam Computer - Cam Kết Hàng Chính Hãng - Uy tín - Chất Lượng\n\nMáy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer\n=>> Chip thế hệ Gen 6 Mạnh Mẽ\nƯU ĐÃI SỐC : Tặng kèm bàn phím và chuột , USB Wifi, lót chuột khi mua thêm màn ( gồm dây kết nối màn )\n\nHỗ trợ tư vấn chuẩn nhất  nhắn cho shop ạ\n\nCần tư vấn hỗ trợ hoặc yêu cầu riêng thêm vui lòng nhắn tin cho shop\n\nCần tư vấn hỗ trợ hoặc yêu cầu riêng thêm vui lòng nhắn tin cho shop hoặc ghi chú tại phần đơn hàng\n\n✅ Giới thiệu sản phẩm:\n\nPC Acer Extensa X2610G - N3700 không chỉ có thiết kế sang trọng đẹp mắt. Mà với kích thích máy nhỏ gọn sự tiện lợi mà nó đem lại rất phù hợp với các cửa hàng, quán cafe, shop, phục vụ các công việc thu ngân, nhân viên văn phòng hoặc những người dùng cá nhân yêu thích sự đơn giản và linh hoạt.\n\n* Với hiệu năng mạnh mẽ được trang bị bộ vi xử lí CPU Intel Core i3 ,i5, i7 đa nhiệm có xung nhịp cao gắn kèm Quạt tản nhiệt cực mát không chỉ mang lại hiệu năng mạnh mẽ mà còn có khả năng đa nhiệm rất tốt, đáp ứng tốt nhu cầu văn phòng, đồ họa, học tập cũng như các ứng dụng yêu cầu cấu hình cao.\n\n* Được tích hợp VGA Onboard  có khả năng giúp người dùng có những trải nghiệm tốt với những tác vụ đồ hoạ thông thường. Bạn cũng có thể nâng cấp thêm VGA rời sẽ khiến bộ máy tính để bàn có hiệu năng mạnh mẽ.\n\n* Với 3 cổng xuất hình VGA + HDMI + Display port thoái cắm mọi màn hình\n\n* Sử dụng RAM DDR3 4G đến 8G cho khả năng đa nhiệm các tác vụ liên đến những phần mềm văn phòng, đồ họa, trình duyệt Web chạy song song. Bạn cũng có thể dễ dàng nâng cấp dung lượng RAM nữa cho bộ máy tính\n\n* Sử dụng ổ cứng lưu trữ SSD 128G / 256G để cài đặt windows và các ứng dụng cơ bản 1 cách mượt mà và ổn định. Người dùng có thể thoải mái lưu trữ dữ liệu những nhu cầu thông thường . Có khe cắm SSD chuẩn NVME tốc độ cực nhanh\n\n* Bộ nguồn công suất thật 250W đủ cung cấp toàn bộ hệ thống máy hoạt động trơn tru không sợ thiếu tải\n\n- Với rất nhiều các công kết nối ở cả mặt trước và mặt sau như USB, Mạng, Loa , VGA sẽ giúp người dùng dễ dàng hơn trong việc kết nối các thiết bị ngoại vi với máy tính.\n\n-Với cấu hình được trang bị sẽ đáp ứng tốt nhu cầu Học Tập & Giải Trí và làm việc văn phòng. Phù hợp với cá nhân, cửa hàng, công ty, cafe, nhà hàng....\n\n✅CAM KẾT:\n\n- Sản phẩm nguyên Zin (Nói Không với Hàng Trung Quốc, Hàng Kém Chất Lượng)\n\n- Sản phẩm 100% giống mô tả, hoàn tiền nếu sản phẩm không giống với mô tả\n\n- Hàng có sẵn, giao hàng ngay khi nhận được đơn, thanh toán COD toàn quốc\n\n✅CHÍNH SÁCH BẢO HÀNH:\n\n- Bảo Hành 12 Tháng 1 đổi 1 luôn cho khách hàng\n\n****************************************************************\n#maytinhcugiare  #maytinhchoinox #maytinhcay #maytinhvanphong #caydongboacer #caypc #mayvitinh #pcgiare",
+                "categories": [
+                    {
+                        "catid": 100644,
+                        "display_name": "Máy tính & Laptop",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 101932,
+                        "display_name": "Máy Tính Bàn",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 101944,
+                        "display_name": "Bộ Máy Tính Bàn",
+                        "no_sub": true,
+                        "is_default_subcat": false
+                    }
+                ],
+                "fe_categories": [
+                    {
+                        "catid": 11035954,
+                        "display_name": "Máy Tính & Laptop",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 11035955,
+                        "display_name": "Máy Tính Bàn",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 11035956,
+                        "display_name": "Bộ Máy Tính Bàn",
+                        "no_sub": true,
+                        "is_default_subcat": false
+                    }
+                ],
+                "item_has_video": false,
+                "presale_dday_start_time": null,
+                "is_lowest_price_at_shopee": null,
+                "models": [
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 ram 8G ssd 256G,KO MÀN",
+                        "promotion_id": 512194337964032,
+                        "price": 408000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                1,
+                                0
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 510000000000,
+                        "model_id": 215345140526,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 r8 ssd 256G Gt730,Màn 19 new",
+                        "promotion_id": 512194337964032,
+                        "price": 670000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                7,
+                                1
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 837500000000,
+                        "model_id": 215345140518,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 r16 ssd256G Gt730,Màn 19 new",
+                        "promotion_id": 512194337964032,
+                        "price": 624480000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                6,
+                                1
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 780600000000,
+                        "model_id": 215345140496,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 r16 ssd256G Gt730,Màn 19 new",
+                        "promotion_id": 512194337964032,
+                        "price": 699520000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                8,
+                                1
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 874400000000,
+                        "model_id": 215345140507,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 ram 8G ssd 256G,KO MÀN",
+                        "promotion_id": 512194337964032,
+                        "price": 483040000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                3,
+                                0
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 603800000000,
+                        "model_id": 215345140523,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 ram 16G ssd 256G,Màn 22 new",
+                        "promotion_id": 512194337964032,
+                        "price": 581520000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                2,
+                                2
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 726900000000,
+                        "model_id": 215345140509,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 r8 ssd 256G Gt730,Màn 22 new",
+                        "promotion_id": 512194337964032,
+                        "price": 611040000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                5,
+                                2
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 763800000000,
+                        "model_id": 215345140498,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 ram 8G ssd 256G,Màn 24 new",
+                        "promotion_id": 512194337964032,
+                        "price": 647040000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                3,
+                                3
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 808800000000,
+                        "model_id": 215345140495,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 r8 ssd 256G Gt730,Màn 19 new",
+                        "promotion_id": 512194337964032,
+                        "price": 595040000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                5,
+                                1
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 743800000000,
+                        "model_id": 215345140512,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 ram 16G ssd 256G,Màn 19 new",
+                        "promotion_id": 512194337964032,
+                        "price": 640480000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                4,
+                                1
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 800600000000,
+                        "model_id": 215345140516,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 ram 16G ssd 256G,Màn 22 new",
+                        "promotion_id": 512194337964032,
+                        "price": 656480000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                4,
+                                2
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 820600000000,
+                        "model_id": 215345140528,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 ram 16G ssd 256G,KO MÀN",
+                        "promotion_id": 512194337964032,
+                        "price": 512480000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                4,
+                                0
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 640600000000,
+                        "model_id": 215345140515,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 ram 8G ssd 256G,Màn 24 new",
+                        "promotion_id": 512194337964032,
+                        "price": 572000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                1,
+                                3
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 715000000000,
+                        "model_id": 215345140508,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 ram 16G ssd 256G,Màn 24 new",
+                        "promotion_id": 512194337964032,
+                        "price": 676480000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                4,
+                                3
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 845600000000,
+                        "model_id": 215345140497,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 ram 8G ssd 256G,Màn 22 new",
+                        "promotion_id": 512194337964032,
+                        "price": 627040000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                3,
+                                2
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 783800000000,
+                        "model_id": 215345140524,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 ram 8G ssd 256G,Màn 19 new",
+                        "promotion_id": 512194337964032,
+                        "price": 536000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                1,
+                                1
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 670000000000,
+                        "model_id": 215345140514,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 ram 16G ssd 256G,Màn 19 new",
+                        "promotion_id": 512194337964032,
+                        "price": 565520000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                2,
+                                1
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 706900000000,
+                        "model_id": 215345140494,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i3 ram 8G ssd 256G,KO MÀN",
+                        "promotion_id": 512194337964032,
+                        "price": 388000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                0,
+                                0
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 485000000000,
+                        "model_id": 215345140503,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 ram 8G ssd 256G,Màn 22 new",
+                        "promotion_id": 512194337964032,
+                        "price": 552000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                1,
+                                2
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 690000000000,
+                        "model_id": 215345140520,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 r16 ssd256G Gt730,KO MÀN",
+                        "promotion_id": 512194337964032,
+                        "price": 571520000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                8,
+                                0
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 714400000000,
+                        "model_id": 215345140513,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 ram 16G ssd 256G,Màn 24 new",
+                        "promotion_id": 512194337964032,
+                        "price": 601520000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                2,
+                                3
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 751900000000,
+                        "model_id": 215345140521,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 r16 ssd256G Gt730,Màn 24 new",
+                        "promotion_id": 512194337964032,
+                        "price": 735520000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                8,
+                                3
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 919400000000,
+                        "model_id": 215345140529,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 r8 ssd 256G Gt730,Màn 24 new",
+                        "promotion_id": 512194337964032,
+                        "price": 631040000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                5,
+                                3
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 788800000000,
+                        "model_id": 215345140499,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 r8 ssd 256G Gt730,Màn 24 new",
+                        "promotion_id": 512194337964032,
+                        "price": 706000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                7,
+                                3
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 882500000000,
+                        "model_id": 215345140519,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 r8 ssd 256G Gt730,Màn 22 new",
+                        "promotion_id": 512194337964032,
+                        "price": 686000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                7,
+                                2
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 857500000000,
+                        "model_id": 215345140506,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 r16 ssd256G Gt730,Màn 22 new",
+                        "promotion_id": 512194337964032,
+                        "price": 715520000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                8,
+                                2
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 894400000000,
+                        "model_id": 215345140502,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i3 ram 8G ssd 256G,Màn 24 new",
+                        "promotion_id": 512194337964032,
+                        "price": 552000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                0,
+                                3
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 690000000000,
+                        "model_id": 215345140505,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 r8 ssd 256G Gt730,KO MÀN",
+                        "promotion_id": 512194337964032,
+                        "price": 467040000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                5,
+                                0
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 583800000000,
+                        "model_id": 215345140511,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i3 ram 8G ssd 256G,Màn 19 new",
+                        "promotion_id": 512194337964032,
+                        "price": 516000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                0,
+                                1
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 645000000000,
+                        "model_id": 215345140525,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 r16 ssd256G Gt730,Màn 24 new",
+                        "promotion_id": 512194337964032,
+                        "price": 660480000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                6,
+                                3
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 825600000000,
+                        "model_id": 215345140501,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i3 ram 8G ssd 256G,Màn 22 new",
+                        "promotion_id": 512194337964032,
+                        "price": 532000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                0,
+                                2
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 665000000000,
+                        "model_id": 215345140504,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 ram 8G ssd 256G,Màn 19 new",
+                        "promotion_id": 512194337964032,
+                        "price": 611040000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                3,
+                                1
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 763800000000,
+                        "model_id": 215345140510,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 r16 ssd256G Gt730,Màn 22 new",
+                        "promotion_id": 512194337964032,
+                        "price": 640480000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                6,
+                                2
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 800600000000,
+                        "model_id": 215345140500,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 ram 16G ssd 256G,KO MÀN",
+                        "promotion_id": 512194337964032,
+                        "price": 437520000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                2,
+                                0
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 546900000000,
+                        "model_id": 215345140527,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i5 r16 ssd256G Gt730,KO MÀN",
+                        "promotion_id": 512194337964032,
+                        "price": 496480000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                6,
+                                0
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 620600000000,
+                        "model_id": 215345140522,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    },
+                    {
+                        "item_id": 27253416536,
+                        "status": 1,
+                        "current_promotion_reserved_stock": null,
+                        "name": "i7 r8 ssd 256G Gt730,KO MÀN",
+                        "promotion_id": 512194337964032,
+                        "price": 542000000000,
+                        "price_stocks": [
+                            {
+                                "allocated_stock": null,
+                                "stock_breakdown_by_location": null,
+                                "promotion_type": 301
+                            },
+                            {
+                                "allocated_stock": 0,
+                                "stock_breakdown_by_location": [
+                                    {
+                                        "location_id": "VNZ",
+                                        "available_stock": null,
+                                        "fulfilment_type": 2,
+                                        "address_id": 0,
+                                        "allocated_stock": null
+                                    }
+                                ],
+                                "promotion_type": 0
+                            }
+                        ],
+                        "current_promotion_has_reserve_stock": false,
+                        "normal_stock": null,
+                        "extinfo": {
+                            "tier_index": [
+                                7,
+                                0
+                            ],
+                            "is_pre_order": false,
+                            "estimated_days": 2
+                        },
+                        "price_before_discount": 677500000000,
+                        "model_id": 215345140517,
+                        "stock": null,
+                        "has_gimmick_tag": false,
+                        "key_measurement": null,
+                        "sold": null,
+                        "is_lowest_price_at_shopee": false
+                    }
+                ],
+                "tier_variations": [
+                    {
+                        "name": "Cấu Hình",
+                        "options": [
+                            "i3 ram 8G ssd 256G",
+                            "i5 ram 8G ssd 256G",
+                            "i5 ram 16G ssd 256G",
+                            "i7 ram 8G ssd 256G",
+                            "i7 ram 16G ssd 256G",
+                            "i5 r8 ssd 256G Gt730",
+                            "i5 r16 ssd256G Gt730",
+                            "i7 r8 ssd 256G Gt730",
+                            "i7 r16 ssd256G Gt730"
+                        ],
+                        "images": [
+                            "vn-11134207-7r98o-lzgecpe28qbxe3",
+                            "vn-11134207-7r98o-lzgecth49jfl30",
+                            "vn-11134207-7r98o-lzgecwdg0v2le1",
+                            "vn-11134207-7r98o-lzgecy4zfvz5f2",
+                            "vn-11134207-7r98o-lzged12f5l5957",
+                            "vn-11134207-7r98o-lzged8gsbstd36",
+                            "vn-11134207-7r98o-lzgedab3mr0t8f",
+                            "vn-11134207-7r98o-lzgedc68whwhdf",
+                            "vn-11134207-7r98o-lzgede9pu1ql61"
+                        ],
+                        "properties": null,
+                        "type": 0,
+                        "summed_stocks": null,
+                        "display_indicators": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    {
+                        "name": "Thêm Màn",
+                        "options": [
+                            "KO MÀN",
+                            "Màn 19 new",
+                            "Màn 22 new",
+                            "Màn 24 new"
+                        ],
+                        "images": null,
+                        "properties": null,
+                        "type": 0,
+                        "summed_stocks": null,
+                        "display_indicators": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                ],
+                "size_chart": null,
+                "size_chart_info": null,
+                "welcome_package_type": 0,
+                "is_free_gift": false,
+                "deep_discount": null,
+                "is_low_price_eligible": null,
+                "bundle_deal_info": null,
+                "add_on_deal_info": null,
+                "shipping_icon_type": 0,
+                "badge_icon_type": 0,
+                "spl_info": {
+                    "installment_info": null,
+                    "user_credit_info": null,
+                    "channel_id": null,
+                    "show_spl": false,
+                    "show_spl_lite": null,
+                    "spl_xtra": null
+                },
+                "estimated_days": 2,
+                "is_pre_order": false,
+                "is_free_shipping": false,
+                "overall_purchase_limit": null,
+                "min_purchase_limit": 0,
+                "is_hide_stock": false,
+                "stock": null,
+                "normal_stock": null,
+                "current_promotion_reserved_stock": 0,
+                "can_use_wholesale": false,
+                "wholesale_tier_list": [],
+                "price": 388000000000,
+                "raw_discount": 20,
+                "hidden_price_display": null,
+                "price_min": 388000000000,
+                "price_max": 735520000000,
+                "price_before_discount": 485000000000,
+                "price_min_before_discount": 485000000000,
+                "price_max_before_discount": 919400000000,
+                "other_stock": 0,
+                "discount_stock": null,
+                "current_promotion_has_reserve_stock": false,
+                "complaint_policy": null,
+                "show_recycling_info": false,
+                "should_show_amp_tag": true,
+                "all_models_has_pre_order": false,
+                "is_item_inherited": false,
+                "max_quantity": 247195
+            },
+            "account": {
+                "user_id": null,
+                "is_new_user": null,
+                "default_address": {
+                    "state": "Hà Nội",
+                    "city": "Huyện Ba Vì",
+                    "district": "",
+                    "town": "",
+                    "zip_code": "",
+                    "address": null,
+                    "region": null,
+                    "longitude": null,
+                    "latitude": null
+                },
+                "adult_consent": null,
+                "birth_timestamp": null
+            },
+            "product_images": {
+                "video": {
+                    "video_id": "api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16000081724770693.mp4",
+                    "thumb_url": "vn-11110105-7r98o-lzgdqmktd3lq33",
+                    "duration": 19,
+                    "version": 2,
+                    "vid": "vn-11110105-6khw6-lzgdqeq2uie99a",
+                    "formats": [
+                        {
+                            "format": 1600671,
+                            "defn": "V540P",
+                            "profile": "MP4",
+                            "path": "api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16006711726904295.mp4",
+                            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16006711726904295.mp4",
+                            "width": 540,
+                            "height": 960
+                        },
+                        {
+                            "format": 1600008,
+                            "defn": "V720P",
+                            "profile": "MP4",
+                            "path": "api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16000081724770693.mp4",
+                            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16000081724770693.mp4",
+                            "width": 720,
+                            "height": 1280
+                        },
+                        {
+                            "format": 1600325,
+                            "defn": "V720P",
+                            "profile": "MP4",
+                            "path": "api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003251726904295.mp4",
+                            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003251726904295.mp4",
+                            "width": 720,
+                            "height": 1280
+                        }
+                    ],
+                    "default_format": {
+                        "format": 1600323,
+                        "defn": "V540P",
+                        "profile": "MP4",
+                        "path": "",
+                        "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.default.mp4",
+                        "width": 540,
+                        "height": 960
+                    },
+                    "mms_data": "{\"vid\":\"vn-11110105-6khw6-lzgdqeq2uie99a\",\"biz\":107,\"duration\":19017,\"create_time\":1724770686,\"update_time\":1724770697,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/vn-11110105-7r98o-lzgdqmktd3lq33\",\"formats\":[{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16006711726904295.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16006711726904295.mp4\",\"width\":540,\"height\":960,\"bitrate\":456615,\"abitrate\":64424,\"duration\":19017,\"size\":1252680,\"fps\":25.05274,\"update_time\":1726904305,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16000081724770693.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16000081724770693.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1012641,\"abitrate\":128392,\"duration\":19017,\"size\":2722522,\"fps\":25.05274,\"update_time\":1724770708,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003251726904295.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003251726904295.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1338249,\"abitrate\":128386,\"duration\":19030,\"size\":3503394,\"fps\":30.05378,\"update_time\":1726904317,\"codec\":\"H264\"}],\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003151726904277.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003151726904277.mp4\",\"width\":360,\"height\":640,\"bitrate\":252821,\"abitrate\":96415,\"duration\":19017,\"size\":848485,\"fps\":25.05274,\"update_time\":1726904294,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003161726904295.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003161726904295.mp4\",\"width\":540,\"height\":960,\"bitrate\":449659,\"abitrate\":128392,\"duration\":19017,\"size\":1391006,\"fps\":25.05274,\"update_time\":1726904311,\"codec\":\"H265\"},{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003091724770734.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003091724770734.mp4\",\"width\":720,\"height\":1280,\"bitrate\":686346,\"abitrate\":128392,\"duration\":19017,\"size\":1951956,\"fps\":25.05274,\"update_time\":1724770769,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003171726904295.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003171726904295.mp4\",\"width\":720,\"height\":1280,\"bitrate\":734840,\"abitrate\":128392,\"duration\":19017,\"size\":2066885,\"fps\":25.05274,\"update_time\":1726904323,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003181726904295.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.16003181726904295.mp4\",\"width\":720,\"height\":1280,\"bitrate\":826083,\"abitrate\":128392,\"duration\":19017,\"size\":2283134,\"fps\":25.05274,\"update_time\":1726904333,\"codec\":\"H265\"}]},\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6khw6-lzgdqeq2uie99a.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":428364,\"abitrate\":64424,\"duration\":19017,\"size\":1185724,\"fps\":25.05274,\"update_time\":1724770743,\"codec\":\"H264\"}}",
+                    "item_cover": null
+                },
+                "images": [
+                    "vn-11134207-7r98o-lwzw9llfj1spea",
+                    "vn-11134207-7r98o-lzgdk0jvprj5bf",
+                    "vn-11134207-7r98o-lzgdk0jvpr9pde",
+                    "vn-11134207-7r98o-lzgdk0jvocp968",
+                    "vn-11134207-7r98o-lzgdj6qxai0177",
+                    "vn-11134207-7r98o-lzgdk0jvocypa9",
+                    "vn-11134207-7r98o-lzgdk0jvr5u591",
+                    "vn-11134207-7r98o-lwsejybrpfiz26",
+                    "vn-11134207-7r98o-lzgdk0jvr63lf8"
+                ],
+                "first_tier_variations": [
+                    {
+                        "name": "i3 ram 8G ssd 256G",
+                        "image": "vn-11134207-7r98o-lzgecpe28qbxe3",
+                        "summed_stock": null,
+                        "display_indicator": 0
+                    },
+                    {
+                        "name": "i5 ram 8G ssd 256G",
+                        "image": "vn-11134207-7r98o-lzgecth49jfl30",
+                        "summed_stock": null,
+                        "display_indicator": 0
+                    },
+                    {
+                        "name": "i5 ram 16G ssd 256G",
+                        "image": "vn-11134207-7r98o-lzgecwdg0v2le1",
+                        "summed_stock": null,
+                        "display_indicator": 0
+                    },
+                    {
+                        "name": "i7 ram 8G ssd 256G",
+                        "image": "vn-11134207-7r98o-lzgecy4zfvz5f2",
+                        "summed_stock": null,
+                        "display_indicator": 0
+                    },
+                    {
+                        "name": "i7 ram 16G ssd 256G",
+                        "image": "vn-11134207-7r98o-lzged12f5l5957",
+                        "summed_stock": null,
+                        "display_indicator": 0
+                    },
+                    {
+                        "name": "i5 r8 ssd 256G Gt730",
+                        "image": "vn-11134207-7r98o-lzged8gsbstd36",
+                        "summed_stock": null,
+                        "display_indicator": 0
+                    },
+                    {
+                        "name": "i5 r16 ssd256G Gt730",
+                        "image": "vn-11134207-7r98o-lzgedab3mr0t8f",
+                        "summed_stock": null,
+                        "display_indicator": 0
+                    },
+                    {
+                        "name": "i7 r8 ssd 256G Gt730",
+                        "image": "vn-11134207-7r98o-lzgedc68whwhdf",
+                        "summed_stock": null,
+                        "display_indicator": 0
+                    },
+                    {
+                        "name": "i7 r16 ssd256G Gt730",
+                        "image": "vn-11134207-7r98o-lzgede9pu1ql61",
+                        "summed_stock": null,
+                        "display_indicator": 0
+                    }
+                ],
+                "sorted_variation_image_index_list": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "overlay": {
+                    "type": 0,
+                    "image": "vn-11134258-7ras8-m2w9az0rtyuyae",
+                    "preview_end_time": null,
+                    "is_pre_order": null,
+                    "description": ""
+                },
+                "makeup_preview": null,
+                "abnormal_status": "",
+                "promotion_images": [],
+                "long_images": null,
+                "shopee_video_info_list": [],
+                "shopee_video_rcmd_info": null,
+                "shopee_video_req_id": null,
+                "skincam": null,
+                "pdp_top_info_list": null,
+                "has_long_image": null
+            },
+            "product_price": {
+                "discount": 20,
+                "installment_info": null,
+                "spl_installment_info": null,
+                "pack_size": "",
+                "hide_price": false,
+                "price": {
+                    "single_value": 387200000000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "price_before_discount": {
+                    "single_value": 485000000000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "presale_price": null,
+                "lowest_past_price": null,
+                "labels": [
+                    {
+                        "type": 0,
+                        "text": "Miễn phí trả hàng",
+                        "color": "#26AA99",
+                        "display": "free_return",
+                        "exclusive_price": null,
+                        "promotion_id": null
+                    }
+                ],
+                "hide_discount": true,
+                "discount_text": null,
+                "show_final_price_indicator": true
+            },
+            "flash_sale": null,
+            "flash_sale_preview": null,
+            "deep_discount": null,
+            "exclusive_price": null,
+            "exclusive_price_cta": null,
+            "product_meta": {
+                "show_lowest_price_guarantee": false,
+                "show_original_guarantee": false,
+                "show_best_price_guarantee": false,
+                "show_official_shop_label_in_title": true,
+                "show_shopee_verified_label": false,
+                "show_lowest_installment_guarantee": false,
+                "hide_sharing_button": false,
+                "hide_sold_count": false
+            },
+            "product_review": {
+                "rating_star": 4.980582524271845,
+                "rating_count": [
+                    103,
+                    0,
+                    0,
+                    1,
+                    0,
+                    102
+                ],
+                "total_rating_count": 103,
+                "historical_sold": null,
+                "global_sold": null,
+                "liked": false,
+                "liked_count": 151,
+                "cmt_count": 102,
+                "should_move_ratings_above": null,
+                "review_rcmd_exp_group": null,
+                "display_global_sold": false,
+                "hide_rating": false,
+                "hide_buyer_gallery": false,
+                "hide_reviews": false,
+                "hide_other_product_reviews_in_shop": false
+            },
+            "promotion_info": {
+                "spl": null,
+                "spl_lite": null,
+                "installment": null,
+                "wholesale": null,
+                "insurance": {
+                    "rows": []
+                },
+                "item_installment_eligibility": {
+                    "is_cc_installment_payment_eligible": false,
+                    "is_non_cc_installment_payment_eligible": false
+                }
+            },
+            "age_gate": {
+                "kyc": null
+            },
+            "shipping_meta": null,
+            "product_shipping": {
+                "free_shipping": {
+                    "min_spend": null,
+                    "has_fss": false
+                },
+                "shipping_fee_info": {
+                    "ship_from_location": "Hà Nội",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "shipping_icon_type": 0,
+                    "warning": null
+                },
+                "show_shipping_to": true,
+                "ungrouped_channel_infos": [
+                    {
+                        "channel_id": 5004,
+                        "name": "Hàng Cồng Kềnh",
+                        "price": {
+                            "single_value": 0,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": null
+                        },
+                        "price_before_discount": {
+                            "single_value": 11070000000,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": null
+                        },
+                        "channel_delivery_info": {
+                            "has_edt": true,
+                            "display_mode": "edt_by_date",
+                            "estimated_delivery_date_from": 1732592152,
+                            "estimated_delivery_date_to": 1732851352,
+                            "estimated_delivery_time_min": 0,
+                            "estimated_delivery_time_max": 3,
+                            "delay_message": null,
+                            "is_fastest_edt_channel": true,
+                            "sla_message": "",
+                            "show_edt": true,
+                            "edt_text": "Nhận hàng 26 Th11 - 29 Th11"
+                        },
+                        "channel_promotion_infos": [
+                            {
+                                "rule_id": 187963900756268,
+                                "type": 1,
+                                "display_mode": null,
+                                "discount_off": null,
+                                "min_spend": {
+                                    "single_value": 0,
+                                    "range_min": -1,
+                                    "range_max": -1,
+                                    "price_mask": null
+                                },
+                                "cap": null
+                            },
+                            {
+                                "rule_id": 254950626627584,
+                                "type": 1,
+                                "display_mode": null,
+                                "discount_off": null,
+                                "min_spend": {
+                                    "single_value": 50000000000,
+                                    "range_min": -1,
+                                    "range_max": -1,
+                                    "price_mask": null
+                                },
+                                "cap": null
+                            }
+                        ],
+                        "warning": null,
+                        "shipping_icon_type": null,
+                        "lowest_bpsf_promotion_rule": null,
+                        "service_type_info": "Bulky (new)",
+                        "is_integrated_channel": true,
+                        "late_delivery_compensation": null,
+                        "is_sst_included": false,
+                        "display_text": {
+                            "late_delivery_compensation": null,
+                            "direct_delivery": null,
+                            "fulfilled_by_shopee": null
+                        },
+                        "rule_type": 0
+                    },
+                    {
+                        "channel_id": 5001,
+                        "name": "Nhanh",
+                        "price": {
+                            "single_value": 0,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": null
+                        },
+                        "price_before_discount": {
+                            "single_value": 11070000000,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": null
+                        },
+                        "channel_delivery_info": {
+                            "has_edt": true,
+                            "display_mode": "edt_by_date",
+                            "estimated_delivery_date_from": 1732678552,
+                            "estimated_delivery_date_to": 1732851352,
+                            "estimated_delivery_time_min": 1,
+                            "estimated_delivery_time_max": 3,
+                            "delay_message": null,
+                            "is_fastest_edt_channel": false,
+                            "sla_message": "",
+                            "show_edt": true,
+                            "edt_text": "Nhận hàng 27 Th11 - 29 Th11"
+                        },
+                        "channel_promotion_infos": [
+                            {
+                                "rule_id": 187963900756268,
+                                "type": 1,
+                                "display_mode": null,
+                                "discount_off": null,
+                                "min_spend": {
+                                    "single_value": 0,
+                                    "range_min": -1,
+                                    "range_max": -1,
+                                    "price_mask": null
+                                },
+                                "cap": null
+                            },
+                            {
+                                "rule_id": 254950626627584,
+                                "type": 1,
+                                "display_mode": null,
+                                "discount_off": null,
+                                "min_spend": {
+                                    "single_value": 50000000000,
+                                    "range_min": -1,
+                                    "range_max": -1,
+                                    "price_mask": null
+                                },
+                                "cap": null
+                            }
+                        ],
+                        "warning": null,
+                        "shipping_icon_type": null,
+                        "lowest_bpsf_promotion_rule": null,
+                        "service_type_info": "standard",
+                        "is_integrated_channel": true,
+                        "late_delivery_compensation": null,
+                        "is_sst_included": false,
+                        "display_text": {
+                            "late_delivery_compensation": null,
+                            "direct_delivery": null,
+                            "fulfilled_by_shopee": null
+                        },
+                        "rule_type": 0
+                    },
+                    {
+                        "channel_id": 5000,
+                        "name": "Hỏa Tốc",
+                        "price": {
+                            "single_value": 0,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": null
+                        },
+                        "price_before_discount": null,
+                        "channel_delivery_info": {
+                            "has_edt": false,
+                            "display_mode": null,
+                            "estimated_delivery_date_from": null,
+                            "estimated_delivery_date_to": null,
+                            "estimated_delivery_time_min": null,
+                            "estimated_delivery_time_max": null,
+                            "delay_message": null,
+                            "is_fastest_edt_channel": false,
+                            "sla_message": "",
+                            "show_edt": null,
+                            "edt_text": null
+                        },
+                        "channel_promotion_infos": null,
+                        "warning": {
+                            "type": "unsupported_address",
+                            "warning_msg": "Không hỗ trợ"
+                        },
+                        "shipping_icon_type": null,
+                        "lowest_bpsf_promotion_rule": null,
+                        "service_type_info": "instant",
+                        "is_integrated_channel": true,
+                        "late_delivery_compensation": null,
+                        "is_sst_included": false,
+                        "display_text": {
+                            "late_delivery_compensation": null,
+                            "direct_delivery": null,
+                            "fulfilled_by_shopee": null
+                        },
+                        "rule_type": 0
+                    }
+                ],
+                "grouped_channel_infos_by_service_type": [],
+                "also_available_channel_name": "",
+                "pre_selected_shipping_channel": {
+                    "channel_id": 5004,
+                    "name": "Hàng Cồng Kềnh",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": ""
+                    },
+                    "price_before_discount": {
+                        "single_value": 11070000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": ""
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1732592152,
+                        "estimated_delivery_date_to": 1732851352,
+                        "estimated_delivery_time_min": 0,
+                        "estimated_delivery_time_max": 3,
+                        "delay_message": "",
+                        "is_fastest_edt_channel": true,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "Nhận hàng 26 Th11 - 29 Th11"
+                    },
+                    "channel_promotion_infos": [
+                        {
+                            "rule_id": 187963900756268,
+                            "type": 1,
+                            "display_mode": 0,
+                            "discount_off": 0,
+                            "min_spend": {
+                                "single_value": 0,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": ""
+                            },
+                            "cap": 0
+                        },
+                        {
+                            "rule_id": 254950626627584,
+                            "type": 1,
+                            "display_mode": 0,
+                            "discount_off": 0,
+                            "min_spend": {
+                                "single_value": 50000000000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": ""
+                            },
+                            "cap": 0
+                        }
+                    ],
+                    "warning": {
+                        "type": "",
+                        "warning_msg": ""
+                    },
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "Bulky (new)",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null
+                    },
+                    "rule_type": 0
+                },
+                "show_grouped_channel_first": false,
+                "is_item_with_price_range": true,
+                "also_available_channel_icon_type": null,
+                "pre_order_text": "",
+                "selected_late_delivery_compensation_for_drawer": null,
+                "shipping_info_text": {
+                    "text_template": null,
+                    "shipping_fee": null,
+                    "edt_from": null,
+                    "edt_to": null,
+                    "show_shipping_fee_suffix": true
+                }
+            },
+            "shop_vouchers": [
+                {
+                    "promotionid": 1023462454366212,
+                    "voucher_code": "HAINDD8",
+                    "signature": "28a1835cb006c9e689de1d1d56c40f51ef5bf64670a1eb7100c07d92706c0da6",
+                    "use_type": null,
+                    "platform_type": null,
+                    "voucher_market_type": null,
+                    "min_spend": 50000000000,
+                    "used_price": 800000000,
+                    "current_spend": null,
+                    "product_limit": false,
+                    "quota_type": 1,
+                    "percentage_claimed": 0,
+                    "percentage_used": 10,
+                    "start_time": 1731465960,
+                    "end_time": 1738295160,
+                    "collect_time": null,
+                    "claim_start_time": null,
+                    "valid_days": null,
+                    "reward_type": 0,
+                    "reward_percentage": 0,
+                    "reward_value": 800000000,
+                    "reward_cap": 0,
+                    "coin_earned": null,
+                    "title": "",
+                    "use_link": null,
+                    "icon_hash": "vn-11134004-7r98o-lwmhy8llmymz24",
+                    "icon_text": "Hải Nam Computers",
+                    "icon_url": null,
+                    "customised_labels": [],
+                    "customised_product_scope_tags": null,
+                    "shop_id": 718577709,
+                    "shop_name": null,
+                    "is_shop_preferred": false,
+                    "is_shop_official": true,
+                    "shop_count": null,
+                    "ui_display_type": null,
+                    "customised_mall_name": null,
+                    "small_icon_list": null,
+                    "dp_category_name": null,
+                    "invalid_message_code": null,
+                    "invalid_message": null,
+                    "display_labels": null,
+                    "wallet_redeemable": null,
+                    "customer_reference_id": null,
+                    "fully_redeemed": null,
+                    "has_expired": null,
+                    "disabled": null,
+                    "voucher_external_market_type": null,
+                    "now_food_extra_info": null,
+                    "airpay_opv_extra_info": null,
+                    "partner_extra_info": null,
+                    "discount_value": 800000000,
+                    "discount_percentage": 0,
+                    "discount_cap": 0,
+                    "coin_percentage": null,
+                    "coin_cap": null,
+                    "usage_limit": null,
+                    "used_count": null,
+                    "left_count": null,
+                    "shopee_wallet_only": null,
+                    "new_user_only": null,
+                    "description": null,
+                    "shop_logo": null,
+                    "error_code": 0,
+                    "is_claimed_before": false,
+                    "customised_product_scope_tag_image_hash": null,
+                    "usage_limit_per_user": 5,
+                    "remaining_usage_limit": 5,
+                    "action": null,
+                    "sub_icon_text": null,
+                    "is_customised_icon": null,
+                    "fixed_flag": null,
+                    "customised_flag": null,
+                    "fsv_voucher_card_ui_info": null
+                }
+            ],
+            "free_return": null,
+            "coin_info": {
+                "spend_cash_unit": 100000,
+                "coin_earn_items": [
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    },
+                    {
+                        "coin_earn": 0
+                    }
+                ],
+                "coin_earn_label": null
+            },
+            "product_attributes": {
+                "attrs": [
+                    {
+                        "name": "Kho",
+                        "value": "247195",
+                        "id": null,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 7
+                    },
+                    {
+                        "name": "Thương hiệu",
+                        "value": "Hải Nam Computers",
+                        "id": null,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": "/search?brands=4447845",
+                        "brand_id": 4447845,
+                        "full_url": "https://shopee.vn/search?brands=4447845",
+                        "type": 1
+                    },
+                    {
+                        "name": "Cổng/ Giao diện",
+                        "value": "Ethernet LAN, HDMI, USB 2.0, USB 3.0",
+                        "id": 100447,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Loại bảo hành",
+                        "value": "Bảo hành nhà cung cấp",
+                        "id": 100370,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Game chuyên dụng",
+                        "value": "Không",
+                        "id": 100381,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Dung lượng lưu trữ",
+                        "value": "256GB",
+                        "id": 100465,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Bộ xử lý",
+                        "value": "Intel Core i7",
+                        "id": 100460,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Ổ đĩa quang",
+                        "value": "không",
+                        "id": 100432,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Hệ điều hành",
+                        "value": "Windows",
+                        "id": 100427,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Hạn bảo hành",
+                        "value": "12 tháng",
+                        "id": 100121,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Loại lưu trữ",
+                        "value": "SSD",
+                        "id": 100048,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 5
+                    },
+                    {
+                        "name": "Gửi từ",
+                        "value": "Hà Nội",
+                        "id": null,
+                        "is_timestamp": null,
+                        "brand_option": null,
+                        "val_id": null,
+                        "url": null,
+                        "brand_id": null,
+                        "full_url": null,
+                        "type": 6
+                    }
+                ],
+                "categories": [
+                    {
+                        "catid": 11035954,
+                        "display_name": "Máy Tính & Laptop",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 11035955,
+                        "display_name": "Máy Tính Bàn",
+                        "no_sub": false,
+                        "is_default_subcat": false
+                    },
+                    {
+                        "catid": 11035956,
+                        "display_name": "Bộ Máy Tính Bàn",
+                        "no_sub": true,
+                        "is_default_subcat": false
+                    }
+                ],
+                "related_items": []
+            },
+            "shop_detailed": {
+                "shopid": 718577709,
+                "userid": 718597294,
+                "last_active_time": 1732591232,
+                "vacation": false,
+                "place": "Quận Nam Từ Liêm, Hà Nội",
+                "account": {
+                    "portrait": "vn-11134004-7r98o-lwmhy8llmymz24",
+                    "username": "hainamcomputers",
+                    "status": 1
+                },
+                "is_shopee_verified": false,
+                "is_preferred_plus_seller": false,
+                "is_official_shop": true,
+                "shop_location": "Hà Nội",
+                "item_count": 20,
+                "rating_star": 4.976973,
+                "response_rate": 99,
+                "session_info": null,
+                "name": "Hải Nam Computers",
+                "ctime": 1647359907,
+                "response_time": 2710,
+                "follower_count": 1357,
+                "show_official_shop_label": true,
+                "rating_bad": 8,
+                "rating_good": 2936,
+                "rating_normal": 9,
+                "session_infos": null,
+                "status": 1,
+                "is_individual_seller": null,
+                "is_mart": false,
+                "favorite_shop_info": null,
+                "is_3pf": false,
+                "sold_total": null,
+                "is_shopee_choice": false,
+                "is_high_end": false,
+                "banner": {
+                    "shopee_choice": null
+                },
+                "authorized_brand": null,
+                "is_scs": false
+            },
+            "age_gate_control": null,
+            "abnormal_popup": null,
+            "return_on_spot": null,
+            "display_sections": {
+                "add_on_deal": null,
+                "bundle_deal": null,
+                "exclusive_price_label": null,
+                "free_return": {
+                    "title": "Trả hàng 15 ngày",
+                    "message": "Trả hàng miễn phí"
+                },
+                "coin": null,
+                "wholesale": null
+            },
+            "ineligible_ep": null,
+            "tax_disclaimer": null,
+            "alcohol_disclaimer": null,
+            "design_control": {
+                "use_new_revamp_first_screen": null,
+                "display_on_time_delivery_guarantee": false,
+                "disable_price_with_variation": false,
+                "display_direct_delivery": false,
+                "use_new_featured_video_revamp": null,
+                "first_screen_revamp_abtest_group": null,
+                "display_choice_customised_section": false,
+                "is_support_fbs_enabled": false,
+                "top_section_featured_video_ab_test_group": null,
+                "enable_ksp_config": null
+            },
+            "shopee_free_return": {
+                "free_return_type": 1
+            },
+            "detail_level": 0,
+            "removed_fields": null,
+            "size_guide": null,
+            "designer_info": null,
+            "shipping_info": null,
+            "vehicle_compatibility_info": null,
+            "nea": null,
+            "button_group": {
+                "buy_with_voucher": {
+                    "price": 387200000000
+                }
+            },
+            "installment_drawer": {
+                "priority": [
+                    0,
+                    1
+                ],
+                "spl": null,
+                "bank": {
+                    "channels": null
+                },
+                "credit_card": null
+            },
+            "ongoing_banner": null,
+            "teaser_banner": {
+                "flash_sale_preview": null,
+                "exclusive_price": null,
+                "live_stream": null,
+                "deep_discount": {
+                    "skin": {
+                        "branding_icon": "vn-11134258-7ras8-m2w7ra7tp5omf3?54-54?54-54?54-54",
+                        "pre_hype_text": "Chờ giá {{hidden_promotion_price}}",
+                        "pre_hype_text_use_bold": true
+                    },
+                    "promotion_id": 507723990056960,
+                    "model_id": 215345140503,
+                    "price": {
+                        "single_value": 388000000000,
+                        "range_min": null,
+                        "range_max": null,
+                        "price_mask": "3.??0.000"
+                    },
+                    "reminder_event": {
+                        "item_id": 27253416536,
+                        "shop_id": 718577709,
+                        "item_name": "Máy tính đồng bộ Acer Extensa Core i7 i5 i3 gen 6, Ram 8G, SSD 120GB, SSD 256GB ( Tặng usb Wifi ) - Hải Nam Computer",
+                        "start_time": 1732813200,
+                        "end_time": 1732899599
+                    },
+                    "is_lpp": false
+                },
+                "membership_exclusive": null
+            },
+            "price_breakdown": {
+                "price": {
+                    "single_value": 387200000000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "price_before_discount": {
+                    "single_value": 485000000000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "discount_breakdown": [
+                    {
+                        "type": 0,
+                        "price_source": "Giảm giá sản phẩm",
+                        "discount_amount": 97000000000,
+                        "exclusive_price": null,
+                        "shop_voucher": null,
+                        "platform_voucher": null
+                    },
+                    {
+                        "type": 2,
+                        "price_source": "Voucher của Shop",
+                        "discount_amount": 800000000,
+                        "exclusive_price": null,
+                        "shop_voucher": {
+                            "min_spend": 50000000000,
+                            "discount_type": 0,
+                            "discount_value": 800000000,
+                            "discount_percentage": null
+                        },
+                        "platform_voucher": null
+                    }
+                ]
+            },
+            "membership_exclusive": null,
+            "membership_exclusive_teaser": null
+        }
+    },
+    "scraped_timestamp": "2024-11-26T10:35:53.015701"
+}

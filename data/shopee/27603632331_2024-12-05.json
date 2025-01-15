@@ -1,0 +1,5 @@
+{
+    "error": 400,
+    "message": "{\"url\":\"https://shopee.vn/-s%E1%BA%B5n-B%E1%BB%99-Kit-B%C3%A0n-Ph%C3%ADm-C%C6%A1-Layout-Alice-Cidoo-ABM066-h%E1%BB%97-tr%E1%BB%A3-VIA-keymap-3-mode-RGB-M%E1%BA%A1ch-Xu%C3%B4i-i.945535886.27603632331\",\"status\":\"BLOCKED_TOO_MANY_TIMES\",\"responseBody\":\"{\\\"5\\\":false,\\\"2\\\":false,\\\"4\\\":2,\\\"0\\\":3,\\\"3\\\":90309999,\\\"error\\\":90309999,\\\"1\\\":\\\"8616effd2ca-956b-4c3d-9094-6fc4cda88345\\\"}\\n\"}",
+    "scraped_timestamp": "2024-12-05T14:54:18.596743"
+}

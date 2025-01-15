@@ -1,0 +1,990 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 9
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 9
+    },
+    "5": {
+      "count": 9,
+      "percent": 82
+    }
+  },
+  "rating_average": 4.5,
+  "reviews_count": 11,
+  "review_photo": {
+    "total": 4,
+    "total_photo": 7
+  },
+  "data": [
+    {
+      "id": 19745096,
+      "title": "Cực kì hài lòng",
+      "content": "tuyệt vời !.giá cả hợp lí, chống nước đạt tốt, hình thức đẹp ok !.",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.09391534,
+      "new_score": 0.16149129,
+      "customer_id": 14467346,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4340765,
+          "full_path": "https://salt.tikicdn.com/ts/review/09/6a/3f/87d7015e49745aa29d55d757900fb3b8.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4340766,
+          "full_path": "https://salt.tikicdn.com/ts/review/99/a3/e6/08105b6b367170af0a6bd3839947418b.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1706186055,
+      "created_by": {
+        "id": 14467346,
+        "name": "đất rồng",
+        "full_name": "đất rồng",
+        "region": null,
+        "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mAZoxK5ou7ErKUwdN7TKZ2CblV_Qwt8CWsznOfy",
+        "created_time": "2019-10-15 20:46:19",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1706011472,
+        "contribute_info": {
+          "id": 14467346,
+          "name": "đất rồng",
+          "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mAZoxK5ou7ErKUwdN7TKZ2CblV_Qwt8CWsznOfy",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 8,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán AMA Store",
+        "Chất liệu dây Silicone"
+      ],
+      "product_attributes": [
+        "Chất liệu dây: Silicone"
+      ],
+      "spid": 273697142,
+      "is_photo": true,
+      "seller": {
+        "id": 162657,
+        "name": "AMA Store",
+        "logo": "8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg"
+      },
+      "product_id": 273880674,
+      "timeline": {
+        "review_created_date": "2024-01-25 19:34:15",
+        "delivery_date": "2024-01-24 08:51:13",
+        "current_date": "2024-12-01 20:54:22",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3129654,
+          "review_id": 19745096,
+          "commentator": "customer",
+          "customer_id": 12242496,
+          "fullname": "Man Chau",
+          "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1081801915347995&height=200&width=200&ext=1561420067&hash=AeSo17asPGmhfNQ2",
+          "content": "ko kết nối đc",
+          "score": 0,
+          "create_at": 1706441414,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [],
+      "itemID": "tiki_273880674"
+    },
+    {
+      "id": 19787617,
+      "title": "Cực kì hài lòng",
+      "content": "Mới dùng mình chưa biết cài tiếng Việt dc ko với lại Viết chữ cũng ko có dẫu đâu...chia sẻ với m.n là như vậy",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.77777778,
+      "new_score": 0.15950935,
+      "customer_id": 29783032,
+      "comment_count": 2,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1709170038,
+      "created_by": {
+        "id": 29783032,
+        "name": "nhật quý",
+        "full_name": "nhật quý",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2024-02-14 21:09:21",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1708988335,
+        "contribute_info": {
+          "id": 29783032,
+          "name": "nhật quý",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán AMA Store",
+        "Chất liệu dây Silicone"
+      ],
+      "product_attributes": [
+        "Chất liệu dây: Silicone"
+      ],
+      "spid": 273697142,
+      "is_photo": false,
+      "seller": {
+        "id": 162657,
+        "name": "AMA Store",
+        "logo": "8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg"
+      },
+      "product_id": 273880674,
+      "timeline": {
+        "review_created_date": "2024-02-29 08:27:18",
+        "delivery_date": "2024-02-28 22:03:44",
+        "current_date": "2024-12-01 20:54:22",
+        "content": "Đã dùng 10 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 10 giờ."
+      },
+      "comments": [
+        {
+          "id": 3148008,
+          "review_id": 19787617,
+          "commentator": "customer",
+          "customer_id": 29783032,
+          "fullname": "nhật quý",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Chuyển kiểu gì vậy shop HD qua ảnh với",
+          "score": 0,
+          "create_at": 1709170615,
+          "badge": "https://salt.tikicdn.com/ts/reviews/1a/c6/8e/aed2b9016c8a2840ea0d9268605c8d3c.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3148007,
+          "review_id": 19787617,
+          "commentator": "seller",
+          "customer_id": 162657,
+          "fullname": "AMA Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg",
+          "content": "Ok. Anh để lại số hoặc CHAT với shop, shop gửi HD chuyển sang tiếng Việt nhé",
+          "score": 0,
+          "create_at": 1709170157,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ],
+      "itemID": "tiki_273880674"
+    },
+    {
+      "id": 19718367,
+      "title": "Cực kì hài lòng",
+      "content": "Sử dụng ok",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.18673162,
+      "new_score": 0.15899856,
+      "customer_id": 28301037,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4327018,
+          "full_path": "https://salt.tikicdn.com/ts/review/e0/8b/22/2b355f815a2b01fce6ab746856361666.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4327019,
+          "full_path": "https://salt.tikicdn.com/ts/review/95/b5/44/5c675c5d859196a39c51c5719cadaeee.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4327020,
+          "full_path": "https://salt.tikicdn.com/ts/review/dc/f5/8a/7bb25d1f57b47d5b6f671dc0f53fc4e6.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1704800048,
+      "created_by": {
+        "id": 28301037,
+        "name": "Oanh oanh",
+        "full_name": "Oanh oanh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-10-09 08:05:55",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1704637377,
+        "contribute_info": {
+          "id": 28301037,
+          "name": "Oanh oanh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 2 năm",
+            "total_review": 11,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán AMA Store",
+        "Chất liệu dây Silicone 1"
+      ],
+      "product_attributes": [
+        "Chất liệu dây: Silicone 1"
+      ],
+      "spid": 273880677,
+      "is_photo": true,
+      "seller": {
+        "id": 162657,
+        "name": "AMA Store",
+        "logo": "8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg"
+      },
+      "product_id": 273880674,
+      "timeline": {
+        "review_created_date": "2024-01-09 18:34:08",
+        "delivery_date": "2024-01-08 18:26:45",
+        "current_date": "2024-12-01 20:54:22",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [],
+      "itemID": "tiki_273880674"
+    },
+    {
+      "id": 19718387,
+      "title": "Cực kì hài lòng",
+      "content": "Anh chủ shop tư vấn nhiệt tình, đồng hồ nhiều chức năng như mô tả",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.14063226,
+      "new_score": 0.15786541,
+      "customer_id": 29671448,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4327022,
+          "full_path": "https://salt.tikicdn.com/ts/review/e3/39/37/38a70f8627b5d64997083f1a34eeb0d5.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1704800926,
+      "created_by": {
+        "id": 29671448,
+        "name": "Đinh huyền",
+        "full_name": "Đinh huyền",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2023-12-18 20:51:42",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1704638037,
+        "contribute_info": {
+          "id": 29671448,
+          "name": "Đinh huyền",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 năm",
+            "total_review": 1,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán AMA Store",
+        "Chất liệu dây Silicone 1"
+      ],
+      "product_attributes": [
+        "Chất liệu dây: Silicone 1"
+      ],
+      "spid": 273880677,
+      "is_photo": true,
+      "seller": {
+        "id": 162657,
+        "name": "AMA Store",
+        "logo": "8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg"
+      },
+      "product_id": 273880674,
+      "timeline": {
+        "review_created_date": "2024-01-09 18:48:46",
+        "delivery_date": "2024-01-08 18:26:05",
+        "current_date": "2024-12-01 20:54:22",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ],
+      "itemID": "tiki_273880674"
+    },
+    {
+      "id": 19718384,
+      "title": "Cực kì hài lòng",
+      "content": "Thiết kế đẹp, kết nối được cả wifi, 4G có za lo chplay",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.14033867,
+      "new_score": 0.15686537,
+      "customer_id": 29488123,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4327116,
+          "full_path": "https://salt.tikicdn.com/ts/review/7a/73/eb/d30ef21ae7b25c85f30fb990f5baaa53.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1704800711,
+      "created_by": {
+        "id": 29488123,
+        "name": "Huệ Nguyễn",
+        "full_name": "Huệ Nguyễn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2023-10-07 16:41:29",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1704637697,
+        "contribute_info": {
+          "id": 29488123,
+          "name": "Huệ Nguyễn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 năm",
+            "total_review": 9,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán AMA Store",
+        "Chất liệu dây Silicone 1"
+      ],
+      "product_attributes": [
+        "Chất liệu dây: Silicone 1"
+      ],
+      "spid": 273880677,
+      "is_photo": true,
+      "seller": {
+        "id": 162657,
+        "name": "AMA Store",
+        "logo": "8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg"
+      },
+      "product_id": 273880674,
+      "timeline": {
+        "review_created_date": "2024-01-09 18:45:11",
+        "delivery_date": "2024-01-08 18:26:33",
+        "current_date": "2024-12-01 20:54:22",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [],
+      "itemID": "tiki_273880674"
+    },
+    {
+      "id": 19908872,
+      "title": "Hài lòng",
+      "content": "Khá ổn",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.77777778,
+      "new_score": 0.15267452,
+      "customer_id": 16408834,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1719105871,
+      "created_by": {
+        "id": 16408834,
+        "name": "Luong Văn Giang ",
+        "full_name": "Luong Văn Giang ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-02-13 23:44:03",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1718755871,
+        "contribute_info": {
+          "id": 16408834,
+          "name": "Luong Văn Giang ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 9,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán AMA Store",
+        "Chất liệu dây Silicone"
+      ],
+      "product_attributes": [
+        "Chất liệu dây: Silicone"
+      ],
+      "spid": 273697142,
+      "is_photo": false,
+      "seller": {
+        "id": 162657,
+        "name": "AMA Store",
+        "logo": "8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg"
+      },
+      "product_id": 273880674,
+      "timeline": {
+        "review_created_date": "2024-06-23 08:24:31",
+        "delivery_date": "2024-06-22 18:09:36",
+        "current_date": "2024-12-01 20:54:22",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [],
+      "itemID": "tiki_273880674"
+    },
+    {
+      "id": 19750561,
+      "title": "Rất không hài lòng",
+      "content": "Không kết nối đc với điện thoại",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.07795943,
+      "new_score": 0.15235967,
+      "customer_id": 12152983,
+      "comment_count": 2,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1706509787,
+      "created_by": {
+        "id": 12152983,
+        "name": "Châu mẫn ",
+        "full_name": "Châu mẫn ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-05-19 19:21:26",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1706364007,
+        "contribute_info": {
+          "id": 12152983,
+          "name": "Châu mẫn ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 1,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán AMA Store",
+        "Chất liệu dây Silicone"
+      ],
+      "product_attributes": [
+        "Chất liệu dây: Silicone"
+      ],
+      "spid": 273697142,
+      "is_photo": false,
+      "seller": {
+        "id": 162657,
+        "name": "AMA Store",
+        "logo": "8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg"
+      },
+      "product_id": 273880674,
+      "timeline": {
+        "review_created_date": "2024-01-29 13:29:47",
+        "delivery_date": "2024-01-28 09:40:59",
+        "current_date": "2024-12-01 20:54:22",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3129957,
+          "review_id": 19750561,
+          "commentator": "seller",
+          "customer_id": 162657,
+          "fullname": "AMA Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg",
+          "content": "Ô hay. Mới nhận hàng, có cái Cad visit to đùng như vậy sao chị không gọi để hỏi shop. Chị vào đánh giá với lí do \"Không kết nối được với Điện thoại\" Không biết thì hỏi chứ, chị còn chưa hỏi shop 1 câu nào luôn.",
+          "score": 0,
+          "create_at": 1706514552,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3129917,
+          "review_id": 19750561,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Tiki cảm ơn anh đã gửi nhận xét đến Tiki. Qua kiểm tra, Tiki thấy đơn hàng đang được xử lý tại mã hỗ trợ 03920011. Tiki cảm ơn anh nhiều.\n",
+          "score": 0,
+          "create_at": 1706511604,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [],
+      "itemID": "tiki_273880674"
+    },
+    {
+      "id": 19870018,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.77777778,
+      "new_score": 0.15129486,
+      "customer_id": 29934392,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1715414399,
+      "created_by": {
+        "id": 29934392,
+        "name": "Nguyên Cao Hoang",
+        "full_name": "Nguyên Cao Hoang",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2024-05-10 09:07:05",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1715334326,
+        "contribute_info": {
+          "id": 29934392,
+          "name": "Nguyên Cao Hoang",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán AMA Store",
+        "Chất liệu dây Silicone"
+      ],
+      "product_attributes": [
+        "Chất liệu dây: Silicone"
+      ],
+      "spid": 273697142,
+      "is_photo": false,
+      "seller": {
+        "id": 162657,
+        "name": "AMA Store",
+        "logo": "8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg"
+      },
+      "product_id": 273880674,
+      "timeline": {
+        "review_created_date": "2024-05-11 14:59:59",
+        "delivery_date": "2024-05-11 14:41:25",
+        "current_date": "2024-12-01 20:54:22",
+        "content": "Đã dùng 19 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 19 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [],
+      "itemID": "tiki_273880674"
+    },
+    {
+      "id": 19847643,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.77777778,
+      "new_score": 0.1508894,
+      "customer_id": 22000077,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1713494683,
+      "created_by": {
+        "id": 22000077,
+        "name": "nguyễn trọng tú",
+        "full_name": "nguyễn trọng tú",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-06-01 10:22:35",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1713273895,
+        "contribute_info": {
+          "id": 22000077,
+          "name": "nguyễn trọng tú",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán AMA Store",
+        "Chất liệu dây Silicone"
+      ],
+      "product_attributes": [
+        "Chất liệu dây: Silicone"
+      ],
+      "spid": 273697142,
+      "is_photo": false,
+      "seller": {
+        "id": 162657,
+        "name": "AMA Store",
+        "logo": "8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg"
+      },
+      "product_id": 273880674,
+      "timeline": {
+        "review_created_date": "2024-04-19 09:44:43",
+        "delivery_date": "2024-04-19 09:28:17",
+        "current_date": "2024-12-01 20:54:22",
+        "content": "Đã dùng 16 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 16 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [],
+      "itemID": "tiki_273880674"
+    },
+    {
+      "id": 19828514,
+      "title": "Cực kì hài lòng",
+      "content": "Ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.07467145,
+      "new_score": 0.15071135,
+      "customer_id": 13320847,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1712020359,
+      "created_by": {
+        "id": 13320847,
+        "name": "Phạm Phước Trung",
+        "full_name": "Phạm Phước Trung",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-08-08 12:06:37",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1711609909,
+        "contribute_info": {
+          "id": 13320847,
+          "name": "Phạm Phước Trung",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 30,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán AMA Store",
+        "Chất liệu dây Silicone"
+      ],
+      "product_attributes": [
+        "Chất liệu dây: Silicone"
+      ],
+      "spid": 273697142,
+      "is_photo": false,
+      "seller": {
+        "id": 162657,
+        "name": "AMA Store",
+        "logo": "8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg"
+      },
+      "product_id": 273880674,
+      "timeline": {
+        "review_created_date": "2024-04-02 08:12:39",
+        "delivery_date": "2024-03-28 16:01:36",
+        "current_date": "2024-12-01 20:54:22",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [],
+      "itemID": "tiki_273880674"
+    },
+    {
+      "id": 19762856,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.77777778,
+      "new_score": 0.14957506,
+      "customer_id": 23920093,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1707271627,
+      "created_by": {
+        "id": 23920093,
+        "name": "Minh hải",
+        "full_name": "Minh hải",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-10-05 18:52:50",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1707214784,
+        "contribute_info": {
+          "id": 23920093,
+          "name": "Minh hải",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán AMA Store",
+        "Chất liệu dây Silicone"
+      ],
+      "product_attributes": [
+        "Chất liệu dây: Silicone"
+      ],
+      "spid": 273697142,
+      "is_photo": false,
+      "seller": {
+        "id": 162657,
+        "name": "AMA Store",
+        "logo": "8a/b5/83/e59d9fb6e8aa356c79f56c9ef3ea778c.jpg"
+      },
+      "product_id": 273880674,
+      "timeline": {
+        "review_created_date": "2024-02-07 09:07:07",
+        "delivery_date": "2024-02-07 09:01:10",
+        "current_date": "2024-12-01 20:54:22",
+        "content": "Đã dùng 6 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 phút."
+      },
+      "comments": [
+        {
+          "id": 3138955,
+          "review_id": 19762856,
+          "commentator": "customer",
+          "customer_id": 12152983,
+          "fullname": "Châu mẫn ",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "bạn có thể chỉ mình cách sử dung ko ạ",
+          "score": 0,
+          "create_at": 1708154032,
+          "badge": "https://salt.tikicdn.com/ts/reviews/b0/77/a5/1dc3901bd48bfc65a51760dc051ebbdb.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [],
+      "itemID": "tiki_273880674"
+    }
+  ],
+  "paging": {
+    "total": 11,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": [],
+  "id": "273880674"
+}

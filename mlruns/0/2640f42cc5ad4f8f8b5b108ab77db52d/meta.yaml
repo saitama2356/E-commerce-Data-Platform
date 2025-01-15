@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FIA1471/mlruns/0/2640f42cc5ad4f8f8b5b108ab77db52d/artifacts
+end_time: 1734016549500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2640f42cc5ad4f8f8b5b108ab77db52d
+run_name: languid-zebra-845
+run_uuid: 2640f42cc5ad4f8f8b5b108ab77db52d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734016524201
+status: 3
+tags: []
+user_id: Admin

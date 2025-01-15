@@ -1,0 +1,1440 @@
+{
+  "error": 0,
+  "data": {
+    "ratings": [
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 17275690086,
+        "ctime": 1729486449,
+        "rating": 1,
+        "userid": 1372678938,
+        "shopid": 188032506,
+        "comment": "Chất lượng sản phẩm:\"Mình rất hài lòng với máy in đơn hàng N43BT! Kết nối Bluetooth nhanh chóng và dễ dàng, giúp mình in trực tiếp từ điện thoại mà không cần phải kết nối dây cáp lằng nhằng. Máy in nhanh, chất lượng in rõ nét, đặc biệt là in mã vạch rất chính xác, không gặp lỗi gì. Thiết kế nhỏ gọn, không chiếm nhiều diện tích trên bàn làm việc. Mình đã sử dụng để in hàng trăm đơn hàng mỗi ngày và máy hoạt động rất ổn định. Rất đáng mua với giá này!\"\nTính năng nổi bật:in siêu nhanh rõ nét\n\nshop giao hàng nhanh tư vấn hỗ trợ nhiệt tình đáng giá 5 sao",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730552694,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1729486449,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "2742y7royo",
+        "author_portrait": "vn-11134004-7ras8-m18k51lelowo91",
+        "author_shopid": 1371978194,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m1ma79efinv749",
+          "vn-11134103-7ras8-m1ma79efio5bfc",
+          "vn-11134103-7ras8-m1ma79efk2pr75",
+          "vn-11134103-7ras8-m1ma79eflha709",
+          "vn-11134103-7ras8-m1ma79efmvun12"
+        ],
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo, minicode, phiếu gửi, tốc độ in cực nhanh.",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 41271369591,
+            "modelid": 215416868170,
+            "model_name": "hộp đựng máy",
+            "options": [
+              "hộp đựng máy"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 17275690086,
+          "ctime": 1730006227,
+          "userid": 188035243,
+          "comment": "ECOKING xin cám ơn đánh giá của bạn. Chúng tôi rất vui vì bạn đã tin tưởng sử dụng sản phẩm của shop. Chúng tôi luôn hy vọng mang lại sự hài lòng cho Quý khách hàng, chúc bạn luôn vui vẻ và mong bạn tiếp tục ủng hộ Shop trong lần trải nghiệm mua hàng tiếp theo nhé. cảm ơn bạn !",
+          "mtime": 1730006227,
+          "is_hidden": false
+        },
+        "editable_date": 1732078449,
+        "like_count": 2,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1ma79efinv749",
+            "cover_image_id": "vn-11134103-7ras8-m1ma79efinv749"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1ma79efio5bfc",
+            "cover_image_id": "vn-11134103-7ras8-m1ma79efio5bfc"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1ma79efk2pr75",
+            "cover_image_id": "vn-11134103-7ras8-m1ma79efk2pr75"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1ma79eflha709",
+            "cover_image_id": "vn-11134103-7ras8-m1ma79eflha709"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1ma79efmvun12",
+            "cover_image_id": "vn-11134103-7ras8-m1ma79efmvun12"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 17612081748,
+        "ctime": 1730252135,
+        "rating": 1,
+        "userid": 1385088091,
+        "shopid": 188032506,
+        "comment": "Chất lượng sản phẩm:Máy in đơn hàng N43BT rất dễ sử dụng và in ấn rất nhanh chóng. Kết nối Bluetooth ổn định, giúp in từ xa tiện lợi, đặc biệt là khi làm việc trong môi trường kho bãi. Chất lượng in tốt, rõ ràng, các mã vạch được in ra sắc nét và dễ dàng quét mã. Tuy nhiên, có một điểm cần cải thiện là máy hơi nóng khi in liên tục trong thời gian dài.\nTính năng nổi bật:tốt, in nhanh\n\nshop đóng gói cẩn thận giao nhanh tư vấn nhiệt tình",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730254676,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1730252135,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "felixburke",
+        "author_portrait": "vn-11134004-7ras8-m1rs9q2l0wjje9",
+        "author_shopid": 1384352050,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m1yxfzw8267292",
+          "vn-11134103-7ras8-m1yxfzw84zby62",
+          "vn-11134103-7ras8-m1yxfzw86dwe6b"
+        ],
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 45789412095,
+            "modelid": 215416868170,
+            "model_name": "hộp đựng máy",
+            "options": [
+              "hộp đựng máy"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 17612081748,
+          "ctime": 1730254676,
+          "userid": 188035243,
+          "comment": "ECOKING xin cám ơn đánh giá của bạn. Chúng tôi rất vui vì bạn đã tin tưởng sử dụng sản phẩm của shop. Chúng tôi luôn hy vọng mang lại sự hài lòng cho Quý khách hàng, chúc bạn luôn vui vẻ và mong bạn tiếp tục ủng hộ Shop trong lần trải nghiệm mua hàng tiếp theo nhé. cảm ơn bạn !",
+          "mtime": 1730254676,
+          "is_hidden": false
+        },
+        "editable_date": 1732844135,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1yxfzw8267292",
+            "cover_image_id": "vn-11134103-7ras8-m1yxfzw8267292"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1yxfzw84zby62",
+            "cover_image_id": "vn-11134103-7ras8-m1yxfzw84zby62"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1yxfzw86dwe6b",
+            "cover_image_id": "vn-11134103-7ras8-m1yxfzw86dwe6b"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 17220995496,
+        "ctime": 1729154173,
+        "rating": 1,
+        "userid": 1372679448,
+        "shopid": 188032506,
+        "comment": "Chất lượng sản phẩm:\"Máy in hoạt động rất tốt, mình in đơn hàng liên tục mà máy vẫn chạy mượt mà. Thiết kế nhỏ gọn, tiện lợi, dễ dàng di chuyển. Kèm theo giấy và khay đựng rất tiện lợi cho người mới dùng như mình. Chất lượng xứng đáng với giá tiền!\"\nTính năng nổi bật:IN NHIỆT RẤT NHANH\n\n\"Mua về dùng thử và hoàn toàn hài lòng! In hóa đơn cực kỳ sắc nét, tốc độ nhanh. Dễ kết nối qua cả Bluetooth lẫn USB. Bảo hành 12 tháng và hỗ trợ 24/7 rất yên tâm. Rất đáng để đầu tư cho shop online.\"",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730006228,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1729154173,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "tln3pf17hh",
+        "author_portrait": "vn-11134004-7ras8-m18k63blfjfg00",
+        "author_shopid": 1371979215,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m1gsl0glsi8jb1",
+          "vn-11134103-7ras8-m1gsl0gltwsz00",
+          "vn-11134103-7ras8-m1gsl0glvbdf1a",
+          "vn-11134103-7ras8-m1gsl0glwpxv89",
+          "vn-11134103-7ras8-m1gsl0gly4ib9e"
+        ],
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo, minicode, phiếu gửi, tốc độ in cực nhanh.",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 41271369591,
+            "modelid": 215416868170,
+            "model_name": "hộp đựng máy",
+            "options": [
+              "hộp đựng máy"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 17220995496,
+          "ctime": 1730006228,
+          "userid": 188035243,
+          "comment": "ECOKING xin cám ơn đánh giá của bạn. Chúng tôi rất vui vì bạn đã tin tưởng sử dụng sản phẩm của shop. Chúng tôi luôn hy vọng mang lại sự hài lòng cho Quý khách hàng, chúc bạn luôn vui vẻ và mong bạn tiếp tục ủng hộ Shop trong lần trải nghiệm mua hàng tiếp theo nhé. cảm ơn bạn !",
+          "mtime": 1730006228,
+          "is_hidden": false
+        },
+        "editable_date": 1731746173,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1gsl0glsi8jb1",
+            "cover_image_id": "vn-11134103-7ras8-m1gsl0glsi8jb1"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1gsl0gltwsz00",
+            "cover_image_id": "vn-11134103-7ras8-m1gsl0gltwsz00"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1gsl0glvbdf1a",
+            "cover_image_id": "vn-11134103-7ras8-m1gsl0glvbdf1a"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1gsl0glwpxv89",
+            "cover_image_id": "vn-11134103-7ras8-m1gsl0glwpxv89"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1gsl0gly4ib9e",
+            "cover_image_id": "vn-11134103-7ras8-m1gsl0gly4ib9e"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 17562375917,
+        "ctime": 1730124484,
+        "rating": 1,
+        "userid": 1384864620,
+        "shopid": 188032506,
+        "comment": "Tính năng nổi bật:\"Máy in N43BT thực sự vượt mong đợi! 📦 Đầu tiên, thiết kế nhỏ gọn, không chiếm nhiều diện tích, rất tiện lợi khi để trong góc làm việc. Khi in đơn hàng, tốc độ in nhanh và chữ rõ nét. Kết nối Bluetooth cũng cực kỳ ổn định, không bị ngắt quãng. Đã thử in nhiều đơn hàng liên tiếp mà máy vẫn chạy mượt mà. Rất đáng tiền và phù hợp cho các shop online nhỏ và vừa. Sẽ giới thiệu cho bạn bè cùng dùng!\"\nChất lượng sản phẩm:sản phẩm tốt nên mua\n\nshop giao hàng nhanh hỗ trợ nhiệt tình sẽ ủng hộ shop",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730179524,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1730124484,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "ericka869",
+        "author_portrait": "vn-11134004-7ras8-m1rrof57bvpv1a",
+        "author_shopid": 1384157047,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m1wtcyr4pdg36f",
+          "vn-11134103-7ras8-m1wtcyr4qs0j7c",
+          "vn-11134103-7ras8-m1wtcyr4s6kz7d",
+          "vn-11134103-7ras8-m1wtcyr4tl5f9a",
+          "vn-11134103-7ras8-m1wtcyr4uzpve3"
+        ],
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 53291044663,
+            "modelid": 166760940477,
+            "model_name": "10 tệp máy in A7",
+            "options": [
+              "10 tệp máy in A7"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 17562375917,
+          "ctime": 1730179524,
+          "userid": 188035243,
+          "comment": "ECOKING xin cám ơn đánh giá của bạn. Chúng tôi rất vui vì bạn đã tin tưởng sử dụng sản phẩm của shop. Chúng tôi luôn hy vọng mang lại sự hài lòng cho Quý khách hàng, chúc bạn luôn vui vẻ và mong bạn tiếp tục ủng hộ Shop trong lần trải nghiệm mua hàng tiếp theo nhé. cảm ơn bạn !",
+          "mtime": 1730179524,
+          "is_hidden": false
+        },
+        "editable_date": 1732716484,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1wtcyr4pdg36f",
+            "cover_image_id": "vn-11134103-7ras8-m1wtcyr4pdg36f"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1wtcyr4qs0j7c",
+            "cover_image_id": "vn-11134103-7ras8-m1wtcyr4qs0j7c"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1wtcyr4s6kz7d",
+            "cover_image_id": "vn-11134103-7ras8-m1wtcyr4s6kz7d"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1wtcyr4tl5f9a",
+            "cover_image_id": "vn-11134103-7ras8-m1wtcyr4tl5f9a"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1wtcyr4uzpve3",
+            "cover_image_id": "vn-11134103-7ras8-m1wtcyr4uzpve3"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 17592106390,
+        "ctime": 1730213497,
+        "rating": 1,
+        "userid": 1385085570,
+        "shopid": 188032506,
+        "comment": "Tính năng nổi bật:in nhanh qua bluetooth\n\n\"Máy in N43BT này quá tuyệt vời! 👏 Nhỏ gọn nhưng lại hoạt động rất ổn định, in đơn hàng nhanh và đẹp, không gặp lỗi in mờ hay lem màu. Đặc biệt là dễ kết nối với cả điện thoại và máy tính qua Bluetooth, giúp việc in đơn linh hoạt hơn bao giờ hết. Dùng một thời gian dài mà chưa gặp vấn đề gì. Nếu bạn đang kinh doanh online, đây là lựa chọn hàng đầu! Rất hài lòng với sản phẩm, cảm ơn shop! 🌟\"",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730243532,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1730213497,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "lilybull576",
+        "author_portrait": "vn-11134004-7ras8-m1rs9v4bpr2r6b",
+        "author_shopid": 1384349546,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m1yads3v6ggu1d",
+          "vn-11134103-7ras8-m1yads3v6gezb4",
+          "vn-11134103-7ras8-m1yads3b79nfc2",
+          "vn-11134103-7ras8-m1yads4561um5d",
+          "vn-11134103-7ras8-m1yads3b8o7va4"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6khwe-m1yafe747kke6f",
+            "cover": "https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m1yafe748z4ua0",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.16000051730213238.mp4",
+            "duration": 16919,
+            "mms_ext": "{\"vid\":\"vn-11110103-6khwe-m1yafe747kke6f\",\"biz\":103,\"duration\":16919,\"create_time\":1730213237,\"serviceID\":6,\"cover\":\"https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m1yafe748z4ua0\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.16000051730213238.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.16000051730213238.mp4\",\"width\":640,\"height\":1138,\"bitrate\":787357,\"size\":1881503,\"fps\":25,\"duration\":16920,\"update_time\":1730213252}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":485960,\"size\":1177551,\"fps\":25,\"duration\":16920,\"update_time\":1730213270},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.16003081730213266.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.16003081730213266.mp4\",\"width\":640,\"height\":1138,\"bitrate\":240852,\"size\":795074,\"fps\":25,\"duration\":16920,\"update_time\":1730213289}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7reo3-m20jx17t8eb92d",
+            "highlight": {
+              "id": "vn-11110103-6khwe-m1yafe747kke6f",
+              "cover": "https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m1yafe748z4ua0",
+              "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.16000051730213238.mp4",
+              "duration": 16919,
+              "mms_ext": "{\"vid\":\"vn-11110103-6khwe-m1yafe747kke6f\",\"biz\":103,\"duration\":16919,\"create_time\":1730213237,\"serviceID\":6,\"cover\":\"https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m1yafe748z4ua0\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.16000051730213238.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.16000051730213238.mp4\",\"width\":640,\"height\":1138,\"bitrate\":787357,\"size\":1881503,\"fps\":25,\"duration\":16920,\"update_time\":1730213252}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":485960,\"size\":1177551,\"fps\":25,\"duration\":16920,\"update_time\":1730213270},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.16003081730213266.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwe-m1yafe747kke6f.16003081730213266.mp4\",\"width\":640,\"height\":1138,\"bitrate\":240852,\"size\":795074,\"fps\":25,\"duration\":16920,\"update_time\":1730213289}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7reo3-m20jx17t8eb92d"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 53291044663,
+            "modelid": 166760940476,
+            "model_name": "Máy in + giấy + khay",
+            "options": [
+              "Máy in + giấy + khay"
+            ]
+          },
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 53291044663,
+            "modelid": 166760940477,
+            "model_name": "10 tệp máy in A7",
+            "options": [
+              "10 tệp máy in A7"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 17592106390,
+          "ctime": 1730243532,
+          "userid": 188035243,
+          "comment": "ECOKING xin cám ơn đánh giá của bạn. Chúng tôi rất vui vì bạn đã tin tưởng sử dụng sản phẩm của shop. Chúng tôi luôn hy vọng mang lại sự hài lòng cho Quý khách hàng, chúc bạn luôn vui vẻ và mong bạn tiếp tục ủng hộ Shop trong lần trải nghiệm mua hàng tiếp theo nhé. cảm ơn bạn !",
+          "mtime": 1730243532,
+          "is_hidden": false
+        },
+        "editable_date": 1732805497,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1yads3v6ggu1d",
+            "cover_image_id": "vn-11134103-7ras8-m1yads3v6ggu1d"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1yads3v6gezb4",
+            "cover_image_id": "vn-11134103-7ras8-m1yads3v6gezb4"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1yads3b79nfc2",
+            "cover_image_id": "vn-11134103-7ras8-m1yads3b79nfc2"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1yads4561um5d",
+            "cover_image_id": "vn-11134103-7ras8-m1yads4561um5d"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1yads3b8o7va4",
+            "cover_image_id": "vn-11134103-7ras8-m1yads3b8o7va4"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 17481020161,
+        "ctime": 1729927409,
+        "rating": 1,
+        "userid": 1372679446,
+        "shopid": 188032506,
+        "comment": "Chất lượng sản phẩm:Máy in N43BT hoạt động rất ổn định và hiệu quả. Mình sử dụng cho shop nhỏ của mình, in đơn hàng nhanh chóng mà không gặp sự cố nào. Nhân viên giao hàng đóng gói kỹ càng và giao hàng nhanh chóng. Sẽ quay lại mua thêm khi có nhu cầu!\nTính năng nổi bật:siêu tốc , rõ nét, đẹp\n\ngiao hàng nhanh kết nối mượt mà",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730006227,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1729927409,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "mrv6m3o0_0",
+        "author_portrait": "vn-11134004-7ras8-m18k51ua8p5kd8",
+        "author_shopid": 1371979211,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m1tkdj9drk9f69",
+          "vn-11134103-7ras8-m1tkdj9dsytv06",
+          "vn-11134103-7ras8-m1tkdj9dudeb1c"
+        ],
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo, minicode, phiếu gửi, tốc độ in cực nhanh.",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 41271369591,
+            "modelid": 215416868170,
+            "model_name": "hộp đựng máy",
+            "options": [
+              "hộp đựng máy"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 17481020161,
+          "ctime": 1730006227,
+          "userid": 188035243,
+          "comment": "ECOKING xin cám ơn đánh giá của bạn. Chúng tôi rất vui vì bạn đã tin tưởng sử dụng sản phẩm của shop. Chúng tôi luôn hy vọng mang lại sự hài lòng cho Quý khách hàng, chúc bạn luôn vui vẻ và mong bạn tiếp tục ủng hộ Shop trong lần trải nghiệm mua hàng tiếp theo nhé. cảm ơn bạn !",
+          "mtime": 1730006227,
+          "is_hidden": false
+        },
+        "editable_date": 1732519409,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1tkdj9drk9f69",
+            "cover_image_id": "vn-11134103-7ras8-m1tkdj9drk9f69"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1tkdj9dsytv06",
+            "cover_image_id": "vn-11134103-7ras8-m1tkdj9dsytv06"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1tkdj9dudeb1c",
+            "cover_image_id": "vn-11134103-7ras8-m1tkdj9dudeb1c"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 17482663765,
+        "ctime": 1729928179,
+        "rating": 1,
+        "userid": 1372673045,
+        "shopid": 188032506,
+        "comment": "Chất lượng sản phẩm:áy in nhỏ gọn, tiện lợi cho kinh doanh online. Máy N43BT thực sự là lựa chọn tuyệt vời cho người bán online. Chất lượng in rất rõ nét, không bị nhòe, và máy hoạt động liên tục mà không bị nóng. Khả năng kết nối với điện thoại qua Bluetooth giúp tiết kiệm thời gian và tiện lợi hơn rất nhiều. Khuyên các bạn nên mua!\"\nTính năng nổi bật:khỏe hơn nhiều khi có máy in trong tay\n\nkhỏe hơn nhiều khi có máy in trong tay đóng gói cẩn thận giao hàng nhanh",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730006227,
+        "editable": 2,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1729928571,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "dc2on36pnc",
+        "author_portrait": "vn-11134004-7ras8-m184szm5rhx67a",
+        "author_shopid": 1371967343,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m1tkvu1ny3lr72",
+          "vn-11134103-7ras8-m1tkvu1nzi6789",
+          "vn-11134103-7ras8-m1tkvu1o0wqn19",
+          "vn-11134103-7ras8-m1tkvu1o2bb3cc"
+        ],
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo, minicode, phiếu gửi, tốc độ in cực nhanh.",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 41271369591,
+            "modelid": 215416868170,
+            "model_name": "hộp đựng máy",
+            "options": [
+              "hộp đựng máy"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 17482663765,
+          "ctime": 1730006227,
+          "userid": 188035243,
+          "comment": "ECOKING xin cám ơn đánh giá của bạn. Chúng tôi rất vui vì bạn đã tin tưởng sử dụng sản phẩm của shop. Chúng tôi luôn hy vọng mang lại sự hài lòng cho Quý khách hàng, chúc bạn luôn vui vẻ và mong bạn tiếp tục ủng hộ Shop trong lần trải nghiệm mua hàng tiếp theo nhé. cảm ơn bạn !",
+          "mtime": 1730006227,
+          "is_hidden": false
+        },
+        "editable_date": 1732520179,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1tkvu1ny3lr72",
+            "cover_image_id": "vn-11134103-7ras8-m1tkvu1ny3lr72"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1tkvu1nzi6789",
+            "cover_image_id": "vn-11134103-7ras8-m1tkvu1nzi6789"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1tkvu1o0wqn19",
+            "cover_image_id": "vn-11134103-7ras8-m1tkvu1o0wqn19"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1tkvu1o2bb3cc",
+            "cover_image_id": "vn-11134103-7ras8-m1tkvu1o2bb3cc"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 17480456404,
+        "ctime": 1729927145,
+        "rating": 1,
+        "userid": 1372679456,
+        "shopid": 188032506,
+        "comment": "Tính năng nổi bật:Sản phẩm tuyệt vời! Mình đã sử dụng máy in N43BT và thực sự hài lòng. Chất lượng in rất sắc nét, tốc độ nhanh và không gây ồn. Kết nối Bluetooth ổn định, dễ dàng kết nối với các thiết bị di động. Máy nhỏ gọn, dễ di chuyển và cài đặt cũng rất dễ dàng. Rất đáng để đầu tư!\"\nChất lượng sản phẩm:tốt, in nhanh\n\nshop đóng gói cẩn thận tư vấn nhiệt tình",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730006227,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1729927145,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "d0r6l8ls9t",
+        "author_portrait": "vn-11134004-7ras8-m18k5k0tmujg10",
+        "author_shopid": 1371979225,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m1tk8mo482bj96",
+          "vn-11134103-7ras8-m1tk8mo49gvza9"
+        ],
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo, minicode, phiếu gửi, tốc độ in cực nhanh.",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 41271369591,
+            "modelid": 215416868170,
+            "model_name": "hộp đựng máy",
+            "options": [
+              "hộp đựng máy"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 17480456404,
+          "ctime": 1730006227,
+          "userid": 188035243,
+          "comment": "ECOKING xin cám ơn đánh giá của bạn. Chúng tôi rất vui vì bạn đã tin tưởng sử dụng sản phẩm của shop. Chúng tôi luôn hy vọng mang lại sự hài lòng cho Quý khách hàng, chúc bạn luôn vui vẻ và mong bạn tiếp tục ủng hộ Shop trong lần trải nghiệm mua hàng tiếp theo nhé. cảm ơn bạn !",
+          "mtime": 1730006227,
+          "is_hidden": false
+        },
+        "editable_date": 1732519145,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1tk8mo482bj96",
+            "cover_image_id": "vn-11134103-7ras8-m1tk8mo482bj96"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1tk8mo49gvza9",
+            "cover_image_id": "vn-11134103-7ras8-m1tk8mo49gvza9"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 17278076442,
+        "ctime": 1729499941,
+        "rating": 1,
+        "userid": 1372672911,
+        "shopid": 188032506,
+        "comment": "Tính năng nổi bật:Máy in N43BT rất dễ sử dụng, kết nối bluetooth nhanh chóng và ổn định. In đơn hàng rõ nét, tốc độ in cũng rất nhanh, tiết kiệm thời gian cho công việc bán hàng của tôi. Máy nhỏ gọn, tiện lợi để mang đi nhiều nơi. Tuy nhiên, lúc mới sử dụng cần cài đặt hơi phức tạp nhưng sau khi quen thì mọi thứ rất ok. Nói chung là rất hài lòng với sản phẩm!\"\nChất lượng sản phẩm:CỰC KÌ TỐT\n\nGIAO HÀNG NHANH SHOP UY TÍN",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730006227,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1729499941,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "kju2kizp1a",
+        "author_portrait": "vn-11134004-7ras8-m184t7aikhoaea",
+        "author_shopid": 1371967191,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m1mi7x9q9xlfd5",
+          "vn-11134103-7ras8-m1mi7x9qcqqbe8",
+          "vn-11134103-7ras8-m1mi7x9qe5ar4f",
+          "vn-11134103-7ras8-m1mi7x9qfjv7ec"
+        ],
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo, minicode, phiếu gửi, tốc độ in cực nhanh.",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 41271369591,
+            "modelid": 215416868170,
+            "model_name": "hộp đựng máy",
+            "options": [
+              "hộp đựng máy"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 17278076442,
+          "ctime": 1730006227,
+          "userid": 188035243,
+          "comment": "ECOKING xin cám ơn đánh giá của bạn. Chúng tôi rất vui vì bạn đã tin tưởng sử dụng sản phẩm của shop. Chúng tôi luôn hy vọng mang lại sự hài lòng cho Quý khách hàng, chúc bạn luôn vui vẻ và mong bạn tiếp tục ủng hộ Shop trong lần trải nghiệm mua hàng tiếp theo nhé. cảm ơn bạn !",
+          "mtime": 1730006227,
+          "is_hidden": false
+        },
+        "editable_date": 1732091941,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1mi7x9q9xlfd5",
+            "cover_image_id": "vn-11134103-7ras8-m1mi7x9q9xlfd5"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1mi7x9qcqqbe8",
+            "cover_image_id": "vn-11134103-7ras8-m1mi7x9qcqqbe8"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1mi7x9qe5ar4f",
+            "cover_image_id": "vn-11134103-7ras8-m1mi7x9qe5ar4f"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m1mi7x9qfjv7ec",
+            "cover_image_id": "vn-11134103-7ras8-m1mi7x9qfjv7ec"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 19176862566,
+        "ctime": 1731810972,
+        "rating": 1,
+        "userid": 1385088540,
+        "shopid": 188032506,
+        "comment": "Tính năng nổi bật:\"Máy in rất đáng tiền! In đơn hàng A6, A7 siêu nhanh và rõ nét. Kết nối dễ dàng, sử dụng cực kỳ tiện lợi. Shop gói hàng cẩn thận và giao hàng nhanh chóng. 5 sao!\"\nChất lượng sản phẩm:in rất nhanh tiện lợi\n\n\"Chất lượng máy in vượt mong đợi. Đơn hàng in ra sắc nét, không bị nhòe mực. Đặc biệt là thao tác rất đơn giản, phù hợp cho cả người mới dùng. Rất hài lòng!\"",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1731852641,
+        "editable": 1,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1731810972,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "jadensaunders",
+        "author_portrait": "vn-11134004-7ras8-m1rs9zd7f7tfda",
+        "author_shopid": 1384352502,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 45789412095,
+            "modelid": 215416868170,
+            "model_name": "hộp đựng máy",
+            "options": [
+              "hộp đựng máy"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 19176862566,
+          "ctime": 1731852641,
+          "userid": 188035243,
+          "comment": "ECOKING xin cám ơn đánh giá của bạn. Chúng tôi rất vui vì bạn đã tin tưởng sử dụng sản phẩm của shop. Chúng tôi luôn hy vọng mang lại sự hài lòng cho Quý khách hàng, chúc bạn luôn vui vẻ và mong bạn tiếp tục ủng hộ Shop trong lần trải nghiệm mua hàng tiếp theo nhé. cảm ơn bạn !",
+          "mtime": 1731852641,
+          "is_hidden": false
+        },
+        "editable_date": 1734402972,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 18388759272,
+        "ctime": 1731567351,
+        "rating": 1,
+        "userid": 1372679542,
+        "shopid": 188032506,
+        "comment": "Chất lượng sản phẩm:Máy in N43BT rất dễ sử dụng, kết nối bluetooth nhanh chóng và ổn định. In đơn hàng rõ nét, tốc độ in cũng rất nhanh, tiết kiệm thời gian cho công việc bán hàng của tôi. Máy nhỏ gọn, tiện lợi để mang đi nhiều nơi. Tuy nhiên, lúc mới sử dụng cần cài đặt hơi phức tạp nhưng sau khi quen thì mọi thứ rất ok. Nói chung là rất hài lòng với sản phẩm nhé các ban\nTính năng nổi bật:in nhanh rõ nét\n\nMáy in đơn bluetooth N43BT hoạt động tốt, in ấn nhanh và không bị kẹt giấy. Kết nối với điện thoại dễ dàng, rất tiện lợi cho việc in đơn hàng ngay khi nhận. Điểm trừ duy nhất là chất lượng in đôi khi không sắc nét nếu giấy in không tốt, nhưng với giá này thì máy đã đáp ứng rất tốt nhu cầu của tôi.",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1731572392,
+        "editable": 1,
+        "opt": 2,
+        "filter": 1,
+        "is_hidden": false,
+        "submit_time": 1731567351,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "rbc0t84fsl",
+        "author_portrait": "vn-11134004-7ras8-m18k7j1xotng59",
+        "author_shopid": 1371979392,
+        "anonymous": false,
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo, minicode, phiếu gửi, tốc độ in cực nhanh.",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 41271369591,
+            "modelid": 215416868170,
+            "model_name": "hộp đựng máy",
+            "options": [
+              "hộp đựng máy"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 18388759272,
+          "ctime": 1731572392,
+          "userid": 188035243,
+          "comment": "ECOKING xin cám ơn đánh giá của bạn. Chúng tôi rất vui vì bạn đã tin tưởng sử dụng sản phẩm của shop. Chúng tôi luôn hy vọng mang lại sự hài lòng cho Quý khách hàng, chúc bạn luôn vui vẻ và mong bạn tiếp tục ủng hộ Shop trong lần trải nghiệm mua hàng tiếp theo nhé. cảm ơn bạn !",
+          "mtime": 1731572392,
+          "is_hidden": false
+        },
+        "editable_date": 1734159351,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 17458840554,
+        "ctime": 1729917013,
+        "rating": -1,
+        "userid": 858113180,
+        "shopid": 188032506,
+        "comment": "Shop làm ăn như ccc máy in nhiệt mà gửi như này",
+        "rating_star": 1,
+        "status": 2,
+        "mtime": 1730006227,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1729917013,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "quanghuynh223",
+        "author_portrait": "",
+        "author_shopid": 858100505,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m1te9nq172abc1"
+        ],
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo, minicode, phiếu gửi, tốc độ in cực nhanh.",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 41271369591,
+            "modelid": 215416868170,
+            "model_name": "hộp đựng máy",
+            "options": [
+              "hộp đựng máy"
+            ]
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 17458840554,
+          "ctime": 1730006227,
+          "userid": 188035243,
+          "comment": "ECOKING vô cùng xin lỗi vì trải nghiệm không tốt lần này của bạn ạ. Chúng tôi rất xin lỗi vì sự sơ suất đã khiến bạn không hài lòng. Chúng tôi sẽ nhanh chóng hỗ trợ đổi hàng hoặc hoàn tiền cho bạn. Mong bạn check tin của bên shop sớm để trao đổi cụ thể hơn về vấn đề. Cảm ơn bạn đã tin tưởng cũng như lựa chọn các sản phẩm của shop!",
+          "mtime": 1730006227,
+          "is_hidden": false
+        },
+        "editable_date": 1732509013,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 1,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1te9nq172abc1",
+            "cover_image_id": "vn-11134103-7ras8-m1te9nq172abc1"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      },
+      {
+        "orderid": 0,
+        "itemid": 27312277956,
+        "cmtid": 16798408668,
+        "ctime": 1727498910,
+        "rating": 1,
+        "userid": 1359454880,
+        "shopid": 188032506,
+        "comment": "Tính năng nổi bật:máy mua tới mấy cái, ship lấy hàng khóc quá, nên mua máy mới của anh này luôn, riết nhà nhiều máy của shinedi này quá rồi, nếu bán đc vài đơn thì đừng mua máy, còn bán 10-1000 đơn thì mua gấp mua đi, bán 100-1000 đơn theo lời anh văn phải 2,3 chiếc để ảnh giàu chứ ảnh than quá kkk chúc shop bán đắt mọi người cố gắng ủng hộ ah chiếc nhé chất lượng khỏi bàn okokokokokokokokokokokokokokokokokokooooko\n\nmáy xịn đẹp in nhanh ngon lành rồi nhá, mình lười chụp ảnh, nhưng vì chất lượng tốt nên cho vài tấm",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1727498910,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1727498910,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "tmi9w4oym5",
+        "author_portrait": "vn-11134004-7ras8-m0ml9wzcccr339",
+        "author_shopid": 1358754606,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m0pfdpc9ta7h14",
+          "vn-11134103-7ras8-m0pfdpc9uorxff",
+          "vn-11134103-7ras8-m0pfdpc9w3cdbb",
+          "vn-11134103-7ras8-m0pfdpc9xhwt9b",
+          "vn-11134103-7ras8-m0pfdpc9ywh948"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6khw0-m0pfe89q425pb3",
+            "cover": "https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m0pfh6mgojik36",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw0-m0pfe89q425pb3.default.mp4",
+            "duration": 15434,
+            "mms_ext": "{\"vid\":\"vn-11110103-6khw0-m0pfe89q425pb3\",\"biz\":103,\"duration\":15434,\"create_time\":1727497662,\"serviceID\":6,\"cover\":\"https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m0pfh6mgojik36\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw0-m0pfe89q425pb3.default.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw0-m0pfe89q425pb3.default.mp4\",\"width\":854,\"height\":480,\"bitrate\":487468,\"size\":1079208,\"fps\":25,\"duration\":15439,\"update_time\":1727497687}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw0-m0pfe89q425pb3.default.mp4\",\"width\":854,\"height\":480,\"bitrate\":487468,\"size\":1079208,\"fps\":25,\"duration\":15439,\"update_time\":1727497687},\"extend_formats\":{},\"ab_test\":\"\"}",
+            "cover_image_id": "",
+            "highlight": {
+              "id": "vn-11110103-6khw0-m0pfe89q425pb3",
+              "cover": "https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m0pfh6mgojik36",
+              "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw0-m0pfe89q425pb3.default.mp4",
+              "duration": 15434,
+              "mms_ext": "{\"vid\":\"vn-11110103-6khw0-m0pfe89q425pb3\",\"biz\":103,\"duration\":15434,\"create_time\":1727497662,\"serviceID\":6,\"cover\":\"https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m0pfh6mgojik36\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw0-m0pfe89q425pb3.default.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw0-m0pfe89q425pb3.default.mp4\",\"width\":854,\"height\":480,\"bitrate\":487468,\"size\":1079208,\"fps\":25,\"duration\":15439,\"update_time\":1727497687}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw0-m0pfe89q425pb3.default.mp4\",\"width\":854,\"height\":480,\"bitrate\":487468,\"size\":1079208,\"fps\":25,\"duration\":15439,\"update_time\":1727497687},\"extend_formats\":{},\"ab_test\":\"\"}",
+              "cover_image_id": ""
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 27312277956,
+            "shopid": 188032506,
+            "name": "Máy in nhiệt N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo, minicode, phiếu gửi, tốc độ in cực nhanh.",
+            "image": "vn-11134207-7ras8-m0kbit9lxbl9db",
+            "is_snapshot": 1,
+            "snapshotid": 13802314283,
+            "modelid": 215416868170,
+            "model_name": "hộp đựng máy",
+            "options": [
+              "hộp đựng máy"
+            ]
+          }
+        ],
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m0pfdpc9ta7h14",
+            "cover_image_id": "vn-11134103-7ras8-m0pfdpc9ta7h14"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m0pfdpc9uorxff",
+            "cover_image_id": "vn-11134103-7ras8-m0pfdpc9uorxff"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m0pfdpc9w3cdbb",
+            "cover_image_id": "vn-11134103-7ras8-m0pfdpc9w3cdbb"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m0pfdpc9xhwt9b",
+            "cover_image_id": "vn-11134103-7ras8-m0pfdpc9xhwt9b"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m0pfdpc9ywh948",
+            "cover_image_id": "vn-11134103-7ras8-m0pfdpc9ywh948"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 27312277956,
+          "shopid": 188032506,
+          "name": "Máy in nhiệt mini N43BT ECOKING kết nối điện thoại, latop, pc in đơn hàng, logo,minicode, phiếu gửi, tốc độ in cực nhanh",
+          "image": "vn-11134207-7ras8-m0kbit9lxbl9db"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_27312277956"
+      }
+    ],
+    "item_rating_summary": {
+      "rating_total": 13,
+      "rating_count": [
+        1,
+        0,
+        0,
+        0,
+        12
+      ],
+      "rcount_with_context": 13,
+      "rcount_with_image": 11,
+      "rcount_with_media": 11,
+      "rcount_local_review": 13,
+      "rcount_repeat_purchase": 0,
+      "rcount_overall_fit_small": 0,
+      "rcount_overall_fit_fit": 0,
+      "rcount_overall_fit_large": 0,
+      "rcount_oversea_review": 0,
+      "rcount_folded": 0,
+      "show_size_fitting": false
+    },
+    "is_sip_item": true,
+    "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_default,QUEUE:comment_search_default,NEWABTEST:0,QUEUES:comment_search_default",
+    "downgrade_switch": false,
+    "has_more": false,
+    "show_local_review": false,
+    "browsing_ui": "",
+    "enable_buyer_gallery_media": true,
+    "size_info_abt": "",
+    "resize_image_abt": false,
+    "purchase_bar_abt": "bucket_a",
+    "signature": "",
+    "original_review_summary": {},
+    "fe_review_summary": {}
+  },
+  "id": "27312277956"
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://www.lazada.vn/products/iphone-16-pro-max-hang-chinh-hang-vna-i2792189799-s13627487236.html",
+    "status": "SUCCESS",
+    "responseBody": {
+        "api": "mtop.global.detail.web.getdetailinfo",
+        "data": {},
+        "ret": [
+            "FAIL_SYS_TOKEN_EMPTY::令牌为空"
+        ],
+        "traceId": "214113c417360054482655281e9e9b",
+        "v": "1.0",
+        "scraperMessage": "The product has an unexpected data structure."
+    },
+    "scraped_timestamp": "2025-01-04T22:44:03.001671"
+}

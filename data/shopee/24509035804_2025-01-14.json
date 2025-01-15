@@ -1,0 +1,5 @@
+{
+    "error": 400,
+    "message": "{\"url\":\"https://shopee.vn/api/v4/pdp/hot_sales/get?item_id=24509035804&limit=8&offset=0&shop_id=743787121\",\"status\":\"ERROR_TOO_MANY_TIMES\",\"responseBody\":\"{\\\"error\\\": 0.1}\",\"errorMessage\":\"The API https://shopee.vn/api/v4/pdp/hot_sales/get?item_id=24509035804&limit=8&offset=0&shop_id=743787121 returned the error 0.1.\"}",
+    "scraped_timestamp": "2025-01-14T00:26:16.275222"
+}

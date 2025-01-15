@@ -1,0 +1,1537 @@
+{
+  "data": {
+    "ratings": [
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 16819780784,
+        "ctime": 1727610536,
+        "rating": 1,
+        "userid": 89600530,
+        "shopid": 88201679,
+        "comment": "Chất lượng sản phẩm:oke\nĐúng với mô tả:đúng\nTính năng nổi bật:nút camera\n\nNói chung tui vẫn ủnh hộ iphone , từ 5s đến giờ vãn không thay đổi 1 năm thay 1 cái tự thưởng cho chính mình , mong năm sau vẫn có chút tiền để đổi ạ",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1733055761,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1727610536,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "mie_ny",
+        "author_portrait": "vn-11134233-7r98o-lxdsv7r30wd5b7",
+        "author_shopid": 89599052,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m0ralefoo51r5f",
+          "vn-11134103-7ras8-m0ralefotqzx91",
+          "vn-11134103-7ras8-m0ralefo8osvbe",
+          "vn-11134103-7ras8-m0ralefoa31pc2",
+          "vn-11134103-7ras8-m0ralefolbl969"
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 40258008726,
+            "modelid": 98998164587,
+            "model_name": "Titan - Tự Nhiên",
+            "options": [
+              "Titan - Tự Nhiên"
+            ]
+          }
+        ],
+        "editable_date": 1730202536,
+        "like_count": 150,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Đúng với mô tả",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m0ralefoo51r5f",
+            "cover_image_id": "vn-11134103-7ras8-m0ralefoo51r5f"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m0ralefotqzx91",
+            "cover_image_id": "vn-11134103-7ras8-m0ralefotqzx91"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m0ralefo8osvbe",
+            "cover_image_id": "vn-11134103-7ras8-m0ralefo8osvbe"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m0ralefoa31pc2",
+            "cover_image_id": "vn-11134103-7ras8-m0ralefoa31pc2"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m0ralefolbl969",
+            "cover_image_id": "vn-11134103-7ras8-m0ralefolbl969"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 16830564999,
+        "ctime": 1727681621,
+        "rating": 1,
+        "userid": 1057556180,
+        "shopid": 88201679,
+        "comment": "Đúng với mô tả:QUÁ LÀ ĐẲNG CẤP\nChất lượng sản phẩm:ĐẸP NHƯ NGỌC TRINH\nTính năng nổi bật:DÀNH CHO NGƯỜI GIÀU MUA ĐẦU. HEHE\n\nMay mắn khi mua được em 16 Promax 256gb Gold và được giao sớm vào ngày 27.09. Quá là tuyệt vời Bà mặt Zời luôn. Quét mã QR để kiếm 💰cùng Em #NGOCNAM 💡",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1733044833,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1727681621,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "syphuckz92",
+        "author_portrait": "vn-11134004-7r98o-lkoff4zln0mi9d",
+        "author_shopid": 1057308174,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m0sgqx4svamn52"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6khw2-m0sgrchibnjh52",
+            "cover": "https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m0sgrchid23x4e",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.default.mp4",
+            "duration": 12645,
+            "mms_ext": "{\"vid\":\"vn-11110103-6khw2-m0sgrchibnjh52\",\"biz\":103,\"duration\":12645,\"create_time\":1727681427,\"serviceID\":6,\"cover\":\"https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m0sgrchid23x4e\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.default.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":336255,\"size\":645438,\"fps\":25,\"duration\":12640,\"update_time\":1727681445}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":336255,\"size\":645438,\"fps\":25,\"duration\":12640,\"update_time\":1727681445},\"extend_formats\":{\"H265\":[{\"format\":1600020,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.16000201727701559.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.16000201727701559.mp4\",\"width\":360,\"height\":640,\"bitrate\":332948,\"size\":693232,\"fps\":25,\"duration\":12640,\"update_time\":1727701567}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7rdwm-m0uv424k9gxu74",
+            "highlight": {
+              "id": "vn-11110103-6khw2-m0sgrchibnjh52",
+              "cover": "https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m0sgrchid23x4e",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.default.mp4",
+              "duration": 12645,
+              "mms_ext": "{\"vid\":\"vn-11110103-6khw2-m0sgrchibnjh52\",\"biz\":103,\"duration\":12645,\"create_time\":1727681427,\"serviceID\":6,\"cover\":\"https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m0sgrchid23x4e\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.default.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":336255,\"size\":645438,\"fps\":25,\"duration\":12640,\"update_time\":1727681445}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":336255,\"size\":645438,\"fps\":25,\"duration\":12640,\"update_time\":1727681445},\"extend_formats\":{\"H265\":[{\"format\":1600020,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.16000201727701559.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw2-m0sgrchibnjh52.16000201727701559.mp4\",\"width\":360,\"height\":640,\"bitrate\":332948,\"size\":693232,\"fps\":25,\"duration\":12640,\"update_time\":1727701567}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7rdwm-m0uv424k9gxu74"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 39751914178,
+            "modelid": 98998164586,
+            "model_name": "Titan - Sa Mạc",
+            "options": [
+              "Titan - Sa Mạc"
+            ]
+          }
+        ],
+        "editable_date": 1730273621,
+        "like_count": 41,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Đúng với mô tả",
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m0sgqx4svamn52",
+            "cover_image_id": "vn-11134103-7ras8-m0sgqx4svamn52"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 18257745724,
+        "ctime": 1731411885,
+        "rating": 1,
+        "userid": 211906935,
+        "shopid": 88201679,
+        "comment": "Tính năng nổi bật:tuyet cu meo\n\nĐúng hàng chính hãng Apple! Nguyên seal! Nguyên tem màu!\nKhui ra active kích hoạt đúng ngày bảo hành! Mua dịp sale 11/11 nên có giá tốt",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1733037189,
+        "editable": 1,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1731411885,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "q*****1",
+        "author_portrait": "7d20b8af28e1ac8269c2dc0a3f99b744",
+        "author_shopid": 211903319,
+        "anonymous": true,
+        "images": [
+          "vn-11134103-7ras8-m2i37udrmkky76",
+          "vn-11134103-7ras8-m2i37uds0m9g4e",
+          "vn-11134103-7ras8-m2i37udrl60k51"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6khw8-m2i3803n7vzm53",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2i3803n9ak253",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.default.mp4",
+            "duration": 6455,
+            "mms_ext": "{\"vid\":\"vn-11110103-6khw8-m2i3803n7vzm53\",\"biz\":103,\"duration\":6455,\"create_time\":1731411798,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2i3803n9ak253\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.default.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.default.mp4\",\"width\":480,\"height\":640,\"bitrate\":441694,\"size\":414173,\"fps\":25,\"duration\":6455,\"update_time\":1731411819}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.default.mp4\",\"width\":480,\"height\":640,\"bitrate\":441694,\"size\":414173,\"fps\":25,\"duration\":6455,\"update_time\":1731411819},\"extend_formats\":{\"H265\":[{\"format\":1600018,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.16000181731591815.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.16000181731591815.mp4\",\"width\":480,\"height\":640,\"bitrate\":400349,\"size\":409276,\"fps\":25,\"duration\":6455,\"update_time\":1731591822}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7reni-m2jaxfkwdw3k6e",
+            "highlight": {
+              "id": "vn-11110103-6khw8-m2i3803n7vzm53",
+              "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2i3803n9ak253",
+              "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.default.mp4",
+              "duration": 6455,
+              "mms_ext": "{\"vid\":\"vn-11110103-6khw8-m2i3803n7vzm53\",\"biz\":103,\"duration\":6455,\"create_time\":1731411798,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2i3803n9ak253\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.default.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.default.mp4\",\"width\":480,\"height\":640,\"bitrate\":441694,\"size\":414173,\"fps\":25,\"duration\":6455,\"update_time\":1731411819}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.default.mp4\",\"width\":480,\"height\":640,\"bitrate\":441694,\"size\":414173,\"fps\":25,\"duration\":6455,\"update_time\":1731411819},\"extend_formats\":{\"H265\":[{\"format\":1600018,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.16000181731591815.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-m2i3803n7vzm53.16000181731591815.mp4\",\"width\":480,\"height\":640,\"bitrate\":400349,\"size\":409276,\"fps\":25,\"duration\":6455,\"update_time\":1731591822}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7reni-m2jaxfkwdw3k6e"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 53297976363,
+            "modelid": 98998164586,
+            "model_name": "Titan - Sa Mạc",
+            "options": [
+              "Titan - Sa Mạc"
+            ]
+          }
+        ],
+        "editable_date": 1734003885,
+        "like_count": 12,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Tính năng nổi bật",
+          "Đúng với mô tả",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m2i37udrmkky76",
+            "cover_image_id": "vn-11134103-7ras8-m2i37udrmkky76"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m2i37uds0m9g4e",
+            "cover_image_id": "vn-11134103-7ras8-m2i37uds0m9g4e"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m2i37udrl60k51",
+            "cover_image_id": "vn-11134103-7ras8-m2i37udrl60k51"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 1,
+          "key_media_id": "vn-11110103-6khw8-m2i3803n7vzm53"
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 17203104837,
+        "ctime": 1729076337,
+        "rating": 1,
+        "userid": 80697987,
+        "shopid": 88201679,
+        "comment": "Năm nào iphone mới cũng là một cái gì đó khó cưỡng dù chưa có nhiều thay đổi ! Chỉ một chút cải tiến cũng đã làm dân tình mê mẩn ! Chất lượng thì khỏi bàn rồi ! Giá cũng rất tốt nữa ! Cứ hàng chính hãng mà mua thôi",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732896284,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1729076337,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "nam_viet_hardware",
+        "author_portrait": "eb9d5ed4181bd6b4db6108d03445c377",
+        "author_shopid": 80696513,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m1fi9i191vb310"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6khw5-m1fi9m90vrnj3d",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m1fi9m90x67z8e",
+            "url": "https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.default.mp4",
+            "duration": 3500,
+            "mms_ext": "{\"vid\":\"vn-11110103-6khw5-m1fi9m90vrnj3d\",\"biz\":103,\"duration\":3500,\"create_time\":1729076252,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m1fi9m90x67z8e\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.default.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":135656,\"size\":69508,\"fps\":25,\"duration\":3519,\"update_time\":1729076267}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":135656,\"size\":69508,\"fps\":25,\"duration\":3519,\"update_time\":1729076267},\"extend_formats\":{\"H265\":[{\"format\":1600020,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.16000201730299045.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.16000201730299045.mp4\",\"width\":360,\"height\":640,\"bitrate\":138070,\"size\":72960,\"fps\":25,\"duration\":3519,\"update_time\":1730299046}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7rdwm-m1htdz0mqb7s56",
+            "highlight": {
+              "id": "vn-11110103-6khw5-m1fi9m90vrnj3d",
+              "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m1fi9m90x67z8e",
+              "url": "https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.default.mp4",
+              "duration": 3500,
+              "mms_ext": "{\"vid\":\"vn-11110103-6khw5-m1fi9m90vrnj3d\",\"biz\":103,\"duration\":3500,\"create_time\":1729076252,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m1fi9m90x67z8e\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.default.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":135656,\"size\":69508,\"fps\":25,\"duration\":3519,\"update_time\":1729076267}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":135656,\"size\":69508,\"fps\":25,\"duration\":3519,\"update_time\":1729076267},\"extend_formats\":{\"H265\":[{\"format\":1600020,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.16000201730299045.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw5-m1fi9m90vrnj3d.16000201730299045.mp4\",\"width\":360,\"height\":640,\"bitrate\":138070,\"size\":72960,\"fps\":25,\"duration\":3519,\"update_time\":1730299046}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7rdwm-m1htdz0mqb7s56"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 40258008726,
+            "modelid": 98998164587,
+            "model_name": "Titan - Tự Nhiên",
+            "options": [
+              "Titan - Tự Nhiên"
+            ]
+          }
+        ],
+        "editable_date": 1731668337,
+        "like_count": 10,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1fi9i191vb310",
+            "cover_image_id": "vn-11134103-7ras8-m1fi9i191vb310"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 16953844906,
+        "ctime": 1728107877,
+        "rating": 1,
+        "userid": 90100946,
+        "shopid": 88201679,
+        "comment": "Chất lượng sản phẩm:m\n\nĐiện thoại giao nhanh hơn mình tưởng. Nghĩ 3 ngày có mà đặt hôm trước sáng hôm sau nhận được liền hàng chính hãng rẻ hởn ngoài tiệm 1 triệu",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1733030534,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1728107877,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "khoalee2904",
+        "author_portrait": "5dcea4e1938ec816f9c7d2c50eb68517",
+        "author_shopid": 90099468,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m0zibq46d21rab",
+          "vn-11134103-7ras8-m0zibq46d2cb89",
+          "vn-11134103-7ras8-m0zibq46egm7ef"
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 40258008726,
+            "modelid": 98998164587,
+            "model_name": "Titan - Tự Nhiên",
+            "options": [
+              "Titan - Tự Nhiên"
+            ]
+          }
+        ],
+        "editable_date": 1730699877,
+        "like_count": 8,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Đúng với mô tả",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m0zibq46d21rab",
+            "cover_image_id": "vn-11134103-7ras8-m0zibq46d21rab"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m0zibq46d2cb89",
+            "cover_image_id": "vn-11134103-7ras8-m0zibq46d2cb89"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m0zibq46egm7ef",
+            "cover_image_id": "vn-11134103-7ras8-m0zibq46egm7ef"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 17315055598,
+        "ctime": 1729673385,
+        "rating": 1,
+        "userid": 16551322,
+        "shopid": 88201679,
+        "comment": "Đúng với mô tả:ok\nTính năng nổi bật:AI Intelligence\nChất lượng sản phẩm:tốt\n\nMua dc giảm giá 2tr nên giá tốt hơn ngoài store. Giao nhanh",
+        "rating_star": 5,
+        "status": 1,
+        "mtime": 1732950630,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1729673385,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "j*****1",
+        "author_portrait": "caa03df2a9249da52de4e0e9ebef5e31",
+        "author_shopid": 16549986,
+        "anonymous": true,
+        "images": [
+          "vn-11134103-7ras8-m1pd9v92f5xb8c"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6khwd-m1pda5r91qkf0a",
+            "cover": "https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m1pda5r9354ve9",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16000101729673330.mp4",
+            "duration": 5566,
+            "mms_ext": "{\"vid\":\"vn-11110103-6khwd-m1pda5r91qkf0a\",\"biz\":103,\"duration\":5566,\"create_time\":1729673330,\"serviceID\":6,\"cover\":\"https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m1pda5r9354ve9\",\"cover_list\":null,\"formats\":[{\"format\":1600010,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16000101729673330.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16000101729673330.mp4\",\"width\":610,\"height\":540,\"bitrate\":576748,\"size\":441122,\"fps\":25,\"duration\":5572,\"update_time\":1729673333}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.default.mp4\",\"width\":610,\"height\":540,\"bitrate\":522535,\"size\":414829,\"fps\":25,\"duration\":5572,\"update_time\":1729673347},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16003071730262160.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16003071730262160.mp4\",\"width\":610,\"height\":540,\"bitrate\":221802,\"size\":249819,\"fps\":25,\"duration\":5572,\"update_time\":1730262166},{\"format\":1600021,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16000211730262153.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16000211730262153.mp4\",\"width\":610,\"height\":540,\"bitrate\":264028,\"size\":279166,\"fps\":25,\"duration\":5572,\"update_time\":1730262159}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7rep9-m1riagcbyzb104",
+            "highlight": {
+              "id": "vn-11110103-6khwd-m1pda5r91qkf0a",
+              "cover": "https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m1pda5r9354ve9",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16000101729673330.mp4",
+              "duration": 5566,
+              "mms_ext": "{\"vid\":\"vn-11110103-6khwd-m1pda5r91qkf0a\",\"biz\":103,\"duration\":5566,\"create_time\":1729673330,\"serviceID\":6,\"cover\":\"https://down-bs-sg.img.susercontent.com/vn-11110103-7ras8-m1pda5r9354ve9\",\"cover_list\":null,\"formats\":[{\"format\":1600010,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16000101729673330.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16000101729673330.mp4\",\"width\":610,\"height\":540,\"bitrate\":576748,\"size\":441122,\"fps\":25,\"duration\":5572,\"update_time\":1729673333}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.default.mp4\",\"width\":610,\"height\":540,\"bitrate\":522535,\"size\":414829,\"fps\":25,\"duration\":5572,\"update_time\":1729673347},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16003071730262160.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16003071730262160.mp4\",\"width\":610,\"height\":540,\"bitrate\":221802,\"size\":249819,\"fps\":25,\"duration\":5572,\"update_time\":1730262166},{\"format\":1600021,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16000211730262153.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-m1pda5r91qkf0a.16000211730262153.mp4\",\"width\":610,\"height\":540,\"bitrate\":264028,\"size\":279166,\"fps\":25,\"duration\":5572,\"update_time\":1730262159}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7rep9-m1riagcbyzb104"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 17811426825,
+            "modelid": 99642325761,
+            "model_name": "Titan - Trắng",
+            "options": [
+              "Titan - Trắng"
+            ]
+          }
+        ],
+        "editable_date": 1732265385,
+        "like_count": 8,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Đúng với mô tả",
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1pd9v92f5xb8c",
+            "cover_image_id": "vn-11134103-7ras8-m1pd9v92f5xb8c"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 18331054072,
+        "ctime": 1731515135,
+        "rating": 1,
+        "userid": 96998829,
+        "shopid": 88201679,
+        "comment": "Đúng với mô tả:ưng\nChất lượng sản phẩm:tốt\nTính năng nổi bật:cam\n\nNói chung mua của mall thì hoàn toàn yên tâm! Săn sale rẻ hơn gần 2 triệu nếu mua trực tiếp tại shop!",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732875229,
+        "editable": 1,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1731515135,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "ledan2009",
+        "author_portrait": "1e438529f5bf6ae67dab0aff39f0fb00",
+        "author_shopid": 96997351,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m2jslb33eeno4c",
+          "vn-11134103-7ras8-m2jslb33tuwk98"
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 36303750150,
+            "modelid": 98998164586,
+            "model_name": "Titan - Sa Mạc",
+            "options": [
+              "Titan - Sa Mạc"
+            ]
+          }
+        ],
+        "editable_date": 1734107135,
+        "like_count": 2,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Đúng với mô tả",
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m2jslb33eeno4c",
+            "cover_image_id": "vn-11134103-7ras8-m2jslb33eeno4c"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m2jslb33tuwk98",
+            "cover_image_id": "vn-11134103-7ras8-m2jslb33tuwk98"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 17240132992,
+        "ctime": 1729245359,
+        "rating": 1,
+        "userid": 1250742947,
+        "shopid": 88201679,
+        "comment": "Tôi vô cùng hài lòng với sản phẩm này. Chất lượng thật sự vượt xa mong đợi của tôi. Thiết kế tinh tế, chắc chắn và rất dễ sử dụng. Chất liệu được lựa chọn kỹ càng, cho cảm giác thoải mái và bền bỉ khi sử dụng. Những tính năng được tích hợp rất hữu ích và thực sự giúp tôi hoàn thành công việc một cách hiệu quả. Tôi chắc chắn sẽ tiếp tục sử dụng sản phẩm này và giới thiệu nó tới bạn bè, gia đình. Đây thực sự là một sản phẩm tuyệt vời mà tôi hoàn toàn tin tưởng và khuyên các bạn nên thử qua.",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732675949,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1729245359,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "t*****7",
+        "author_portrait": "vn-11134233-7r98o-lz3nyry0xrq99e",
+        "author_shopid": 1250292916,
+        "anonymous": true,
+        "images": [
+          "vn-11134103-7ras8-m1iapmei5qynb9"
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 39751914178,
+            "modelid": 98998164586,
+            "model_name": "Titan - Sa Mạc",
+            "options": [
+              "Titan - Sa Mạc"
+            ]
+          }
+        ],
+        "editable_date": 1731837359,
+        "like_count": 3,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1iapmei5qynb9",
+            "cover_image_id": "vn-11134103-7ras8-m1iapmei5qynb9"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 19197465732,
+        "ctime": 1731939214,
+        "rating": 1,
+        "userid": 61756982,
+        "shopid": 88201679,
+        "comment": "Đúng với mô tả:đúng\nChất lượng sản phẩm:mới\n\nHàng chuẩn chính hãng., lần đầu đặt sp giá trị cao trên sp nên cũng hơi lo lắng. Nhưng nhận hàng k vấn đề gì.",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732835500,
+        "editable": 1,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1731939214,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "leimeibotique",
+        "author_portrait": "886ab473309c3c2fa052756603bccdd3",
+        "author_shopid": 61755541,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m2qsvjj0dwaidb"
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 53803666209,
+            "modelid": 98998164586,
+            "model_name": "Titan - Sa Mạc",
+            "options": [
+              "Titan - Sa Mạc"
+            ]
+          }
+        ],
+        "editable_date": 1734531214,
+        "like_count": 2,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Đúng với mô tả",
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m2qsvjj0dwaidb",
+            "cover_image_id": "vn-11134103-7ras8-m2qsvjj0dwaidb"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 19185215849,
+        "ctime": 1731853152,
+        "rating": 1,
+        "userid": 1392159035,
+        "shopid": 88201679,
+        "comment": "Chất lượng sản phẩm:tốt\nTính năng nổi bật:ok\nĐúng với mô tả:chuẩn\n\nHàng nhận được đúng như mô tả, đóng gói cẩn thận. Giao hàng nhanh",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1733014695,
+        "editable": 1,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1731853152,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "jzt5_qvigo",
+        "author_portrait": "",
+        "author_shopid": 1391418397,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m2pdmjacd5fecf"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6khwg-m2pdo0l0df5y4b",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2pdo0l0etqe24",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.default.mp4",
+            "duration": 4272,
+            "mms_ext": "{\"vid\":\"vn-11110103-6khwg-m2pdo0l0df5y4b\",\"biz\":103,\"duration\":4272,\"create_time\":1731853105,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2pdo0l0etqe24\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.default.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":266028,\"size\":181054,\"fps\":25,\"duration\":4271,\"update_time\":1731853123}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":266028,\"size\":181054,\"fps\":25,\"duration\":4271,\"update_time\":1731853123},\"extend_formats\":{\"H265\":[{\"format\":1600020,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.16000201732290224.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.16000201732290224.mp4\",\"width\":360,\"height\":640,\"bitrate\":304232,\"size\":220681,\"fps\":25,\"duration\":4271,\"update_time\":1732290226}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7reo2-m2r9wasbbz7df3",
+            "highlight": {
+              "id": "vn-11110103-6khwg-m2pdo0l0df5y4b",
+              "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2pdo0l0etqe24",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.default.mp4",
+              "duration": 4272,
+              "mms_ext": "{\"vid\":\"vn-11110103-6khwg-m2pdo0l0df5y4b\",\"biz\":103,\"duration\":4272,\"create_time\":1731853105,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2pdo0l0etqe24\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.default.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":266028,\"size\":181054,\"fps\":25,\"duration\":4271,\"update_time\":1731853123}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":266028,\"size\":181054,\"fps\":25,\"duration\":4271,\"update_time\":1731853123},\"extend_formats\":{\"H265\":[{\"format\":1600020,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.16000201732290224.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwg-m2pdo0l0df5y4b.16000201732290224.mp4\",\"width\":360,\"height\":640,\"bitrate\":304232,\"size\":220681,\"fps\":25,\"duration\":4271,\"update_time\":1732290226}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7reo2-m2r9wasbbz7df3"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 8586636704,
+            "modelid": 98998164586,
+            "model_name": "Titan - Sa Mạc",
+            "options": [
+              "Titan - Sa Mạc"
+            ]
+          }
+        ],
+        "editable_date": 1734445152,
+        "like_count": 1,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật",
+          "Đúng với mô tả"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m2pdmjacd5fecf",
+            "cover_image_id": "vn-11134103-7ras8-m2pdmjacd5fecf"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 19061323851,
+        "ctime": 1731739481,
+        "rating": 1,
+        "userid": 1176930504,
+        "shopid": 88201679,
+        "comment": "Đúng với mô tả:Đúng mô tả, chính hãng nguyên seal\nChất lượng sản phẩm:tốt\n\nCảm ơn shop, hài lòng và sẽ ủng hộ lâu dài, ko móp đầu hộp thì thật tuyệt với",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732292443,
+        "editable": 1,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1731739481,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "biencuong_93",
+        "author_portrait": "",
+        "author_shopid": 1176588490,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m2ni02aacwli92"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6khwf-m2ni0c9brhty6c",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2ni0c9bsweee9",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.default.mp4",
+            "duration": 4459,
+            "mms_ext": "{\"vid\":\"vn-11110103-6khwf-m2ni0c9brhty6c\",\"biz\":103,\"duration\":4459,\"create_time\":1731739335,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2ni0c9bsweee9\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.default.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":293783,\"size\":204813,\"fps\":25,\"duration\":4458,\"update_time\":1731739352}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":293783,\"size\":204813,\"fps\":25,\"duration\":4458,\"update_time\":1731739352},\"extend_formats\":{\"H265\":[{\"format\":1600020,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.16000201732352113.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.16000201732352113.mp4\",\"width\":360,\"height\":640,\"bitrate\":231650,\"size\":190424,\"fps\":25,\"duration\":4458,\"update_time\":1732352115}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7reod-m2qb0ov2y9l2d6",
+            "highlight": {
+              "id": "vn-11110103-6khwf-m2ni0c9brhty6c",
+              "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2ni0c9bsweee9",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.default.mp4",
+              "duration": 4459,
+              "mms_ext": "{\"vid\":\"vn-11110103-6khwf-m2ni0c9brhty6c\",\"biz\":103,\"duration\":4459,\"create_time\":1731739335,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7ras8-m2ni0c9bsweee9\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.default.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":293783,\"size\":204813,\"fps\":25,\"duration\":4458,\"update_time\":1731739352}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":293783,\"size\":204813,\"fps\":25,\"duration\":4458,\"update_time\":1731739352},\"extend_formats\":{\"H265\":[{\"format\":1600020,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.16000201732352113.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwf-m2ni0c9brhty6c.16000201732352113.mp4\",\"width\":360,\"height\":640,\"bitrate\":231650,\"size\":190424,\"fps\":25,\"duration\":4458,\"update_time\":1732352115}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7reod-m2qb0ov2y9l2d6"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 13840264971,
+            "modelid": 98998164586,
+            "model_name": "Titan - Sa Mạc",
+            "options": [
+              "Titan - Sa Mạc"
+            ]
+          }
+        ],
+        "editable_date": 1734331481,
+        "like_count": 1,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Đúng với mô tả",
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m2ni02aacwli92",
+            "cover_image_id": "vn-11134103-7ras8-m2ni02aacwli92"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 19186489167,
+        "ctime": 1731864479,
+        "rating": 1,
+        "userid": 236277009,
+        "shopid": 88201679,
+        "comment": "Chất lượng sản phẩm:Tốt, chính hãng\nĐúng với mô tả:Đúng mô tả\n\nĐã nhận hàng còn nguyên seal, hàng chuẩn Apple VN chưa kích hoạt, chất lượng tốt. Tuy nhiên không nghĩ Apple store VN đóng gói 1 món hàng 35 triệu VNĐ sơ sài như vậy (quấn nilon qua loa, gói 1 lượt chống sốc, hộp giấy carton loại phổ thông rẻ tiền, chỉ dán đúng 1 lượt băng dính trắng shoppe và 2 tem niêm phong 2 cạnh, mặt sau và các góc dễ dàng bị khui (nếu một ai đó trong quy trình nhận - giao hàng có ý đồ xấu). Vậy nên không có gì bất ngờ nếu có các vụ bị mất / tráo ruột trong quá trình giao. Có lẽ store cần phải cải thiện nhiều về mức độ chuyên nghiệp (store có thể tham khảo các Apple quốc tế khác để biết).\nShipper tận tình và chuyên nghiệp.",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732354277,
+        "editable": 1,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 1731864479,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "d*****9",
+        "author_portrait": "",
+        "author_shopid": 236271890,
+        "anonymous": true,
+        "images": [
+          "vn-11134103-7ras8-m2pkd1nsiqwq5f",
+          "vn-11134103-7ras8-m2pkd1nsk5h6f0",
+          "vn-11134103-7ras8-m2pkd1nslk1m10",
+          "vn-11134103-7ras8-m2pkd1nsmym299",
+          "vn-11134103-7ras8-m2pkd1nsod6i20"
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 5686514473,
+            "modelid": 98998164586,
+            "model_name": "Titan - Sa Mạc",
+            "options": [
+              "Titan - Sa Mạc"
+            ]
+          }
+        ],
+        "editable_date": 1734456479,
+        "like_count": 2,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 4,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật",
+          "Đúng với mô tả"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m2pkd1nsiqwq5f",
+            "cover_image_id": "vn-11134103-7ras8-m2pkd1nsiqwq5f"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m2pkd1nsk5h6f0",
+            "cover_image_id": "vn-11134103-7ras8-m2pkd1nsk5h6f0"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m2pkd1nslk1m10",
+            "cover_image_id": "vn-11134103-7ras8-m2pkd1nslk1m10"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m2pkd1nsmym299",
+            "cover_image_id": "vn-11134103-7ras8-m2pkd1nsmym299"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m2pkd1nsod6i20",
+            "cover_image_id": "vn-11134103-7ras8-m2pkd1nsod6i20"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 17509372364,
+        "ctime": 1729988470,
+        "rating": 1,
+        "userid": 274720292,
+        "shopid": 88201679,
+        "comment": "Chất lượng sản phẩm:ok\nĐúng với mô tả:ok\nTính năng nổi bật:ok\n\nSống chỉ sợ trời Phật không thương, chứ sợ gì người thường không quý.",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732292449,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1729988470,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "l*****0",
+        "author_portrait": "39f70444bde3a4b6c00c63707cd1e6d1",
+        "author_shopid": 274715551,
+        "anonymous": true,
+        "images": [
+          "vn-11134103-7ras8-m1ukpqnlcwgj57"
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 42776972539,
+            "modelid": 98998164586,
+            "model_name": "Titan - Sa Mạc",
+            "options": [
+              "Titan - Sa Mạc"
+            ]
+          }
+        ],
+        "editable_date": 1732580470,
+        "like_count": 2,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Đúng với mô tả",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m1ukpqnlcwgj57",
+            "cover_image_id": "vn-11134103-7ras8-m1ukpqnlcwgj57"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 19626936206,
+        "ctime": 1732508240,
+        "rating": 1,
+        "userid": 83700973,
+        "shopid": 88201679,
+        "comment": "Đúng với mô tả:dung\nTính năng nổi bật:tot\nChất lượng sản phẩm:tot\n\nShop giao nhanh 4 ngày nhận được bọc đẹp hộp không móp méo đơn hàng giá trị tình trạng nhận tốt. Máy sịn. Nên mua nhé. Ủng hộ dài",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1733015630,
+        "editable": 1,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1732508240,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "l*****a",
+        "author_portrait": "67d0191b526795f73242c611b353a4dc",
+        "author_shopid": 83699496,
+        "anonymous": true,
+        "images": [
+          "vn-11134103-7ras8-m3078v3ge7e823",
+          "vn-11134103-7ras8-m3078v3gtnn4b7"
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 24842695439,
+            "modelid": 98998164586,
+            "model_name": "Titan - Sa Mạc",
+            "options": [
+              "Titan - Sa Mạc"
+            ]
+          }
+        ],
+        "editable_date": 1735100240,
+        "like_count": 0,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Đúng với mô tả",
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m3078v3ge7e823",
+            "cover_image_id": "vn-11134103-7ras8-m3078v3ge7e823"
+          },
+          {
+            "image_id": "vn-11134103-7ras8-m3078v3gtnn4b7",
+            "cover_image_id": "vn-11134103-7ras8-m3078v3gtnn4b7"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      },
+      {
+        "orderid": 0,
+        "itemid": 29560903606,
+        "cmtid": 17045976074,
+        "ctime": 1728547666,
+        "rating": 1,
+        "userid": 26131463,
+        "shopid": 88201679,
+        "comment": "Áo chất liệu mềm, mát, vừa vặn, mặc phù hợp mùa thu, màu sắc tưoi sáng dễ mặc, sáng da. Mua được giá tốt, recommend mọi người mua ạ",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732292455,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1728547666,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "huyenmn1312",
+        "author_portrait": "",
+        "author_shopid": 26130127,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7ras8-m16rwpsntjsqd3"
+        ],
+        "product_items": [
+          {
+            "itemid": 29560903606,
+            "shopid": 88201679,
+            "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+            "image": "sg-11134301-7rdvs-m01bhb1twkvn33",
+            "is_snapshot": 1,
+            "snapshotid": 39751914178,
+            "modelid": 98998164587,
+            "model_name": "Titan - Tự Nhiên",
+            "options": [
+              "Titan - Tự Nhiên"
+            ]
+          }
+        ],
+        "editable_date": 1731139666,
+        "like_count": 3,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7ras8-m16rwpsntjsqd3",
+            "cover_image_id": "vn-11134103-7ras8-m16rwpsntjsqd3"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 29560903606,
+          "shopid": 88201679,
+          "name": "Điện thoại Apple iPhone 16 Pro Max 256GB",
+          "image": "sg-11134301-7rdvs-m01bhb1twkvn33"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_29560903606"
+      }
+    ],
+    "item_rating_summary": {
+      "rating_total": 1094,
+      "rating_count": [
+        11,
+        1,
+        5,
+        15,
+        1062
+      ],
+      "rcount_with_context": 414,
+      "rcount_with_image": 287,
+      "rcount_with_media": 303,
+      "rcount_local_review": 1094,
+      "rcount_repeat_purchase": 0,
+      "rcount_overall_fit_small": 0,
+      "rcount_overall_fit_fit": 0,
+      "rcount_overall_fit_large": 0,
+      "rcount_oversea_review": 0,
+      "rcount_folded": 0,
+      "show_size_fitting": false
+    },
+    "is_sip_item": false,
+    "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_default,QUEUE:comment_search_default,NEWABTEST:0,QUEUES:comment_search_default",
+    "downgrade_switch": false,
+    "has_more": true,
+    "show_local_review": false,
+    "browsing_ui": "",
+    "enable_buyer_gallery_media": true,
+    "size_info_abt": "",
+    "resize_image_abt": false,
+    "purchase_bar_abt": "bucket_a",
+    "signature": "",
+    "original_review_summary": {},
+    "fe_review_summary": {}
+  },
+  "error": 0,
+  "id": "29560903606"
+}

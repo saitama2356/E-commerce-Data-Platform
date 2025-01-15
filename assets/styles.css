@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.header {
+    padding: 20px;
+    background-color: #1f77b4;
+    color: white;
+}
+
+.header-title {
+    margin: 0;
+    font-size: 24px;
+}
+
+.header-description {
+    margin: 0;
+    font-size: 14px;
+}
+
+.menu {
+    padding: 10px 20px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #ccc;
+}
+
+.dropdown {
+    width: 300px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card-metric {
+    font-size: 24px;
+    margin: 0;
+}
+
+.charts {
+    padding: 20px;
+}

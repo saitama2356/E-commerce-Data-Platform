@@ -1,0 +1,192 @@
+{
+    "url": "https://www.lazada.vn/products/smart-tivi-samsung-4k-crystal-uhd-du8000-ua65du8000kxxv2024-65-inch-hang-chinh-hang-phan-phoi-boi-lazada-mien-phi-van-chuyen-toan-quoc-i2730432618-s13356645432.html",
+    "status": "SUCCESS",
+    "responseBody": {
+        "itemId": 2730432618,
+        "title": "[DUY NHẤT 26-28.11] Smart Tivi Samsung 4K Crystal UHD DU8000 UA65DU8000KXXV(2024)- 65 inch- Hàng Chính Hãng - Phân Phối Bởi Lazada - MIỄN PHÍ VẬN CHUYỂN TOÀN QUỐC",
+        "description": "<article class=\"lzd-article\" style=\"white-space:break-spaces\"><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span style=\"font-weight:bold;color:red\">Loại sản phẩm</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>LED</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span> </span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span style=\"font-weight:bold;color:red\">Hiển Thị</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Kích thước màn hình 43\", 50”, 55”, 65” </span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Refresh Rate 50Hz</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Độ phân giải 4K (3,840 x 2,160)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span></span></p></article>",
+        "mainImageUrl": "https://vn-test-11.slatic.net/p/92e7905571bb7ef5e165bbd13b7ff32e.png",
+        "medias": [
+            {
+                "url": "https://vn-test-11.slatic.net/p/92e7905571bb7ef5e165bbd13b7ff32e.png",
+                "posterUrl": "https://vn-test-11.slatic.net/p/92e7905571bb7ef5e165bbd13b7ff32e.png",
+                "type": "img"
+            },
+            {
+                "url": "https://vn-test-11.slatic.net/p/a34e40768de687f228d27c4f3e446355.png",
+                "posterUrl": "https://vn-test-11.slatic.net/p/a34e40768de687f228d27c4f3e446355.png",
+                "type": "img"
+            },
+            {
+                "url": "https://vn-test-11.slatic.net/p/4d797918274141e0477b98012479bcc3.jpg",
+                "posterUrl": "https://vn-test-11.slatic.net/p/4d797918274141e0477b98012479bcc3.jpg",
+                "type": "img"
+            }
+        ],
+        "defaultSkuId": 13356645432,
+        "categoryId": 4549,
+        "skus": [
+            {
+                "skuId": 13356645432,
+                "itemId": 2730432618,
+                "categoryId": 4549,
+                "supplierId": 100101649,
+                "imageUrl": "https://vn-test-11.slatic.net/p/92e7905571bb7ef5e165bbd13b7ff32e.png",
+                "medias": [
+                    {
+                        "url": "https://vn-test-11.slatic.net/p/92e7905571bb7ef5e165bbd13b7ff32e.png",
+                        "posterUrl": "https://vn-test-11.slatic.net/p/92e7905571bb7ef5e165bbd13b7ff32e.png",
+                        "type": "img"
+                    },
+                    {
+                        "url": "https://vn-test-11.slatic.net/p/a34e40768de687f228d27c4f3e446355.png",
+                        "posterUrl": "https://vn-test-11.slatic.net/p/a34e40768de687f228d27c4f3e446355.png",
+                        "type": "img"
+                    },
+                    {
+                        "url": "https://vn-test-11.slatic.net/p/4d797918274141e0477b98012479bcc3.jpg",
+                        "posterUrl": "https://vn-test-11.slatic.net/p/4d797918274141e0477b98012479bcc3.jpg",
+                        "type": "img"
+                    }
+                ],
+                "fields": [],
+                "specifications": {
+                    "Brand": "Samsung",
+                    "SKU": "2730432618_VNAMZ-13356645432",
+                    "TV Features": "UHD,4K,Crystal color,Air slim,HDR",
+                    "Screen Size (Inches)": "65",
+                    "Smart TV OS": "Tizen OS",
+                    "Ports Input": "lan",
+                    "TV Resolution": "3,840 x 2,160",
+                    "Model": "UA65DU8000KXXV",
+                    "Display Type": "LED",
+                    "Warranty Type": "Electronic Warranty",
+                    "Delivery_Option_Instant": "Yes"
+                },
+                "stock": 1,
+                "minPurchaseQuantity": 1,
+                "maxPurchaseQuantity": 1,
+                "salePrice": 13290000,
+                "originalPrice": 19900000,
+                "discountRate": -0.33
+            }
+        ],
+        "fieldDefinitions": [],
+        "sellerId": 100101649,
+        "subSellerId": 200397616560,
+        "sellerShopId": 3540420,
+        "sellerName": "Samsung TV Flagship Store",
+        "sellerSlug": "samsung-tv-flagship-store/",
+        "sellerIsNew": false,
+        "sellerLiveDuration": 1,
+        "sellerLiveDurationUnit": "year",
+        "sellerImResponseRate": 1,
+        "sellerShipOnTimeRate": 1,
+        "brandId": 127167201,
+        "brandSlug": "lazada6704001704_samsung-127167201",
+        "brandName": "Samsung",
+        "reviewCount": 127,
+        "ratingCount": 127,
+        "ratingAverage": 4.9,
+        "ratingCountByScore": {
+            "1": 2,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 125
+        },
+        "reviews": [
+            {
+                "reviewRateId": 434310094932618,
+                "itemId": 2730432618,
+                "reviewedAt": "2024-10-30T02:10:36.025Z",
+                "rating": 5,
+                "isPurchased": true,
+                "skuFields": [],
+                "isHelpful": true,
+                "likeCount": 1,
+                "reviewerName": "T***.",
+                "reviewContent": "Màu sắc sống động với Dynamic Crystal Color, Thiết kế AirSlim gọn nhẹ và thanh mảnh,",
+                "images": [
+                    {
+                        "url": "https://lzd-u.slatic.net/9c0a9a4bc5a24c36b14cfaed4a862a42_80d9db88554b444da8d08fec6d58d9f9.jpg",
+                        "isLegal": true,
+                        "isApproved": true
+                    }
+                ]
+            },
+            {
+                "reviewRateId": 433199184832618,
+                "itemId": 2730432618,
+                "reviewedAt": "2024-10-13T17:00:00.000Z",
+                "rating": 5,
+                "isPurchased": true,
+                "skuFields": [],
+                "isHelpful": true,
+                "likeCount": 1,
+                "reviewerName": "Trà M.",
+                "reviewerAvatarUrl": "https://graph.facebook.com/242860127377247/picture",
+                "reviewContent": "Chất lượng hình ảnh:Dịch vụ khách hàng xuất sắc, Màu sắc sống động với Dynamic Crystal Color,",
+                "images": [
+                    {
+                        "url": "https://lzd-u.slatic.net/3c4fcc94253e4f51b7b9886c7ea2fa7b_0ff0fb4e8d1b45dc848e319bd309aba1.jpg",
+                        "isLegal": true,
+                        "isApproved": true
+                    }
+                ]
+            },
+            {
+                "reviewRateId": 433195908832618,
+                "itemId": 2730432618,
+                "reviewedAt": "2024-10-13T17:00:00.000Z",
+                "rating": 5,
+                "isPurchased": true,
+                "skuFields": [],
+                "isHelpful": true,
+                "likeCount": 3,
+                "reviewerName": "N***.",
+                "reviewContent": "Giao hàng nhanh chóng và đáng tin cậy, Giao hàng nhanh chóng và đáng tin cậy,",
+                "images": [
+                    {
+                        "url": "https://lzd-u.slatic.net/d24a91738e92411fa3478901c36021c6_2_1728919698.743612.jpg",
+                        "isLegal": true,
+                        "isApproved": true
+                    }
+                ]
+            },
+            {
+                "reviewRateId": 433201961232618,
+                "itemId": 2730432618,
+                "reviewedAt": "2024-10-13T17:00:00.000Z",
+                "rating": 5,
+                "isPurchased": true,
+                "skuFields": [],
+                "isHelpful": true,
+                "likeCount": 1,
+                "reviewerName": "Trang P.",
+                "reviewContent": "Công nghệ HDR cho hình ảnh nâng cao, Dịch vụ khách hàng xuất sắc,",
+                "images": [
+                    {
+                        "url": "https://lzd-u.slatic.net/dda69c0ac32441c280fac4f5b3ea5dbc_a0f1ae4c37f64918a00ca7c47e602fef.jpg",
+                        "isLegal": true,
+                        "isApproved": true
+                    }
+                ]
+            },
+            {
+                "reviewRateId": 435614048632618,
+                "itemId": 2730432618,
+                "reviewedAt": "2024-11-20T02:10:36.027Z",
+                "rating": 5,
+                "isPurchased": true,
+                "skuFields": [],
+                "isHelpful": true,
+                "likeCount": 0,
+                "reviewerName": "*******192",
+                "reviewContent": "Mua 11.11 giá 11.116, quá to lắp đặt 1 người rất khó khăn. Cuối cùng cũng xong. Dịch vụ khách hàng xuất sắc, Chất lượng hình ảnh 4K sống động, Sản phẩm chính hãng từ thương hiệu đáng tin cậy, Công nghệ HDR cho hình ảnh nâng cao, Chất lượng hình ảnh 4K sống động,",
+                "images": []
+            }
+        ]
+    },
+    "scraped_timestamp": "2024-11-27T09:10:35.371672"
+}

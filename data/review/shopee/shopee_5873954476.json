@@ -1,0 +1,1666 @@
+{
+  "error": 0,
+  "data": {
+    "ratings": [
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 7920177064,
+        "ctime": 1648734353,
+        "rating": 1,
+        "userid": 138501258,
+        "shopid": 88201679,
+        "comment": "Máy mỏng nhẹ, lướt nhanh. Shop đóng gói kỹ, đặt 12h thứ 6 mà 9h sáng thứ 7 đã nhận được, xuất sắc shop ơi.",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732882475,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 0,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "l*****g",
+        "author_portrait": "",
+        "author_shopid": 138499434,
+        "anonymous": true,
+        "images": [
+          "c79119a2cb2a66b4961228ba8afbd9a7",
+          "fc27b64e41a501f58fad001ca2a1ee86",
+          "09df6d774f0cee0eeedad47aa40c9618"
+        ],
+        "videos": [
+          {
+            "id": "vn_be98b7dd-e461-4e81-856b-821576615ac6_000135",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-22120-nujpozno46kv8c",
+            "url": "https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoyTvcA6KjdgP8hNAENAEc.mp4",
+            "duration": 4750,
+            "mms_ext": "{\"vid\":\"vn_be98b7dd-e461-4e81-856b-821576615ac6_000135\",\"biz\":103,\"duration\":4750,\"create_time\":1648734197,\"serviceID\":2,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-22120-nujpozno46kv8c\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/103/AnoyTvcA6KjdgP8hNAENAEc.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoyTvcA6KjdgP8hNAENAEc.mp4\",\"width\":640,\"height\":1136,\"bitrate\":771117,\"size\":491277,\"fps\":24,\"duration\":4750,\"update_time\":1648734202}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.default.mp4\",\"width\":540,\"height\":958,\"bitrate\":366716,\"size\":258631,\"fps\":25,\"duration\":4690,\"update_time\":1728638716},\"extend_formats\":{\"H265\":[{\"format\":1600304,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003041676098441.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003041676098441.mp4\",\"width\":480,\"height\":852,\"bitrate\":270384,\"size\":222832,\"fps\":25.21367,\"duration\":4679,\"update_time\":1676098445},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003071728638715.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003071728638715.mp4\",\"width\":540,\"height\":958,\"bitrate\":246770,\"size\":209970,\"fps\":25,\"duration\":4690,\"update_time\":1728638719},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003081676098442.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003081676098442.mp4\",\"width\":640,\"height\":1136,\"bitrate\":469452,\"size\":356468,\"fps\":25.21367,\"duration\":4679,\"update_time\":1676098448}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7qvcr-lg2uokt5pbo678",
+            "highlight": {
+              "id": "vn_be98b7dd-e461-4e81-856b-821576615ac6_000135",
+              "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-22120-nujpozno46kv8c",
+              "url": "https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoyTvcA6KjdgP8hNAENAEc.mp4",
+              "duration": 4750,
+              "mms_ext": "{\"vid\":\"vn_be98b7dd-e461-4e81-856b-821576615ac6_000135\",\"biz\":103,\"duration\":4750,\"create_time\":1648734197,\"serviceID\":2,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-22120-nujpozno46kv8c\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/103/AnoyTvcA6KjdgP8hNAENAEc.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoyTvcA6KjdgP8hNAENAEc.mp4\",\"width\":640,\"height\":1136,\"bitrate\":771117,\"size\":491277,\"fps\":24,\"duration\":4750,\"update_time\":1648734202}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.default.mp4\",\"width\":540,\"height\":958,\"bitrate\":366716,\"size\":258631,\"fps\":25,\"duration\":4690,\"update_time\":1728638716},\"extend_formats\":{\"H265\":[{\"format\":1600304,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003041676098441.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003041676098441.mp4\",\"width\":480,\"height\":852,\"bitrate\":270384,\"size\":222832,\"fps\":25.21367,\"duration\":4679,\"update_time\":1676098445},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003071728638715.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003071728638715.mp4\",\"width\":540,\"height\":958,\"bitrate\":246770,\"size\":209970,\"fps\":25,\"duration\":4690,\"update_time\":1728638719},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003081676098442.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_be98b7dd-e461-4e81-856b-821576615ac6_000135.16003081676098442.mp4\",\"width\":640,\"height\":1136,\"bitrate\":469452,\"size\":356468,\"fps\":25.21367,\"duration\":4679,\"update_time\":1676098448}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7qvcr-lg2uokt5pbo678"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 3392036779,
+            "modelid": 23809957300,
+            "model_name": "Space Gray",
+            "options": [
+              "Space Gray"
+            ]
+          }
+        ],
+        "editable_date": 1663492281,
+        "like_count": 401,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "c79119a2cb2a66b4961228ba8afbd9a7",
+            "cover_image_id": "c79119a2cb2a66b4961228ba8afbd9a7"
+          },
+          {
+            "image_id": "fc27b64e41a501f58fad001ca2a1ee86",
+            "cover_image_id": "fc27b64e41a501f58fad001ca2a1ee86"
+          },
+          {
+            "image_id": "09df6d774f0cee0eeedad47aa40c9618",
+            "cover_image_id": "09df6d774f0cee0eeedad47aa40c9618"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 8458167965,
+        "ctime": 1653318462,
+        "rating": 1,
+        "userid": 59982017,
+        "shopid": 88201679,
+        "comment": "Đã nhận máy được một tuần nên hôm nay mới quay lại đánh giá. Vì lần đầu mua đơn hàng giá trị lớn trên sàn thương mại điện tử nên cũng hơi lo lắng, cũng may là chất lượng máy cho tới giờ vẫn ok. Bảo hành điện tử gửi vào email mình chỉ sau vài tiếng nhận hàng. Rất hài lòng 5 sao cho dịch vụ của shop",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732863955,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 0,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "minanguyen65",
+        "author_portrait": "413722b4d22e5e42f72957e96781e552",
+        "author_shopid": 59980583,
+        "anonymous": false,
+        "images": [
+          "cd4c46beaa7f34c652eea831ea10c5d4",
+          "b951df2c3815b27d92967ad2b04a10d9"
+        ],
+        "videos": [
+          {
+            "id": "vn_e9f09da8-b3d2-4393-9162-6563325d0414_000152",
+            "cover": "https://down-tx-sg.vod.susercontent.com/c3/98934353/103/Anoyd9AAaNLIxQMhAAILAEc.jpg",
+            "url": "https://down-tx-sg.vod.susercontent.com/c3/98934353/103/Anoy9jIADEHJxQMhDAIJAEc.mp4",
+            "duration": 11640,
+            "mms_ext": "{\"vid\":\"vn_e9f09da8-b3d2-4393-9162-6563325d0414_000152\",\"biz\":103,\"duration\":11640,\"create_time\":1653318238,\"serviceID\":6,\"cover\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/103/Anoyd9AAaNLIxQMhAAILAEc.jpg\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/103/Anoy9jIADEHJxQMhDAIJAEc.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/103/Anoy9jIADEHJxQMhDAIJAEc.mp4\",\"width\":640,\"height\":360,\"bitrate\":329151,\"size\":555679,\"fps\":25.08591,\"duration\":11640,\"update_time\":1653318242}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_e9f09da8-b3d2-4393-9162-6563325d0414_000152.default.mp4\",\"width\":640,\"height\":360,\"bitrate\":306819,\"size\":528363,\"fps\":25,\"duration\":11640,\"update_time\":1728909361},\"extend_formats\":{\"H265\":[{\"format\":1600304,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_e9f09da8-b3d2-4393-9162-6563325d0414_000152.16003041681496438.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_e9f09da8-b3d2-4393-9162-6563325d0414_000152.16003041681496438.mp4\",\"width\":640,\"height\":360,\"bitrate\":312170,\"size\":607951,\"fps\":25.08591,\"duration\":11640,\"update_time\":1681496446},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_e9f09da8-b3d2-4393-9162-6563325d0414_000152.16003081683572907.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_e9f09da8-b3d2-4393-9162-6563325d0414_000152.16003081683572907.mp4\",\"width\":640,\"height\":360,\"bitrate\":312496,\"size\":653062,\"fps\":25.08591,\"duration\":11640,\"update_time\":1683572914}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7qvdn-lg3b3vfhb9oge5",
+            "highlight": {
+              "id": "sg-11110160-6ke14-lkxpc7wfdiy979",
+              "cover": "https://down-tx-sg.vod.susercontent.com/c3/98934353/160/A3oyOdP0AGibz9koEdYKACc.jpg",
+              "url": "https://down-tx-sg.vod.susercontent.com/c3/98934353/160/A3oyOfABAJSaz9koEdcEACc.mp4",
+              "duration": 3000,
+              "mms_ext": "{\"vid\":\"sg-11110160-6ke14-lkxpc7wfdiy979\",\"biz\":103,\"duration\":3000,\"create_time\":1693101871,\"serviceID\":6,\"cover\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/160/A3oyOdP0AGibz9koEdYKACc.jpg\",\"cover_list\":null,\"formats\":[],\"default_format\":{\"format\":600001,\"defn\":\"ORI\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/160/A3oyOfABAJSaz9koEdcEACc.mp4\",\"width\":250,\"height\":250,\"bitrate\":217352,\"size\":83242,\"fps\":25,\"duration\":3000,\"update_time\":1693101872},\"extend_formats\":{\"H265\":[{\"format\":1600305,\"defn\":\"V270P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110160/mms/sg-11110160-6ke14-lkxpc7wfdiy979.16003051693130681.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110160/mms/sg-11110160-6ke14-lkxpc7wfdiy979.16003051693130681.mp4\",\"width\":250,\"height\":250,\"bitrate\":110116,\"size\":45068,\"fps\":25.33784,\"duration\":2960,\"update_time\":1693101874}]},\"ab_test\":\"\"}",
+              "cover_image_id": ""
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 3528339476,
+            "modelid": 23809957299,
+            "model_name": "Silver",
+            "options": [
+              "Silver"
+            ]
+          }
+        ],
+        "editable_date": 1666198005,
+        "like_count": 132,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "cd4c46beaa7f34c652eea831ea10c5d4",
+            "cover_image_id": "cd4c46beaa7f34c652eea831ea10c5d4"
+          },
+          {
+            "image_id": "b951df2c3815b27d92967ad2b04a10d9",
+            "cover_image_id": "b951df2c3815b27d92967ad2b04a10d9"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 8262317938,
+        "ctime": 1651555105,
+        "rating": 1,
+        "userid": 35257010,
+        "shopid": 88201679,
+        "comment": "Macbook màu Hồng đẹp tuyệt! Nguyên khối, nhẹ nhàng khi phải di chuyển, màu sắc đỉnh cao. Sử dụng thấy sang hẳn một bậc. 😂",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1715161961,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 0,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "xuanphuong225",
+        "author_portrait": "vn-11134233-7r98o-lxva5mqd7suxa3",
+        "author_shopid": 35255626,
+        "anonymous": false,
+        "images": [
+          "9a1c53062d7c38fa049e9ab37ef2285e",
+          "e3596c62c851191cb61127ed6e01bb1a",
+          "b821111ee5f29c4ec4c2c7f6997d15f5",
+          "aa05ebbc149606c4c3afbabd5b4888ad",
+          "bcf403c6f51e2e09c2d1ee770068cfef"
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 3484031081,
+            "modelid": 23809957298,
+            "model_name": "Gold",
+            "options": [
+              "Gold"
+            ]
+          }
+        ],
+        "editable_date": 1667463377,
+        "like_count": 88,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "9a1c53062d7c38fa049e9ab37ef2285e",
+            "cover_image_id": "9a1c53062d7c38fa049e9ab37ef2285e"
+          },
+          {
+            "image_id": "e3596c62c851191cb61127ed6e01bb1a",
+            "cover_image_id": "e3596c62c851191cb61127ed6e01bb1a"
+          },
+          {
+            "image_id": "b821111ee5f29c4ec4c2c7f6997d15f5",
+            "cover_image_id": "b821111ee5f29c4ec4c2c7f6997d15f5"
+          },
+          {
+            "image_id": "aa05ebbc149606c4c3afbabd5b4888ad",
+            "cover_image_id": "aa05ebbc149606c4c3afbabd5b4888ad"
+          },
+          {
+            "image_id": "bcf403c6f51e2e09c2d1ee770068cfef",
+            "cover_image_id": "bcf403c6f51e2e09c2d1ee770068cfef"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 5209910808,
+        "ctime": 1624847710,
+        "rating": 1,
+        "userid": 26891978,
+        "shopid": 88201679,
+        "comment": "Hàng chính hãng, chất lượng, canh flash sale vất vả nhưng không được may bù lại có mã giảm giá của shopee. Sản phẩm giao nhanh hơn dự kiến, từ lúc đặt hàng đến khi nhận hàng trong vòng 3 ngày. Đóng gói chắc chắn, chống sốc, chống mưa tốt. Trải nghiệm bữa giờ ok,",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732176448,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 0,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "anhtuan2402",
+        "author_portrait": "483881486d3577d2af31c1e842d2bbc5",
+        "author_shopid": 26890642,
+        "anonymous": false,
+        "images": [
+          "3936b8a71a2e0a6c0066bcf4b3ad7e00",
+          "8ac131ecc2c4202617bbf91b3c9550e5",
+          "9223e423be68b20d9bd996d4b264547a",
+          "0649f92d826668e3ec44bf258b3fb4e5",
+          "ea292cc89a76b9d4cd7e30200f83c4f6"
+        ],
+        "videos": [
+          {
+            "id": "vn_3576a2f8-4b86-430c-9464-fa497e004776_000043",
+            "cover": "https://down-tx-sg.vod.susercontent.com/c4/98934353/10321062810/YzQsMTI5LTE2NTMyLDE0MDkzMzg0Nzg3MTE4ODE3MjgsMw.jpg",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16000051728830737.mp4",
+            "duration": 15541,
+            "mms_ext": "{\"vid\":\"vn_3576a2f8-4b86-430c-9464-fa497e004776_000043\",\"biz\":103,\"duration\":15541,\"create_time\":1624847446,\"serviceID\":2,\"cover\":\"https://down-tx-sg.vod.susercontent.com/c4/98934353/10321062810/YzQsMTI5LTE2NTMyLDE0MDkzMzg0Nzg3MTE4ODE3MjgsMw.jpg\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16000051728830737.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16000051728830737.mp4\",\"width\":640,\"height\":1136,\"bitrate\":790205,\"size\":1726318,\"fps\":25,\"duration\":15487,\"update_time\":1728830749}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.default.mp4\",\"width\":540,\"height\":958,\"bitrate\":506212,\"size\":1236980,\"fps\":25.06477,\"duration\":15487,\"update_time\":1706876074},\"extend_formats\":{\"H265\":[{\"format\":1600304,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003041678263628.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003041678263628.mp4\",\"width\":480,\"height\":852,\"bitrate\":336849,\"size\":853657,\"fps\":25.06477,\"duration\":15442,\"update_time\":1678263650},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003071728830737.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003071728830737.mp4\",\"width\":540,\"height\":958,\"bitrate\":228674,\"size\":645200,\"fps\":25,\"duration\":15487,\"update_time\":1728830749},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003081678263628.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003081678263628.mp4\",\"width\":640,\"height\":1136,\"bitrate\":580554,\"size\":1383790,\"fps\":25.06477,\"duration\":15442,\"update_time\":1678263661}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7qve3-lg3m2snm4hc0b6",
+            "highlight": {
+              "id": "vn_3576a2f8-4b86-430c-9464-fa497e004776_000043",
+              "cover": "https://down-tx-sg.vod.susercontent.com/c4/98934353/10321062810/YzQsMTI5LTE2NTMyLDE0MDkzMzg0Nzg3MTE4ODE3MjgsMw.jpg",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16000051728830737.mp4",
+              "duration": 15541,
+              "mms_ext": "{\"vid\":\"vn_3576a2f8-4b86-430c-9464-fa497e004776_000043\",\"biz\":103,\"duration\":15541,\"create_time\":1624847446,\"serviceID\":2,\"cover\":\"https://down-tx-sg.vod.susercontent.com/c4/98934353/10321062810/YzQsMTI5LTE2NTMyLDE0MDkzMzg0Nzg3MTE4ODE3MjgsMw.jpg\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16000051728830737.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16000051728830737.mp4\",\"width\":640,\"height\":1136,\"bitrate\":790205,\"size\":1726318,\"fps\":25,\"duration\":15487,\"update_time\":1728830749}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.default.mp4\",\"width\":540,\"height\":958,\"bitrate\":506212,\"size\":1236980,\"fps\":25.06477,\"duration\":15487,\"update_time\":1706876074},\"extend_formats\":{\"H265\":[{\"format\":1600304,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003041678263628.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003041678263628.mp4\",\"width\":480,\"height\":852,\"bitrate\":336849,\"size\":853657,\"fps\":25.06477,\"duration\":15442,\"update_time\":1678263650},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003071728830737.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003071728830737.mp4\",\"width\":540,\"height\":958,\"bitrate\":228674,\"size\":645200,\"fps\":25,\"duration\":15487,\"update_time\":1728830749},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003081678263628.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_3576a2f8-4b86-430c-9464-fa497e004776_000043.16003081678263628.mp4\",\"width\":640,\"height\":1136,\"bitrate\":580554,\"size\":1383790,\"fps\":25.06477,\"duration\":15442,\"update_time\":1678263661}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7qve3-lg3m2snm4hc0b6"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 2649836044,
+            "modelid": 23809957300,
+            "model_name": "Space Gray",
+            "options": [
+              "Space Gray"
+            ]
+          }
+        ],
+        "editable_date": 1627439710,
+        "like_count": 103,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "3936b8a71a2e0a6c0066bcf4b3ad7e00",
+            "cover_image_id": "3936b8a71a2e0a6c0066bcf4b3ad7e00"
+          },
+          {
+            "image_id": "8ac131ecc2c4202617bbf91b3c9550e5",
+            "cover_image_id": "8ac131ecc2c4202617bbf91b3c9550e5"
+          },
+          {
+            "image_id": "9223e423be68b20d9bd996d4b264547a",
+            "cover_image_id": "9223e423be68b20d9bd996d4b264547a"
+          },
+          {
+            "image_id": "0649f92d826668e3ec44bf258b3fb4e5",
+            "cover_image_id": "0649f92d826668e3ec44bf258b3fb4e5"
+          },
+          {
+            "image_id": "ea292cc89a76b9d4cd7e30200f83c4f6",
+            "cover_image_id": "ea292cc89a76b9d4cd7e30200f83c4f6"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 8824762936,
+        "ctime": 1656572117,
+        "rating": 1,
+        "userid": 35902707,
+        "shopid": 88201679,
+        "comment": "Chất lượng sản phẩm:Đáng đồng tiền bán gạo\nTính năng nổi bật:máy đẹp, sang, mượt\n\nĐóng gói siêu cẩn thận, giao hàng nhanh. Lần đầu tiên mua đơn hàng lớn như này trên sàn tmđt. Mình rất hài lòng. Nút Delete cũng bị một số lỗi thg gặp như mình tìm hiểu trên mạng",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730550701,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 0,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "chocolate1997",
+        "author_portrait": "beb274095f53e137d88e863409323129",
+        "author_shopid": 35901323,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-22060-5b33trpt2feve1",
+          "vn-11134103-22060-q492dspt2fev10",
+          "vn-11134103-22060-s704zqpt2fev5a"
+        ],
+        "videos": [
+          {
+            "id": "vn_cd4cab3a-4e3e-4016-9749-efd99da69b54_000165",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-22120-wxtojtn7j3kv92",
+            "url": "https://down-tx-sg.vod.susercontent.com/c3/98934353/103/A3oxOPFiAIzfes0GESsHACY.mp4",
+            "duration": 17458,
+            "mms_ext": "{\"vid\":\"vn_cd4cab3a-4e3e-4016-9749-efd99da69b54_000165\",\"biz\":103,\"duration\":17458,\"create_time\":1656571730,\"serviceID\":3,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-22120-wxtojtn7j3kv92\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/103/A3oxOPFiAIzfes0GESsHACY.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/103/A3oxOPFiAIzfes0GESsHACY.mp4\",\"width\":360,\"height\":640,\"bitrate\":876762,\"size\":1939339,\"fps\":25,\"duration\":17520,\"update_time\":1656571738}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_cd4cab3a-4e3e-4016-9749-efd99da69b54_000165.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":314394,\"size\":726696,\"fps\":25,\"duration\":17415,\"update_time\":1728761466},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_cd4cab3a-4e3e-4016-9749-efd99da69b54_000165.16003081683655822.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_cd4cab3a-4e3e-4016-9749-efd99da69b54_000165.16003081683655822.mp4\",\"width\":360,\"height\":640,\"bitrate\":179616,\"size\":436523,\"fps\":25.05747,\"duration\":17399,\"update_time\":1683655833}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7qvd4-lg4sihs8hipxfa",
+            "highlight": {
+              "id": "vn_cd4cab3a-4e3e-4016-9749-efd99da69b54_000165",
+              "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-22120-wxtojtn7j3kv92",
+              "url": "https://down-tx-sg.vod.susercontent.com/c3/98934353/103/A3oxOPFiAIzfes0GESsHACY.mp4",
+              "duration": 17458,
+              "mms_ext": "{\"vid\":\"vn_cd4cab3a-4e3e-4016-9749-efd99da69b54_000165\",\"biz\":103,\"duration\":17458,\"create_time\":1656571730,\"serviceID\":3,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-22120-wxtojtn7j3kv92\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/103/A3oxOPFiAIzfes0GESsHACY.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/103/A3oxOPFiAIzfes0GESsHACY.mp4\",\"width\":360,\"height\":640,\"bitrate\":876762,\"size\":1939339,\"fps\":25,\"duration\":17520,\"update_time\":1656571738}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_cd4cab3a-4e3e-4016-9749-efd99da69b54_000165.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":314394,\"size\":726696,\"fps\":25,\"duration\":17415,\"update_time\":1728761466},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_cd4cab3a-4e3e-4016-9749-efd99da69b54_000165.16003081683655822.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_cd4cab3a-4e3e-4016-9749-efd99da69b54_000165.16003081683655822.mp4\",\"width\":360,\"height\":640,\"bitrate\":179616,\"size\":436523,\"fps\":25.05747,\"duration\":17399,\"update_time\":1683655833}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7qvd4-lg4sihs8hipxfa"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 3577758401,
+            "modelid": 23809957300,
+            "model_name": "Space Gray",
+            "options": [
+              "Space Gray"
+            ]
+          }
+        ],
+        "editable_date": 1664223531,
+        "like_count": 61,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-22060-5b33trpt2feve1",
+            "cover_image_id": "vn-11134103-22060-5b33trpt2feve1"
+          },
+          {
+            "image_id": "vn-11134103-22060-q492dspt2fev10",
+            "cover_image_id": "vn-11134103-22060-q492dspt2fev10"
+          },
+          {
+            "image_id": "vn-11134103-22060-s704zqpt2fev5a",
+            "cover_image_id": "vn-11134103-22060-s704zqpt2fev5a"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 12532722672,
+        "ctime": 1694315961,
+        "rating": 1,
+        "userid": 83892376,
+        "shopid": 88201679,
+        "comment": "Tính năng nổi bật:TỐT\nChất lượng sản phẩm:Tốt\n\nMua lần đầu tiên của shop nhưng khá ưng. Hôm nay đặt mai đã nhận hàng, đóng gói chắc chắn và kĩ ( nhớ quay video trước khi khui hàng ). Tính năng máy tốt, lướt mượt, mình nghe bạn tư vấn dòng này rất bền nên cũng khá yên tâm. Dán chống trầy cho cả con thêm 750k và mua thêm phụ kiện cho máy 300k ( như giá đở, túi bảo về máy, túi đựng dây sạc, và miếng silicon trong suốt cho bàn phím ). \nMàu xám thì khá mạnh mẽ sẽ hợp với nam hơn con gái nhưng cũng okila. Mình săn sale giá hợp lý, cám ơn Shopee và cả Shop nữa. Chúc bạn đắt khách.",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1731596264,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1694315961,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "triss.triss",
+        "author_portrait": "bf909db730c9881b89f053b114eff509",
+        "author_shopid": 83890899,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-llh9xgdn6zee39",
+          "vn-11134103-7r98o-llh9xgdn6z7scd"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6ke16-llha65sgijlife",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-23090-yfx252ygkrvvdf",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-llha65sgijlife.16000051694315887.mp4",
+            "duration": 5765,
+            "mms_ext": "{\"vid\":\"vn-11110103-6ke16-llha65sgijlife\",\"biz\":103,\"duration\":5765,\"create_time\":1694315887,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-23090-yfx252ygkrvvdf\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-llha65sgijlife.16000051694315887.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-llha65sgijlife.16000051694315887.mp4\",\"width\":640,\"height\":1138,\"bitrate\":679980,\"size\":562397,\"fps\":25.17483,\"duration\":5782,\"update_time\":1694315892}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-llha65sgijlife.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":408861,\"size\":368185,\"fps\":25.17483,\"duration\":5782,\"update_time\":1694315907},\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-llha65sgijlife.16003071694550610.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-llha65sgijlife.16003071694550610.mp4\",\"width\":540,\"height\":960,\"bitrate\":382278,\"size\":352186,\"fps\":25.17483,\"duration\":5782,\"update_time\":1694550617},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-llha65sgijlife.16003081694315903.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-llha65sgijlife.16003081694315903.mp4\",\"width\":640,\"height\":1138,\"bitrate\":493132,\"size\":431450,\"fps\":25.17483,\"duration\":5782,\"update_time\":1694315915}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7r9c2-llha8deo06u38c",
+            "highlight": {
+              "id": "sg-11110160-6ke1j-llha8gazriut6a",
+              "cover": "https://down-tx-sg.vod.susercontent.com/c3/98934353/160/A3oyOZWdAJT9Z=QpEYcFACc.jpg",
+              "url": "https://down-tx-sg.vod.susercontent.com/c3/98934353/160/A3oyOSAEACT9Z=QpEYkLACc.mp4",
+              "duration": 3079,
+              "mms_ext": "{\"vid\":\"sg-11110160-6ke1j-llha8gazriut6a\",\"biz\":103,\"duration\":3079,\"create_time\":1694287159,\"serviceID\":6,\"cover\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/160/A3oyOZWdAJT9Z=QpEYcFACc.jpg\",\"cover_list\":null,\"formats\":[],\"default_format\":{\"format\":600001,\"defn\":\"ORI\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/160/A3oyOSAEACT9Z=QpEYkLACc.mp4\",\"width\":250,\"height\":250,\"bitrate\":207262,\"size\":81547,\"fps\":25,\"duration\":3079,\"update_time\":1694287160},\"extend_formats\":{\"H265\":[{\"format\":1600305,\"defn\":\"V270P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110160/mms/sg-11110160-6ke1j-llha8gazriut6a.16003051694315971.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110160/mms/sg-11110160-6ke1j-llha8gazriut6a.16003051694315971.mp4\",\"width\":250,\"height\":250,\"bitrate\":94652,\"size\":40319,\"fps\":25.32895,\"duration\":3039,\"update_time\":1694287162}]},\"ab_test\":\"\"}",
+              "cover_image_id": ""
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 17383843259,
+            "modelid": 23809957300,
+            "model_name": "Space Gray",
+            "options": [
+              "Space Gray"
+            ]
+          }
+        ],
+        "editable_date": 1696907961,
+        "like_count": 34,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Tính năng nổi bật",
+          "Chất lượng sản phẩm"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-llh9xgdn6zee39",
+            "cover_image_id": "vn-11134103-7r98o-llh9xgdn6zee39"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-llh9xgdn6z7scd",
+            "cover_image_id": "vn-11134103-7r98o-llh9xgdn6z7scd"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 13034399947,
+        "ctime": 1698593690,
+        "rating": 1,
+        "userid": 51863499,
+        "shopid": 88201679,
+        "comment": "Chất lượng sản phẩm:chaats luowngj oki\nTính năng nổi bật:làm việc , giải trí\n\nGiao hàng cũng nhanh chóng lắm nhé, chất lượng thì cũng okela nha, nên mua ạ, màu xinh lắm",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1722935012,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1698593690,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "d*****7",
+        "author_portrait": "",
+        "author_shopid": 51862110,
+        "anonymous": true,
+        "images": [
+          "vn-11134103-7r98o-lnfy66job20da5",
+          "vn-11134103-7r98o-lnfy66jo181917"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6ke18-lnfy6atxrgtpfc",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lnfy6cf3g6hs16",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke18-lnfy6atxrgtpfc.16000051698593639.mp4",
+            "duration": 3233,
+            "mms_ext": "{\"vid\":\"vn-11110103-6ke18-lnfy6atxrgtpfc\",\"biz\":103,\"duration\":3233,\"create_time\":1698593638,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lnfy6cf3g6hs16\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke18-lnfy6atxrgtpfc.16000051698593639.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke18-lnfy6atxrgtpfc.16000051698593639.mp4\",\"width\":360,\"height\":640,\"bitrate\":187335,\"size\":118783,\"fps\":25.3125,\"duration\":3227,\"update_time\":1698593640}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke18-lnfy6atxrgtpfc.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":208672,\"size\":137843,\"fps\":25.3125,\"duration\":3243,\"update_time\":1698593651},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke18-lnfy6atxrgtpfc.16003081698696663.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke18-lnfy6atxrgtpfc.16003081698696663.mp4\",\"width\":360,\"height\":640,\"bitrate\":177757,\"size\":128233,\"fps\":25.3125,\"duration\":3227,\"update_time\":1698696664}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7rbms-lnfy7i78ap3efb",
+            "highlight": {
+              "id": "sg-11110160-6khxg-lnfy7kmmqt3bf3",
+              "cover": "https://down-aka-sg.vod.susercontent.com/c3/98934353/160/A3oyOap4AOy2S=AtEQIHACc.jpg",
+              "url": "https://down-aka-sg.vod.susercontent.com/c3/98934353/160/A3oyOad4AGS2S=AtEQIHACc.mp4",
+              "duration": 3079,
+              "mms_ext": "{\"vid\":\"sg-11110160-6khxg-lnfy7kmmqt3bf3\",\"biz\":103,\"duration\":3079,\"create_time\":1698593697,\"serviceID\":6,\"cover\":\"https://down-aka-sg.vod.susercontent.com/c3/98934353/160/A3oyOap4AOy2S=AtEQIHACc.jpg\",\"cover_list\":null,\"formats\":[],\"default_format\":{\"format\":600001,\"defn\":\"ORI\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://down-aka-sg.vod.susercontent.com/c3/98934353/160/A3oyOad4AGS2S=AtEQIHACc.mp4\",\"width\":250,\"height\":250,\"bitrate\":133132,\"size\":53015,\"fps\":25,\"duration\":3079,\"update_time\":1698593697},\"extend_formats\":{\"H265\":[{\"format\":1600305,\"defn\":\"V270P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110160/mms/sg-11110160-6khxg-lnfy7kmmqt3bf3.16003051698593698.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110160/mms/sg-11110160-6khxg-lnfy7kmmqt3bf3.16003051698593698.mp4\",\"width\":250,\"height\":250,\"bitrate\":78986,\"size\":34366,\"fps\":25.32895,\"duration\":3039,\"update_time\":1698593698}]},\"ab_test\":\"\"}",
+              "cover_image_id": ""
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 19479807721,
+            "modelid": 23809957299,
+            "model_name": "Silver",
+            "options": [
+              "Silver"
+            ]
+          }
+        ],
+        "editable_date": 1701185690,
+        "like_count": 28,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-lnfy66job20da5",
+            "cover_image_id": "vn-11134103-7r98o-lnfy66job20da5"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lnfy66jo181917",
+            "cover_image_id": "vn-11134103-7r98o-lnfy66jo181917"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 14555782184,
+        "ctime": 1710697086,
+        "rating": 1,
+        "userid": 339664992,
+        "shopid": 88201679,
+        "comment": "Chất lượng sản phẩm:Tốt\nTính năng nổi bật:Khó dùng\n\nMáy đẹp, sắc nét và tinh tế. Vận chuyển siêu nhanh luôn ạ. Nhìn chung là mua xong về chưa thấy dùng được vào việc gì ngoài xem phim. Thấy màu silver vẫn là đẹp nhất",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1732075383,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1710697086,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "pinutsu20_",
+        "author_portrait": "cd975cfd4dc866f5529072402ed54ee7",
+        "author_shopid": 339645417,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-lszvztmiuxtwf7",
+          "vn-11134103-7r98o-lszvztmjae2s85",
+          "vn-11134103-7r98o-lszvztmiwcecf1"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6ke16-lszw1bi00qzd90",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lszw1dhl4cc4e4",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.16000051710696934.mp4",
+            "duration": 7500,
+            "mms_ext": "{\"vid\":\"vn-11110103-6ke16-lszw1bi00qzd90\",\"biz\":103,\"duration\":7500,\"create_time\":1710696933,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lszw1dhl4cc4e4\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.16000051710696934.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.16000051710696934.mp4\",\"width\":360,\"height\":640,\"bitrate\":154073,\"size\":163411,\"fps\":25.13369,\"duration\":7500,\"update_time\":1710696936}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":188823,\"size\":194979,\"fps\":25.13369,\"duration\":7510,\"update_time\":1710696946},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.16003081710849050.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.16003081710849050.mp4\",\"width\":360,\"height\":640,\"bitrate\":101361,\"size\":116795,\"fps\":25.13369,\"duration\":7500,\"update_time\":1710849054}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7rceh-lszw4ud2deh476",
+            "highlight": {
+              "id": "vn-11110103-6ke16-lszw1bi00qzd90",
+              "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lszw1dhl4cc4e4",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.16000051710696934.mp4",
+              "duration": 7500,
+              "mms_ext": "{\"vid\":\"vn-11110103-6ke16-lszw1bi00qzd90\",\"biz\":103,\"duration\":7500,\"create_time\":1710696933,\"serviceID\":6,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-7r98o-lszw1dhl4cc4e4\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.16000051710696934.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.16000051710696934.mp4\",\"width\":360,\"height\":640,\"bitrate\":154073,\"size\":163411,\"fps\":25.13369,\"duration\":7500,\"update_time\":1710696936}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":188823,\"size\":194979,\"fps\":25.13369,\"duration\":7510,\"update_time\":1710696946},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.16003081710849050.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lszw1bi00qzd90.16003081710849050.mp4\",\"width\":360,\"height\":640,\"bitrate\":101361,\"size\":116795,\"fps\":25.13369,\"duration\":7500,\"update_time\":1710849054}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7rceh-lszw4ud2deh476"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 53555331763,
+            "modelid": 23809957299,
+            "model_name": "Silver",
+            "options": [
+              "Silver"
+            ]
+          }
+        ],
+        "editable_date": 1713289086,
+        "like_count": 29,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5,
+          "driver_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-lszvztmiuxtwf7",
+            "cover_image_id": "vn-11134103-7r98o-lszvztmiuxtwf7"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lszvztmjae2s85",
+            "cover_image_id": "vn-11134103-7r98o-lszvztmjae2s85"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lszvztmiwcecf1",
+            "cover_image_id": "vn-11134103-7r98o-lszvztmiwcecf1"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 7265463716,
+        "ctime": 1642650509,
+        "rating": 1,
+        "userid": 4352285,
+        "shopid": 88201679,
+        "comment": "Mình nhận được rùi sau 4 ngày đợi. Máy xịn, chính hãng, shop gói bọc cẩn thận. Được unbox nguyên kiện thích ghê luôn. Săn sale nên rẻ được chút nên mình hài lòng nha ❤",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730097034,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 0,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "e*****o",
+        "author_portrait": "92ff116f96fdbfd21471b1248e5fb071",
+        "author_shopid": 4350998,
+        "anonymous": true,
+        "images": [
+          "73fab3e66e5bdf42a7fd827335644acb",
+          "a64f6068e03f76d4bff8501586dd7bd5"
+        ],
+        "videos": [
+          {
+            "id": "vn_edb23e67-2849-4911-b907-faf61e0b1403_000113",
+            "cover": "https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoxBgQA3CebsQERQQ8ARw.jpg",
+            "url": "https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoyjdkADBFi1vkhJAERAEY.mp4",
+            "duration": 35319,
+            "mms_ext": "{\"vid\":\"vn_edb23e67-2849-4911-b907-faf61e0b1403_000113\",\"biz\":103,\"duration\":35319,\"create_time\":1642650426,\"serviceID\":1,\"cover\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoxBgQA3CebsQERQQ8ARw.jpg\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/103/AnoyjdkADBFi1vkhJAERAEY.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoyjdkADBFi1vkhJAERAEY.mp4\",\"width\":576,\"height\":1024,\"bitrate\":844596,\"size\":3969010,\"fps\":25,\"duration\":35319,\"update_time\":1642650436}],\"default_format\":{\"format\":600001,\"defn\":\"ORI\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_edb23e67-2849-4911-b907-faf61e0b1403_000113.16006031719928191.mp4\",\"width\":576,\"height\":1024,\"bitrate\":498867,\"size\":2449789,\"fps\":24.02811,\"duration\":35294,\"update_time\":1719928234},\"extend_formats\":{\"H265\":[{\"format\":1600304,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_edb23e67-2849-4911-b907-faf61e0b1403_000113.16003041676026946.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_edb23e67-2849-4911-b907-faf61e0b1403_000113.16003041676026946.mp4\",\"width\":480,\"height\":854,\"bitrate\":388057,\"size\":2171584,\"fps\":25.02831,\"duration\":35319,\"update_time\":1676026986},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_edb23e67-2849-4911-b907-faf61e0b1403_000113.16003081676026946.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_edb23e67-2849-4911-b907-faf61e0b1403_000113.16003081676026946.mp4\",\"width\":576,\"height\":1024,\"bitrate\":570104,\"size\":3098540,\"fps\":25.02831,\"duration\":35319,\"update_time\":1676026999}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7qvdf-lg4ho4jpp34ea5",
+            "highlight": {
+              "id": "vn_edb23e67-2849-4911-b907-faf61e0b1403_000113",
+              "cover": "https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoxBgQA3CebsQERQQ8ARw.jpg",
+              "url": "https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoyjdkADBFi1vkhJAERAEY.mp4",
+              "duration": 35319,
+              "mms_ext": "{\"vid\":\"vn_edb23e67-2849-4911-b907-faf61e0b1403_000113\",\"biz\":103,\"duration\":35319,\"create_time\":1642650426,\"serviceID\":1,\"cover\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoxBgQA3CebsQERQQ8ARw.jpg\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/103/AnoyjdkADBFi1vkhJAERAEY.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/103/AnoyjdkADBFi1vkhJAERAEY.mp4\",\"width\":576,\"height\":1024,\"bitrate\":844596,\"size\":3969010,\"fps\":25,\"duration\":35319,\"update_time\":1642650436}],\"default_format\":{\"format\":600001,\"defn\":\"ORI\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_edb23e67-2849-4911-b907-faf61e0b1403_000113.16006031719928191.mp4\",\"width\":576,\"height\":1024,\"bitrate\":498867,\"size\":2449789,\"fps\":24.02811,\"duration\":35294,\"update_time\":1719928234},\"extend_formats\":{\"H265\":[{\"format\":1600304,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_edb23e67-2849-4911-b907-faf61e0b1403_000113.16003041676026946.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_edb23e67-2849-4911-b907-faf61e0b1403_000113.16003041676026946.mp4\",\"width\":480,\"height\":854,\"bitrate\":388057,\"size\":2171584,\"fps\":25.02831,\"duration\":35319,\"update_time\":1676026986},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_edb23e67-2849-4911-b907-faf61e0b1403_000113.16003081676026946.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_edb23e67-2849-4911-b907-faf61e0b1403_000113.16003081676026946.mp4\",\"width\":576,\"height\":1024,\"bitrate\":570104,\"size\":3098540,\"fps\":25.02831,\"duration\":35319,\"update_time\":1676026999}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7qvdf-lg4ho4jpp34ea5"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "[Mã ELAP1TR giảm 5% đơn 3 TRIỆU] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 3242165604,
+            "modelid": 23809957300,
+            "model_name": "Space Gray",
+            "options": [
+              "Space Gray"
+            ]
+          }
+        ],
+        "editable_date": 1645242509,
+        "like_count": 40,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "73fab3e66e5bdf42a7fd827335644acb",
+            "cover_image_id": "73fab3e66e5bdf42a7fd827335644acb"
+          },
+          {
+            "image_id": "a64f6068e03f76d4bff8501586dd7bd5",
+            "cover_image_id": "a64f6068e03f76d4bff8501586dd7bd5"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 13245671552,
+        "ctime": 1700223298,
+        "rating": 1,
+        "userid": 119863082,
+        "shopid": 88201679,
+        "comment": "Đây là lần thứ 2 mình mua của shop hàng có giá trị cao như thế này, rất ưng từ khâu đóng gói đên khâu giao nhận hàng. Mấy còn nguyên đai nguyên kiện, chất lượng cuar máy mình đang test, tesst xong sẽ quay lại đánh giá thêm",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1731889978,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 1700223298,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "manh6792",
+        "author_portrait": "vn-11134233-7ras8-m1m3cucp9fmb4e",
+        "author_shopid": 119861258,
+        "anonymous": false,
+        "images": [
+          "vn-11134103-7r98o-lo6v7rnptnnb80",
+          "vn-11134103-7r98o-lo6v7rnovy0n17",
+          "vn-11134103-7r98o-lo6v7rnpe7ef34",
+          "vn-11134103-7r98o-lo6v7rno3uyz4f",
+          "vn-11134103-7r98o-lo6v7rnojawn4c"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6ke16-lo6v82qxvkdz28",
+            "cover": "https://down-bs-sg.img.susercontent.com/vn-11110103-7r98o-lo6v85c63hg1b3",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.16000051700223109.mp4",
+            "duration": 4400,
+            "mms_ext": "{\"vid\":\"vn-11110103-6ke16-lo6v82qxvkdz28\",\"biz\":103,\"duration\":4400,\"create_time\":1700223107,\"serviceID\":6,\"cover\":\"https://down-bs-sg.img.susercontent.com/vn-11110103-7r98o-lo6v85c63hg1b3\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.16000051700223109.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.16000051700223109.mp4\",\"width\":360,\"height\":640,\"bitrate\":241297,\"size\":190139,\"fps\":25.22936,\"duration\":4388,\"update_time\":1700223110}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":258605,\"size\":216280,\"fps\":25.22936,\"duration\":4394,\"update_time\":1700223120},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.16003081700766745.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.16003081700766745.mp4\",\"width\":360,\"height\":640,\"bitrate\":176132,\"size\":174128,\"fps\":25.22936,\"duration\":4388,\"update_time\":1700766747}]},\"ab_test\":\"\"}",
+            "cover_image_id": "",
+            "highlight": {
+              "id": "vn-11110103-6ke16-lo6v82qxvkdz28",
+              "cover": "https://down-bs-sg.img.susercontent.com/vn-11110103-7r98o-lo6v85c63hg1b3",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.16000051700223109.mp4",
+              "duration": 4400,
+              "mms_ext": "{\"vid\":\"vn-11110103-6ke16-lo6v82qxvkdz28\",\"biz\":103,\"duration\":4400,\"create_time\":1700223107,\"serviceID\":6,\"cover\":\"https://down-bs-sg.img.susercontent.com/vn-11110103-7r98o-lo6v85c63hg1b3\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.16000051700223109.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.16000051700223109.mp4\",\"width\":360,\"height\":640,\"bitrate\":241297,\"size\":190139,\"fps\":25.22936,\"duration\":4388,\"update_time\":1700223110}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":258605,\"size\":216280,\"fps\":25.22936,\"duration\":4394,\"update_time\":1700223120},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.16003081700766745.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6ke16-lo6v82qxvkdz28.16003081700766745.mp4\",\"width\":360,\"height\":640,\"bitrate\":176132,\"size\":174128,\"fps\":25.22936,\"duration\":4388,\"update_time\":1700766747}]},\"ab_test\":\"\"}",
+              "cover_image_id": ""
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 10510607491,
+            "modelid": 23809957298,
+            "model_name": "Gold",
+            "options": [
+              "Gold"
+            ]
+          }
+        ],
+        "editable_date": 1702815298,
+        "like_count": 33,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7r98o-lo6v7rnptnnb80",
+            "cover_image_id": "vn-11134103-7r98o-lo6v7rnptnnb80"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lo6v7rnovy0n17",
+            "cover_image_id": "vn-11134103-7r98o-lo6v7rnovy0n17"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lo6v7rnpe7ef34",
+            "cover_image_id": "vn-11134103-7r98o-lo6v7rnpe7ef34"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lo6v7rno3uyz4f",
+            "cover_image_id": "vn-11134103-7r98o-lo6v7rno3uyz4f"
+          },
+          {
+            "image_id": "vn-11134103-7r98o-lo6v7rnojawn4c",
+            "cover_image_id": "vn-11134103-7r98o-lo6v7rnojawn4c"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 5068778463,
+        "ctime": 1623560779,
+        "rating": 1,
+        "userid": 29351368,
+        "shopid": 88201679,
+        "comment": "Canh hôm 6.6 dứt được cái deal 23tr7 trả góp 0% ngon lành 🔫 Shopee báo 2 tuần sau có mà 3 ngày hàng đã giao tới siêu lẹ 🔫 Shipper giao hàng cẩn thận lịch sự dễ huông, đóng gói kỹ càng 🔫 Máy xịn mịn khỏi bàn :))",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1730891802,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 0,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "k*****n",
+        "author_portrait": "vn-11134233-7r98o-lv1ztwmybn2yde",
+        "author_shopid": 29349983,
+        "anonymous": true,
+        "images": [
+          "75685fd703723bb10e0285607e07ab39",
+          "2dc84638fcda56515d285770d814f7dd"
+        ],
+        "videos": [
+          {
+            "id": "vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039",
+            "cover": "https://down-tx-sg.vod.susercontent.com/c3/98934353/10321061313/YzMsc2V0OTEtMTUxMDQsMTQwMzk0MTc1NDQzOTAyODczNiwz.jpg",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16000051729372845.mp4",
+            "duration": 8730,
+            "mms_ext": "{\"vid\":\"vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039\",\"biz\":103,\"duration\":8730,\"create_time\":1623560760,\"serviceID\":1,\"cover\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/10321061313/YzMsc2V0OTEtMTUxMDQsMTQwMzk0MTc1NDQzOTAyODczNiwz.jpg\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16000051729372845.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16000051729372845.mp4\",\"width\":640,\"height\":1136,\"bitrate\":638043,\"size\":813254,\"fps\":25,\"duration\":8760,\"update_time\":1729372848}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.default.mp4\",\"width\":540,\"height\":958,\"bitrate\":387029,\"size\":566325,\"fps\":25.11468,\"duration\":8746,\"update_time\":1706782550},\"extend_formats\":{\"H265\":[{\"format\":1600304,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003041684077421.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003041684077421.mp4\",\"width\":480,\"height\":852,\"bitrate\":323620,\"size\":469400,\"fps\":25.11468,\"duration\":8720,\"update_time\":1684077430},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003071729372845.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003071729372845.mp4\",\"width\":540,\"height\":958,\"bitrate\":361611,\"size\":513083,\"fps\":25,\"duration\":8760,\"update_time\":1729372852},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003081684076906.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003081684076906.mp4\",\"width\":640,\"height\":1136,\"bitrate\":493212,\"size\":684443,\"fps\":25.11468,\"duration\":8720,\"update_time\":1684076917}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7qvdb-lg5ayzmpreh2f6",
+            "highlight": {
+              "id": "vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039",
+              "cover": "https://down-tx-sg.vod.susercontent.com/c3/98934353/10321061313/YzMsc2V0OTEtMTUxMDQsMTQwMzk0MTc1NDQzOTAyODczNiwz.jpg",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16000051729372845.mp4",
+              "duration": 8730,
+              "mms_ext": "{\"vid\":\"vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039\",\"biz\":103,\"duration\":8730,\"create_time\":1623560760,\"serviceID\":1,\"cover\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/10321061313/YzMsc2V0OTEtMTUxMDQsMTQwMzk0MTc1NDQzOTAyODczNiwz.jpg\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16000051729372845.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16000051729372845.mp4\",\"width\":640,\"height\":1136,\"bitrate\":638043,\"size\":813254,\"fps\":25,\"duration\":8760,\"update_time\":1729372848}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.default.mp4\",\"width\":540,\"height\":958,\"bitrate\":387029,\"size\":566325,\"fps\":25.11468,\"duration\":8746,\"update_time\":1706782550},\"extend_formats\":{\"H265\":[{\"format\":1600304,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003041684077421.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003041684077421.mp4\",\"width\":480,\"height\":852,\"bitrate\":323620,\"size\":469400,\"fps\":25.11468,\"duration\":8720,\"update_time\":1684077430},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003071729372845.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003071729372845.mp4\",\"width\":540,\"height\":958,\"bitrate\":361611,\"size\":513083,\"fps\":25,\"duration\":8760,\"update_time\":1729372852},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003081684076906.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_7cd4ab78-b59b-4d63-9c10-340a3dfa0bd5_000039.16003081684076906.mp4\",\"width\":640,\"height\":1136,\"bitrate\":493212,\"size\":684443,\"fps\":25.11468,\"duration\":8720,\"update_time\":1684076917}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7qvdb-lg5ayzmpreh2f6"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 2625856188,
+            "modelid": 23809957300,
+            "model_name": "Space Gray",
+            "options": [
+              "Space Gray"
+            ]
+          }
+        ],
+        "editable_date": 1626152779,
+        "like_count": 40,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "75685fd703723bb10e0285607e07ab39",
+            "cover_image_id": "75685fd703723bb10e0285607e07ab39"
+          },
+          {
+            "image_id": "2dc84638fcda56515d285770d814f7dd",
+            "cover_image_id": "2dc84638fcda56515d285770d814f7dd"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 6752432758,
+        "ctime": 1638186223,
+        "rating": 1,
+        "userid": 324063018,
+        "shopid": 88201679,
+        "comment": "u la choi thích lắm luôn á giao siêu nhanh luôn 2 ngày là có rồi ý sản phẩm quá ok đóng gói siêu chắc chắn 100/10 ✌🏻✌🏻",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1731561426,
+        "editable": 0,
+        "opt": 2,
+        "filter": 3,
+        "is_hidden": false,
+        "submit_time": 0,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "khbangg__",
+        "author_portrait": "vn-11134233-7r98o-lu7n6x97r2mp2d",
+        "author_shopid": 324043419,
+        "anonymous": false,
+        "images": [
+          "455d1714bc10581fbf5cf32980722a3e",
+          "9dc8dbaa2bfbc02225edd2284e618472",
+          "0e294b9e2eaa77ebc99d05e388e8154b"
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 3108128590,
+            "modelid": 23809957299,
+            "model_name": "Silver",
+            "options": [
+              "Silver"
+            ]
+          }
+        ],
+        "like_count": 15,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "455d1714bc10581fbf5cf32980722a3e",
+            "cover_image_id": "455d1714bc10581fbf5cf32980722a3e"
+          },
+          {
+            "image_id": "9dc8dbaa2bfbc02225edd2284e618472",
+            "cover_image_id": "9dc8dbaa2bfbc02225edd2284e618472"
+          },
+          {
+            "image_id": "0e294b9e2eaa77ebc99d05e388e8154b",
+            "cover_image_id": "0e294b9e2eaa77ebc99d05e388e8154b"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 11459210085,
+        "ctime": 1683655958,
+        "rating": 1,
+        "userid": 60269961,
+        "shopid": 88201679,
+        "comment": "Chất lượng sản phẩm:good\nTính năng nổi bật:lướt web\n\nShop đóng gói cực kỳ chắc chắn, giao hàng nhanh cực , 4 ngày từ kho bắc Ninh-HN. Màu gold ngoài đẹp hơn trong ảnh nhiều nó nghiêng về hồng . Vì m chụp tối nên hơi dìm tý. Săn sale 5/5 giá hời hơn ngoài ch đc gần 1tr. Loa ổn. Bàn phím thì m gõ vẫn ổn chưa lỗi gì cả.\nNói chung nhận về là cực chim ưng rùi. Giờ chỉ còn xem sau tg sd nó ntn nữa thôi.",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1727258070,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 0,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "a*****g",
+        "author_portrait": "vn-11134233-7ras8-m0ugscbd2v7z87",
+        "author_shopid": 60268528,
+        "anonymous": true,
+        "images": [
+          "vn-11134103-7qukw-lgl6ewa1ydpzce",
+          "vn-11134103-7qukw-lgl6ewa1zsaf54"
+        ],
+        "videos": [
+          {
+            "id": "vn-11110103-6jrnm-lgl6e6ppd793a6",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-23050-8ie5rskogvqvb0",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.16000051683655454.mp4",
+            "duration": 5669,
+            "mms_ext": "{\"vid\":\"vn-11110103-6jrnm-lgl6e6ppd793a6\",\"biz\":103,\"duration\":5669,\"create_time\":1683655451,\"serviceID\":2,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-23050-8ie5rskogvqvb0\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.16000051683655454.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.16000051683655454.mp4\",\"width\":640,\"height\":1138,\"bitrate\":693685,\"size\":563926,\"fps\":25.17731,\"duration\":5665,\"update_time\":1683655457}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":506847,\"size\":412276,\"fps\":25,\"duration\":5679,\"update_time\":1732563798},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.16003081683655458.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.16003081683655458.mp4\",\"width\":640,\"height\":1138,\"bitrate\":758487,\"size\":619921,\"fps\":25.17731,\"duration\":5639,\"update_time\":1683655467}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7qvem-lgnyxbivgwtfe4",
+            "highlight": {
+              "id": "vn-11110103-6jrnm-lgl6e6ppd793a6",
+              "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-23050-8ie5rskogvqvb0",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.16000051683655454.mp4",
+              "duration": 5669,
+              "mms_ext": "{\"vid\":\"vn-11110103-6jrnm-lgl6e6ppd793a6\",\"biz\":103,\"duration\":5669,\"create_time\":1683655451,\"serviceID\":2,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-23050-8ie5rskogvqvb0\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.16000051683655454.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.16000051683655454.mp4\",\"width\":640,\"height\":1138,\"bitrate\":693685,\"size\":563926,\"fps\":25.17731,\"duration\":5665,\"update_time\":1683655457}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":506847,\"size\":412276,\"fps\":25,\"duration\":5679,\"update_time\":1732563798},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.16003081683655458.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnm-lgl6e6ppd793a6.16003081683655458.mp4\",\"width\":640,\"height\":1138,\"bitrate\":758487,\"size\":619921,\"fps\":25.17731,\"duration\":5639,\"update_time\":1683655467}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7qvem-lgnyxbivgwtfe4"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "[Nhập ELAP555 giảm 5% tối đa 1 triệu] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 10031040047,
+            "modelid": 23809957298,
+            "model_name": "Gold",
+            "options": [
+              "Gold"
+            ]
+          }
+        ],
+        "editable_date": 1686247958,
+        "like_count": 19,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "template_tags": [
+          "Chất lượng sản phẩm",
+          "Tính năng nổi bật"
+        ],
+        "has_template_tag": true,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "vn-11134103-7qukw-lgl6ewa1ydpzce",
+            "cover_image_id": "vn-11134103-7qukw-lgl6ewa1ydpzce"
+          },
+          {
+            "image_id": "vn-11134103-7qukw-lgl6ewa1zsaf54",
+            "cover_image_id": "vn-11134103-7qukw-lgl6ewa1zsaf54"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 7230291306,
+        "ctime": 1642311819,
+        "rating": 1,
+        "userid": 160622234,
+        "shopid": 88201679,
+        "comment": "lần đầu tiên mua hàng giá trị lớn như vầy nên rất sợ,nma của gian apple chính hãng nên yên tâm ❤️ nhân viên nhiệt tình,mình dùng máy được 2 tuần rồi,rất ổn áp ạ ☺️",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1731594208,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 0,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "tom_2612",
+        "author_portrait": "f2b3c8c361f1ea4b6b3465e1fe82cecf",
+        "author_shopid": 160620160,
+        "anonymous": false,
+        "images": [
+          "a0725934a82813b18f066f56cf7ae601"
+        ],
+        "videos": [
+          {
+            "id": "vn_c6fc8636-cfb3-4d80-8563-907109e65cda_000111",
+            "cover": "https://down-tx-sg.img.susercontent.com/vn-11110103-22120-w3jeq9wttxkvaf",
+            "url": "https://down-tx-sg.vod.susercontent.com/c3/98934353/103/Anoy28EASHWmhfkhvgELFu1G.mp4",
+            "duration": 26375,
+            "mms_ext": "{\"vid\":\"vn_c6fc8636-cfb3-4d80-8563-907109e65cda_000111\",\"biz\":103,\"duration\":26375,\"create_time\":1642311806,\"serviceID\":2,\"cover\":\"https://down-tx-sg.img.susercontent.com/vn-11110103-22120-w3jeq9wttxkvaf\",\"cover_list\":null,\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/103/Anoy28EASHWmhfkhvgELFu1G.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/c3/98934353/103/Anoy28EASHWmhfkhvgELFu1G.mp4\",\"width\":640,\"height\":358,\"bitrate\":857246,\"size\":3004118,\"fps\":24,\"duration\":26375,\"update_time\":1642311818}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_c6fc8636-cfb3-4d80-8563-907109e65cda_000111.default.mp4\",\"width\":640,\"height\":358,\"bitrate\":466552,\"size\":1836698,\"fps\":25.03805,\"duration\":26283,\"update_time\":1713469079},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_c6fc8636-cfb3-4d80-8563-907109e65cda_000111.16003081683659113.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_c6fc8636-cfb3-4d80-8563-907109e65cda_000111.16003081683659113.mp4\",\"width\":640,\"height\":358,\"bitrate\":306727,\"size\":1316742,\"fps\":25.03805,\"duration\":26280,\"update_time\":1683659131}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7qvg6-lg49de8dc268cc",
+            "highlight": {
+              "id": "sg-11110160-6ke14-lky098jek2eg83",
+              "cover": "https://down-aka-sg.vod.susercontent.com/c3/98934353/160/A3oyOaacAFQNMN4oEd0FACc.jpg",
+              "url": "https://down-aka-sg.vod.susercontent.com/c3/98934353/160/A3oyOe7tAJQMMN4oEdoGACc.mp4",
+              "duration": 3000,
+              "mms_ext": "{\"vid\":\"sg-11110160-6ke14-lky098jek2eg83\",\"biz\":103,\"duration\":3000,\"create_time\":1693120228,\"serviceID\":6,\"cover\":\"https://down-aka-sg.vod.susercontent.com/c3/98934353/160/A3oyOaacAFQNMN4oEd0FACc.jpg\",\"cover_list\":null,\"formats\":[],\"default_format\":{\"format\":600001,\"defn\":\"ORI\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://down-aka-sg.vod.susercontent.com/c3/98934353/160/A3oyOe7tAJQMMN4oEdoGACc.mp4\",\"width\":250,\"height\":250,\"bitrate\":178056,\"size\":68510,\"fps\":25,\"duration\":3000,\"update_time\":1693120230},\"extend_formats\":{\"H265\":[{\"format\":1600305,\"defn\":\"V270P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110160/mms/sg-11110160-6ke14-lky098jek2eg83.16003051693149038.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110160/mms/sg-11110160-6ke14-lky098jek2eg83.16003051693149038.mp4\",\"width\":250,\"height\":250,\"bitrate\":71143,\"size\":30628,\"fps\":25.33784,\"duration\":2960,\"update_time\":1693120231}]},\"ab_test\":\"\"}",
+              "cover_image_id": ""
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 3212933926,
+            "modelid": 23809957298,
+            "model_name": "Gold",
+            "options": [
+              "Gold"
+            ]
+          }
+        ],
+        "editable_date": 1644903819,
+        "like_count": 60,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "a0725934a82813b18f066f56cf7ae601",
+            "cover_image_id": "a0725934a82813b18f066f56cf7ae601"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      },
+      {
+        "orderid": 0,
+        "itemid": 5873954476,
+        "cmtid": 3990579954,
+        "ctime": 1612284462,
+        "rating": 1,
+        "userid": 2361113,
+        "shopid": 88201679,
+        "comment": "Hàng chính hãng, đóng gói rất cẩn thận,máy nguyên seal nha mng, mà ship nhanh thần tốc, giá lại rất ổn so với fpt hay đmx. \nSorry mọi người vì cái vid không liên quan. ",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1719823214,
+        "editable": 0,
+        "opt": 2,
+        "filter": 7,
+        "is_hidden": false,
+        "submit_time": 0,
+        "origin_itemid": 0,
+        "origin_shopid": 0,
+        "author_username": "ngocdung010788",
+        "author_portrait": "137fdd6f30cc21f604a3e294119e3019",
+        "author_shopid": 2359834,
+        "anonymous": false,
+        "images": [
+          "3cd48e27e188bd9b3e95ca4f6124cb59",
+          "c6979d30b5617c759d711fea7ff28eac",
+          "e85fd9df67936610b4997777282653a1",
+          "510e5174ffb56a34569d30c7498c4ef7"
+        ],
+        "videos": [
+          {
+            "id": "vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014",
+            "cover": "https://down-tx-sg.vod.susercontent.com/c4/98934353/10321072321/YzQsMTU0LTQxODA0LDE0MTg1NzE0MzA2MjIxMDk2OTYsMw.jpg",
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.default.mp4",
+            "duration": 5500,
+            "mms_ext": "{\"vid\":\"vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014\",\"biz\":103,\"duration\":5500,\"create_time\":1612284340,\"serviceID\":1,\"cover\":\"https://down-tx-sg.vod.susercontent.com/c4/98934353/10321072321/YzQsMTU0LTQxODA0LDE0MTg1NzE0MzA2MjIxMDk2OTYsMw.jpg\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.default.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.default.mp4\",\"width\":540,\"height\":958,\"bitrate\":426666,\"size\":380148,\"fps\":25.18382,\"duration\":5482,\"update_time\":1707050920}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.default.mp4\",\"width\":540,\"height\":958,\"bitrate\":426666,\"size\":380148,\"fps\":25.18382,\"duration\":5482,\"update_time\":1707050920},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.16003081684908970.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.16003081684908970.mp4\",\"width\":640,\"height\":1136,\"bitrate\":685414,\"size\":558357,\"fps\":25.18382,\"duration\":5440,\"update_time\":1684908978}]},\"ab_test\":\"\"}",
+            "cover_image_id": "sg-11134206-7qve8-lg2i41nrtte6ea",
+            "highlight": {
+              "id": "vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014",
+              "cover": "https://down-tx-sg.vod.susercontent.com/c4/98934353/10321072321/YzQsMTU0LTQxODA0LDE0MTg1NzE0MzA2MjIxMDk2OTYsMw.jpg",
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.default.mp4",
+              "duration": 5500,
+              "mms_ext": "{\"vid\":\"vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014\",\"biz\":103,\"duration\":5500,\"create_time\":1612284340,\"serviceID\":1,\"cover\":\"https://down-tx-sg.vod.susercontent.com/c4/98934353/10321072321/YzQsMTU0LTQxODA0LDE0MTg1NzE0MzA2MjIxMDk2OTYsMw.jpg\",\"cover_list\":null,\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.default.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.default.mp4\",\"width\":540,\"height\":958,\"bitrate\":426666,\"size\":380148,\"fps\":25.18382,\"duration\":5482,\"update_time\":1707050920}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.default.mp4\",\"width\":540,\"height\":958,\"bitrate\":426666,\"size\":380148,\"fps\":25.18382,\"duration\":5482,\"update_time\":1707050920},\"extend_formats\":{\"H265\":[{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.16003081684908970.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110103/mms/vn_5db8c125-75ca-434a-936b-cdb1f93ab72d_000014.16003081684908970.mp4\",\"width\":640,\"height\":1136,\"bitrate\":685414,\"size\":558357,\"fps\":25.18382,\"duration\":5440,\"update_time\":1684908978}]},\"ab_test\":\"\"}",
+              "cover_image_id": "sg-11134206-7qve8-lg2i41nrtte6ea"
+            }
+          }
+        ],
+        "product_items": [
+          {
+            "itemid": 5873954476,
+            "shopid": 88201679,
+            "name": "Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+            "image": "575e04c0e1d08b5f1b9f624a8d6b1419",
+            "is_snapshot": 1,
+            "snapshotid": 2314110717,
+            "modelid": 23809957298,
+            "model_name": "Gold",
+            "options": [
+              "Gold"
+            ]
+          }
+        ],
+        "editable_date": 1614876462,
+        "like_count": 18,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "vn"
+        },
+        "is_repeated_purchase": false,
+        "display_variation_filter": true,
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "size_info_abt": "",
+        "image_data": [
+          {
+            "image_id": "3cd48e27e188bd9b3e95ca4f6124cb59",
+            "cover_image_id": "3cd48e27e188bd9b3e95ca4f6124cb59"
+          },
+          {
+            "image_id": "c6979d30b5617c759d711fea7ff28eac",
+            "cover_image_id": "c6979d30b5617c759d711fea7ff28eac"
+          },
+          {
+            "image_id": "e85fd9df67936610b4997777282653a1",
+            "cover_image_id": "e85fd9df67936610b4997777282653a1"
+          },
+          {
+            "image_id": "510e5174ffb56a34569d30c7498c4ef7",
+            "cover_image_id": "510e5174ffb56a34569d30c7498c4ef7"
+          }
+        ],
+        "key_media": {
+          "key_media_code": 0,
+          "key_media_id": ""
+        },
+        "is_super_review": false,
+        "region": "VN",
+        "original_item_info": {
+          "itemid": 5873954476,
+          "shopid": 88201679,
+          "name": "Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",
+          "image": "575e04c0e1d08b5f1b9f624a8d6b1419"
+        },
+        "show_super_review_tag": false,
+        "super_review_status": 0,
+        "review_type": 0,
+        "itemID": "shopee_5873954476"
+      }
+    ],
+    "item_rating_summary": {
+      "rating_total": 2626,
+      "rating_count": [
+        36,
+        8,
+        24,
+        43,
+        2515
+      ],
+      "rcount_with_context": 1346,
+      "rcount_with_image": 803,
+      "rcount_with_media": 914,
+      "rcount_local_review": 2626,
+      "rcount_repeat_purchase": 0,
+      "rcount_overall_fit_small": 0,
+      "rcount_overall_fit_fit": 0,
+      "rcount_overall_fit_large": 0,
+      "rcount_oversea_review": 0,
+      "rcount_folded": 0,
+      "show_size_fitting": false
+    },
+    "is_sip_item": false,
+    "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_default,QUEUE:comment_search_default,NEWABTEST:0,QUEUES:comment_search_default",
+    "downgrade_switch": false,
+    "has_more": true,
+    "show_local_review": false,
+    "browsing_ui": "",
+    "enable_buyer_gallery_media": true,
+    "size_info_abt": "",
+    "resize_image_abt": false,
+    "purchase_bar_abt": "bucket_a",
+    "signature": "",
+    "original_review_summary": {},
+    "fe_review_summary": {}
+  },
+  "id": "5873954476"
+}
